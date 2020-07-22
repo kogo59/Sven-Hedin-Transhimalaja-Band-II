@@ -16,11 +16,11 @@
 195. [Einwohner des Dorfes Govo.](ch003.xhtml#b0008_195)
 196. [Der vereiste Fluß oberhalb Tschomo-sumdo.](ch003.xhtml#b0008_196)
 197. [Eremitengrotte in der Nähe des Tschang-la-Pod-la.](ch003.xhtml#b0008_197)
-198. Das erste Lager nordwestlich vom Tschang-la-Pod-la.
-199. Tschomo-utschong von Osten.
-200. Landschaft am oberen Raga-tsangpo.
-201. Mann aus Largäp.
-202. Der zwölfjährige Prior von Langbo-nan, Skizzen des Verfassers
+198. [Das erste Lager nordwestlich vom Tschang-la-Pod-la.](ch004.xhtml#b0016_198)
+199. [Tschomo-utschong von Osten.](ch004.xhtml#b0016_199)
+200. [Landschaft am oberen Raga-tsangpo.](ch004.xhtml#b0016_200)
+201. [Mann aus Largäp.](ch004.xhtml#b0016_201)
+202. [Der zwölfjährige Prior von Langbo-nan.](ch004.xhtml#b0016_202) Skizzen des Verfassers
 203. 204. Nomaden aus Largäp.
 205. Tibetischer Knabe.
 206. Bettellama mit Flöte aus Menschenknochen und Trommel aus menschlicher Hirnschale. Skizzen des Verfassers.

@@ -298,8 +298,8 @@ Bergkette des Nien-tschen-tang-la sich bis hierhin erstreckt! Immer
 lebhafter wurde nun mein Wunsch, ihr Schritt für Schritt nach Westen
 folgen zu dürfen.
 
-Nachdem wir am Passe gelagert hatten (Abb. 198), wo die Nachtkälte
-auf -23 Grad sank, ritten wir am 22. April langsam im Tal
+Nachdem wir am Passe gelagert hatten ([Abb. 198](ch004.xhtml#b0016_198)), wo die
+Nachtkälte auf -23 Grad sank, ritten wir am 22. April langsam im Tal
 des Schak-tschu-Flusses abwärts, das allmählich breiter wird und von
 flachen, abgerundeten Bergen umgeben ist, in denen anstehendes Gestein
 selten vorkommt. Wieder sehen wir uns aus dem Berglabyrinth, das
@@ -467,7 +467,7 @@ Versehen hineinspaziert wären. Ein schmunzelnder Jüngling rauchte seine
 chinesische Mittagspfeife, während sein Nachbar eifrig, aber vorsichtig in
 seinem Pelz nach verdächtigen Einwohnern suchte.
 
-Ich zeichnete mehrere von ihnen (Abb. 201, 203, 204, 205), ohne
+Ich zeichnete mehrere von ihnen (Abb. [201](ch004.xhtml#b0016_201), 203, 204, 205), ohne
 die geringste Unruhe zu erregen, im Gegenteil, die Sitzung schien ihnen
 Spaß zu machen und sie lachten aus vollem Halse, wenn sie ihr Konterfei
 erblickten, dessen Ränder sie durch dekorative Abdrücke ihrer mit Butter
