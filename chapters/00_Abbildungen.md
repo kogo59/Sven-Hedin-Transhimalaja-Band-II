@@ -20,16 +20,17 @@
 199. [Tschomo-utschong von Osten.](ch004.xhtml#b0016_199)
 200. [Landschaft am oberen Raga-tsangpo.](ch004.xhtml#b0016_200)
 201. [Mann aus Largäp.](ch004.xhtml#b0016_201)
-202. [Der zwölfjährige Prior von Langbo-nan.](ch004.xhtml#b0016_202) Skizzen des Verfassers
-203. 204. Nomaden aus Largäp.
-205. Tibetischer Knabe.
-206. Bettellama mit Flöte aus Menschenknochen und Trommel aus menschlicher Hirnschale. Skizzen des Verfassers.
-207. Der Targo-gangri südöstlich vom Lager Nr. 150.
-208. Der Targo-gangri von Süden.
-209. Lager Nr. 150 am Fuß des Targo-gangri.
-210. Targo-gangri von einem Hügel beim Lager 150 aus.
-211. Tschomo-utschong-Massiv, vom Kintschung-la aus, 23. Mai 1907.
-212. Kubi-gangri von Lager 201 aus. Skizzen des Verfassers.
+202. [Der zwölfjährige Prior von Langbo-nan.](ch004.xhtml#b00[16_202) Skizzen des Verfassers
+203. [Nomaden aus Largäp.](ch005.xhtml#b0025_203_204)
+204. [Nomaden aus Largäp.](ch005.xhtml#b0025_203_204)
+205. [Tibetischer Knabe.](ch005.xhtml#b0025_205_206)
+206. [Bettellama mit Flöte aus Menschenknochen und Trommel aus menschlicher Hirnschale.](ch005.xhtml#b0025_205_206) Skizzen des Verfassers.
+207. [Der Targo-gangri südöstlich vom Lager Nr. 150.](ch005.xhtml#b0025_207)
+208. [Der Targo-gangri von Süden.](ch005.xhtml#b0025_207)
+209. [Lager Nr. 150 am Fuß des Targo-gangri.](ch005.xhtml#b0025_209)
+210. [Targo-gangri von einem Hügel beim Lager 150 aus.](ch005.xhtml#b0032_210)
+211. [Tschomo-utschong-Massiv, vom Kintschung-la aus, 23. Mai 1907.](ch005.xhtml#b0032_211)
+212. [Kubi-gangri von Lager 201 aus.](ch005.xhtml#b0032_212) Skizzen des Verfassers.
 213. Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte.
 214. Lundup Tserings Heeresmacht.
 215. Der Schuru-tso, im Hintergrund der Targo-gangri.

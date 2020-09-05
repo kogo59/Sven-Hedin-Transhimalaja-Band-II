@@ -40,7 +40,8 @@ Von einer sich scharf abhebenden Doppelterrasse steigen wir schließlich
 in das Tal des Targo-tsangpo hinunter, wo der Fluß sich in mehrere Arme
 geteilt hat, an denen es von Wildgänsen und -enten wimmelt. An den Ufern
 wächst Gebüsch. Auf dem rechten Ufer liegt unser Lager Nr. 150, nicht weit
-vom Fuß des majestätischen Targo-gangri (Abb. 207, 208, 209, 210).
+vom Fuß des majestätischen Targo-gangri (Abb. [207](ch005.xhtml#b0025_207), [208](ch005.xhtml#b0025_208),
+[209](ch005.xhtml#b0025_209), [210](ch005.xhtml#b0032_210)).
 
 So weit sollte ich kommen, aber nicht weiter! Hier erwartete uns
 eine Schar von 20 bis an die Zähne bewaffneten Reitern, die der Gouverneur

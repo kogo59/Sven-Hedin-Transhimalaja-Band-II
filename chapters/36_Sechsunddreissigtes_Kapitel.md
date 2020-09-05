@@ -467,7 +467,7 @@ Versehen hineinspaziert wären. Ein schmunzelnder Jüngling rauchte seine
 chinesische Mittagspfeife, während sein Nachbar eifrig, aber vorsichtig in
 seinem Pelz nach verdächtigen Einwohnern suchte.
 
-Ich zeichnete mehrere von ihnen (Abb. [201](ch004.xhtml#b0016_201), 203, 204, 205), ohne
+Ich zeichnete mehrere von ihnen (Abb. [201](ch004.xhtml#b0016_201), [203](ch005.xhtml#b0025_203_204), [204](ch005.xhtml#b0025_203_204), [205](ch005.xhtml#b0025_205_206)), ohne
 die geringste Unruhe zu erregen, im Gegenteil, die Sitzung schien ihnen
 Spaß zu machen und sie lachten aus vollem Halse, wenn sie ihr Konterfei
 erblickten, dessen Ränder sie durch dekorative Abdrücke ihrer mit Butter
@@ -478,8 +478,8 @@ mich in ihrer Gesellschaft sehr wohl.
 
 Auch ein Bettellama guckte herein; er war auf dem Weg nach dem
 Kailas und wurde schnell noch gezeichnet, zum unbeschreiblichen Vergnügen
-der anderen (Abb. 206). Er trug eine Lanze mit schwarzer Quaste und
-roten Zeuglappen, eine Handtrommel, ein Antilopenhorn, das er zur
+der anderen ([Abb. 206](ch005.xhtml#b0025_205_206)). Er trug eine Lanze mit
+schwarzer Quaste und roten Zeuglappen, eine Handtrommel, ein Antilopenhorn, das er zur
 Verteidigung gegen bissige Hunde gebrauchte, und eine Trompete aus
 Menschenknochen, die er beim Blasen in die eine Mundecke setzte. Es
 machte ihm viel Spaß, Gegenstand der allgemeinen Aufmerksamkeit zu sein,
