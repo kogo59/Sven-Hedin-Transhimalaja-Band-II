@@ -54,8 +54,8 @@ erwarteten unser Kommen. Wenn wir uns gesputet hätten, wäre ich
 ihnen wieder zuvorgekommen! Der eine der beiden Führer war derselbe
 Lundup Tsering, der, wie er mir selber sagte, Dutreuil de Rhins und
 Grenard Halt geboten hatte und auch im Januar mit Hladsche Tsering
-am Ngangtse-tso gewesen war (Abb. 213). Er erzählte, daß Hladsche
-Tsering noch im Amt sei, aber meinetwegen große Unannehmlichkeiten
+am Ngangtse-tso gewesen war ([Abb. 213](ch006.xhtml#b0040_213)). Er erzählte,
+daß Hladsche Tsering noch im Amt sei, aber meinetwegen große Unannehmlichkeiten
 gehabt und dem Devaschung 60 Jambaus, ungefähr 13500 Mark, Strafe
 habe zahlen müssen! Als ich einwandte, daß Hladsche Tsering mir selber
 gesagt habe, er sei so arm, daß er nichts mehr zu verlieren habe,
@@ -250,8 +250,8 @@ hinaufgestürmt. Eine halbe Stunde später hörte ich Pfiffe und Rufe —
 die Leute kamen mit den Ausreißern wieder.
 
 Bevor ich unseren lästigen Freunden Lebewohl sagte, mußten sie
-alle zu Pferde steigen und sich photographieren lassen (Abb. 214). Sie
-trugen weite, dunkelkirschrote Mäntel und hatten im Gegensatz zu den
+alle zu Pferde steigen und sich photographieren lassen ([Abb. 214](ch006.xhtml#b0040_214)).
+Sie trugen weite, dunkelkirschrote Mäntel und hatten im Gegensatz zu den
 barhäuptigen Largäpern eine rote, oft durch armbandähnliche Silberringe
 gezogene Binde um den Scheitel gewunden. Einer hatte einen hohen,
 weißen Hut wie einen abgestumpften Kegel, mit gerader Krempe, eine

@@ -31,8 +31,8 @@
 210. [Targo-gangri von einem Hügel beim Lager 150 aus.](ch005.xhtml#b0032_210)
 211. [Tschomo-utschong-Massiv, vom Kintschung-la aus, 23. Mai 1907.](ch005.xhtml#b0032_211)
 212. [Kubi-gangri von Lager 201 aus.](ch005.xhtml#b0032_212) Skizzen des Verfassers.
-213. Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte.
-214. Lundup Tserings Heeresmacht.
+213. [Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte.](ch006.xhtml#b0040_213)
+214. [Lundup Tserings Heeresmacht.](ch006.xhtml#b0040_213)
 215. Der Schuru-tso, im Hintergrund der Targo-gangri.
 216. Einige meiner Yaks auf dem Angden-la.
 217. Tal in der Nähe des Angdenla.
