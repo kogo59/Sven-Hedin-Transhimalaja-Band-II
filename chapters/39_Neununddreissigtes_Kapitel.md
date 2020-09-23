@@ -204,7 +204,7 @@ beschäftigt waren, zur Hälfte. Es wurde ganz still, die Männer blickten
 einander unschlüssig an. Schukkur Ali brach das drückende Schweigen,
 sprang ins Grab hinein, aus dessen Tiefe die anderen herauskletterten,
 grub die Leiche wieder aus und strich den Kies, so gut es sich machen
-lies, vom Leichentuch herunter. Von Erdschollen, die am Bachufer
+ließ, vom Leichentuch herunter. Von Erdschollen, die am Bachufer
 ausgestochen wurden, errichteten sie nun eine Mauer zum Schutze des Toten,
 füllten dann die äußere Grabkammer mit Sand und Steinen und warfen
 schließlich einen meterhohen Hügel über dem Grabe auf, an dessen Kopf-
@@ -297,7 +297,7 @@ die Kinder des Landes dem Grabe Achtung erweisen sollten. Künftige
 Reisende werden den Stein an seinem Platze finden — wenn die Tibeter
 ihn nicht weggenommen haben!
 
-Am Nachmittag des 3. Juni lies ich Tsering in mein Zelt rufen.
+Am Nachmittag des 3. Juni ließ ich Tsering in mein Zelt rufen.
 Er hatte sich jetzt beruhigt und fand sich in sein Schicksal. Er sollte wie
 bisher mein Koch und mein Leibdiener bleiben, sein Lohn wurde aber
 auf zwanzig Rupien monatlich erhöht; auch sollte diese Erhöhung
@@ -445,7 +445,7 @@ herrlicher Natur verwehten die sorgen mit den Winden des Himmels.
 Täglich rechneten Robert und ich aus, wie lange es noch dauern könne, bis
 Tundup Sonam und Taschi zurückkehrten. Falls die Antwort mit sogenannter
 fliegender chinesischer Post geschickt wurde, mußte sie jeden Augenblick
-eintreffen. Aber die Tage vergingen, und keiner lies von sich hören.
+eintreffen. Aber die Tage vergingen, und keiner ließ von sich hören.
 Eines Tages ritten einige Reiter auf dem Wege nach Westen an unserem
 Lager vorbei; sie erzählten, das sie meine beiden Boten in Kung Guschuks
 Garten in Schigatse gesehen hätten, wußten aber nichts von ihren weiteren
@@ -463,8 +463,8 @@ wir vermißten Muhamed Isa und empfanden eine große Leere nach seinem
 Hinscheiden. Aber das Leben ging seinen ebenen Gang. Wenn die
 Sonne aufgeht, streifen die Dorfweiber umher, um Dung in Körben zu
 sammeln, während die Männer Pferde und Yaks auf die Weide treiben
-(Abb. 219, 220, 224, 225). Man hört sie singen und pfeifen, die Kinder
-schreien und die Hunde bellen. Der blaue Rauch steigt aus den
+(Abb. [219, 220](ch007.xhtml#b0056_219), 224, 225). Man hört sie singen und pfeifen,
+die Kinder schreien und die Hunde bellen. Der blaue Rauch steigt aus den
 Schornsteinen des Dorfes auf oder von den schwarzen Zelten, die zwischen den
 Häusern liegen, von Mauern umgeben. Vom Dach des Saka-gumpa mit
 einer Statue des Padmasambhava bläst der einzige Lama des Klosters
@@ -499,7 +499,7 @@ Am Morgen des 5. kam mein alter Freund, der Gova von
 Ragatasam. Er hatte gehört, das wir in schwieriger Lage seien und erbot
 sich, ein vernünftiges Wort mit Pemba Tsering zu sprechen. Später
 kamen beide in mein Zelt und teilten mir mit, das ich auf dem
-nördlichen Wege nah Njuku ziehen dürfe! Der Gova erhielt für seine
+nördlichen Wege nach Njuku ziehen dürfe! Der Gova erhielt für seine
 Bemühungen eines unserer besten Pferde. Nun hatten wir von unsern
 eigenen Tieren noch sechs, darunter drei Veteranen aus Leh, zwei Pferde
 und einen Maulesel. Am nächsten Abend kam Guffaru zum erstenmal,

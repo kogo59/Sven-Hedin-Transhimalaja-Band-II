@@ -32,13 +32,13 @@
 211. [Tschomo-utschong-Massiv, vom Kintschung-la aus, 23. Mai 1907.](ch005.xhtml#b0032_211)
 212. [Kubi-gangri von Lager 201 aus.](ch005.xhtml#b0032_212) Skizzen des Verfassers.
 213. [Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte.](ch006.xhtml#b0040_213)
-214. [Lundup Tserings Heeresmacht.](ch006.xhtml#b0040_213)
-215. Der Schuru-tso, im Hintergrund der Targo-gangri.
-216. Einige meiner Yaks auf dem Angden-la.
-217. Tal in der Nähe des Angdenla.
-218. Manis beim Dorf Antschok- jung.I_
-219. 220. Mädchen und Knaben von Saka und Tradum.
-221. Der durchschossene Jüngling Ugju.
+214. [Lundup Tserings Heeresmacht.](ch006.xhtml#b0040_214)
+215. [Der Schuru-tso, im Hintergrund der Targo-gangri.](ch007.xhtml#b0049_215)
+216. [Einige meiner Yaks auf dem Angden-la.](ch007.xhtml#b0049_216)
+217. [Tal in der Nähe des Angden-la.](ch007.xhtml#b0049_217)
+218. [Manis beim Dorf Antschok-jung.](ch007.xhtml#b0056_218)
+219. [, 220. Mädchen und Knaben von Saka und Tradum.](ch007.xhtml#b0056_219)
+221. [Der durchschossene Jüngling Ugju.](ch007.xhtml#b0056_221)
 222. Nomade aus Basang. Skizzen des Verfassers.
 223. Weib vom Tschaktak-tsangpo.
 224. Mann aus Saka.

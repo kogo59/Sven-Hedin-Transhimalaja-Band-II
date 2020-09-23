@@ -348,7 +348,7 @@ Karawane direkt nach Saka-dsong gehe. Ich erhielt sogar einen kleinen
 Lokalpaß für den beabsichtigten Abstecher!
 
 Unter anderen Eingeborenen, die mir diesmal Modell saßen (Abb. 222),
-war ein zwanzigjähriger Jüngling namens Ugju (Abb. 221), der vor
+war ein zwanzigjähriger Jüngling namens Ugju ([Abb. 221](ch007.xhtml#b0056_221)), der vor
 einigen Jahren mit Mutter und Geschwistern in einem Tal im Norden
 gewohnt hatte, wo ihr Zelt von Räubern überfallen und ausgeplündert
 worden war. Sie hatten sich tapfer mit Säbeln und Messern verteidigt,

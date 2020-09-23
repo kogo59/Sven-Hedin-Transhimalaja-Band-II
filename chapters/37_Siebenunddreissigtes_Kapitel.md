@@ -334,7 +334,7 @@ aufwacht, versteht er die Situation und kommt uns ebenfalls leise nach.
 Endlich erwacht auch Robert und findet sich zu seiner Überraschung allein
 und verlassen — holt uns aber dann bald auf seinem Maulesel ein.
 
-Jetzt haben wir den See unmittelbar zur Rechten (Abb. 215). Im
+Jetzt haben wir den See unmittelbar zur Rechten ([Abb. 215](ch007.xhtml#b0049_215)). Im
 Süden zeichnet sich ein großartiges Gebirge ab, eine der höchsten Ketten des
 Transhimalaja, rabenschwarz unter der Sonne, aber die Firnfelder glitzern
 in metallischem Glanz. Um die Ufer stehen bedeutende Terrassen, die Täler,
@@ -394,8 +394,8 @@ orientierende Aussicht über den großen Schuru-tso, der länglich und im
 Westen konvex ist. Am nächsten Tag überschritten wir den Paß Bän-la
 bei Südweststurm. Es wehte und stürmte Tag und Nacht, aber die
 Luft blieb vollkommen klar. Am 6. ritten wir auf steilem Weg nach
-dem Angden-la hinauf (Abb. 216, 217). In dem ziemlich tiefen
-Schnee und dem anstrengenden Schutt kommen die Pferde nur Schritt
+dem Angden-la hinauf (Abb. [216](ch007.xhtml#b0049_216), [217](ch007.xhtml#b0049_217)).
+In dem ziemlich tiefen Schnee und dem anstrengenden Schutt kommen die Pferde nur Schritt
 für Schritt vorwärts, müssen oft haltmachen und sich ausruhen. Tsering
 reitet mit seiner Yakkompanie an uns vorbei, unten im Tal sind vier
 Ladakis zurückgeblieben — wegen wütender Kopfschmerzen. Droben auf
@@ -467,7 +467,7 @@ Die Ebene heißt Amtschhok-tang, über ihren Boden ziehen wir
 am Hauptfluß entlang. Amtschok-jung ist ein Dorf von fünf Zelten,
 wo einige hübsche Manis stehen, die mit Yakschädeln, Antilopengehörnen
 und Sandsteinplatten bedeckt, einen Meter lang und von regelmäßiger,
-rechtwinkeliger Form sind (Abb. 218). Die Bewohner des Dorfes
+rechtwinkeliger Form sind ([Abb. 218](ch007.xhtml#b0056_218)). Die Bewohner des Dorfes
 verschwanden furchtsam wie mit einem Zauberschlag; nur ein alter Mann
 leistete uns Gesellschaft, als wir uns zwei der Zelte besahen. Als wir
 aber weiterritten, krochen die Leute wieder hinter Dunghaufen, Erdhügeln
