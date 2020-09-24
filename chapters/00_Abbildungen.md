@@ -39,14 +39,14 @@
 218. [Manis beim Dorf Antschok-jung.](ch007.xhtml#b0056_218)
 219. [, 220. Mädchen und Knaben von Saka und Tradum.](ch007.xhtml#b0056_219)
 221. [Der durchschossene Jüngling Ugju.](ch007.xhtml#b0056_221)
-222. Nomade aus Basang. Skizzen des Verfassers.
-223. Weib vom Tschaktak-tsangpo.
-224. Mann aus Saka.
-225. Lama in Saka-dsong. Skizzen des Verfassers.
-226. Nomade von der Mündung des Tschaktak-tsangpo in den Brahmaputra.
-227. Mädchen in Pasa-guk.
-228. Weib in Njuku.
-229. Der Gova von Tuksum. Skizzen des Verfassers.
+222. [Nomade aus Basang.](ch007.xhtml#b0056_221) Skizzen des Verfassers.
+223. [Weib vom Tschaktak-tsangpo.](ch008.xhtml#b0064_223)
+224. [Mann aus Saka.](ch008.xhtml#b0064_224)
+225. [Lama in Saka-dsong.](ch008.xhtml#b0064_225) Skizzen des Verfassers.
+226. [Nomade von der Mündung des Tschaktak-tsangpo in den Brahmaputra.](ch008.xhtml#b0064_226)
+227. [Mädchen in Pasa-guk.](ch008.xhtml#b0064_227)
+228. [Weib in Njuku.](ch008.xhtml#b0064_228)
+229. [Der Gova von Tuksum.](ch008.xhtml#b0064_229) Skizzen des Verfassers.
 230. Der tote Muhamed Isa.
 231. Muhamed Isas Leichenprozession.
 232. 233. Muhamed Isas Bestattung.

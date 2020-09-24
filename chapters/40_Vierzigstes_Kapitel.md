@@ -86,7 +86,7 @@ Kubikmeter Wasser. Am 28. Mai führte er 18,<small>8</small> Kubikmeter,
 den Satschu und andere Nebenflüsse aber nimmt er erst unterhalb des Dorfes
 Pasa-guk auf.
 
-Mitten im Dorf (Abb. 227) war ein Serai mit großen Salzvorräten
+Mitten im Dorf ([Abb. 227](ch008.xhtml#b0064_227)) war ein Serai mit großen Salzvorräten
 in Säcken. Hier wird von Zeit zu Zeit ein Tauschmarkt abgehalten, bei
 dem Salz die Scheidemünze bildet. Ich versuchte, weitere Erkundigungen
 über das Land im Norden einzuziehen, aber als ich die verschiedenen
@@ -173,7 +173,7 @@ Auch das zweite Hündchen starb über Nacht und war am Morgen
 beinahe schon von den Raben verspeist.
 
 Am 12. Juni gelangten wir wieder an die Tasam, und zwar bei
-Njuku (Abb. 228), wo wir das Lager aufschlugen. Der Gova von Njuku,
+Njuku ([Abb. 228](ch008.xhtml#b0064_228)), wo wir das Lager aufschlugen. Der Gova von Njuku,
 dessen Freundschaft ich in Saka-dsong gewonnen hatte, war sehr
 zuvorkommend und meinte, ich könne gern wieder einen Bogen nach Norden
 machen, da ich die Landstraße ja zu verabscheuen schiene. Er werde mich
@@ -435,7 +435,7 @@ des 20. Juni angetreten wurde.
 ::::
 
 :::: {.wrap-100 .break-before }
-![221. Der durchschossene Jüngling Ugju.](Transhimalaja_Band_II_56_221.jpg "Transhimalaja_Band_II_56_221.jpg"){#b0056_221}
+![221. Der durchschossene Jüngling Ugju. 222. Nomade aus Basang. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_56_221.jpg "Transhimalaja_Band_II_56_221.jpg"){#b0056_221}
 ::::
 
 Die erste Nacht sollten wir an dem Punkt lagern, wo der
@@ -545,7 +545,6 @@ Wolke verdeckt, die einem weißen Torpedo glich, von dessen nördlicher
 Spitze sich dann und wann kleine Wolkenflocken loslösen und verflüchtigen.
 In dem Seitental, das ganz in der Nähe der außerordentlich flachen
 Paßschwelle liegt, lagerten wir bei einigen schwarzen Zelten.
-
 
 :::
 

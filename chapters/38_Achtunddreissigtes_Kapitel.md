@@ -347,7 +347,7 @@ merkwürdigerweise bejahend, unter der Bedingung, das die Hauptmasse der
 Karawane direkt nach Saka-dsong gehe. Ich erhielt sogar einen kleinen
 Lokalpaß für den beabsichtigten Abstecher!
 
-Unter anderen Eingeborenen, die mir diesmal Modell saßen (Abb. 222),
+Unter anderen Eingeborenen, die mir diesmal Modell saßen ([Abb. 222](ch007.xhtml#b0056_221)),
 war ein zwanzigjähriger Jüngling namens Ugju ([Abb. 221](ch007.xhtml#b0056_221)), der vor
 einigen Jahren mit Mutter und Geschwistern in einem Tal im Norden
 gewohnt hatte, wo ihr Zelt von Räubern überfallen und ausgeplündert
@@ -434,8 +434,8 @@ Fähre liegt, die Karawanen und Güter zwischen Tsongka-dsong und
 Saka-dsong von einem Ufer nach dem anderen befördert.
 
 Das Lager Nr. 168 war auf der Spitze der Kieszunge zwischen den
-beiden Flüssen aufgeschlagen (Abb. 223, 226). Der Tschaktak-tsangpo
-hatte hier eine Breite von 28,<small>1</small> Meter, eine Maximaltiefe von
+beiden Flüssen aufgeschlagen (Abb. [223](ch008.xhtml#b0064_223), [226](ch008.xhtml#b0064_226)).
+Der Tschaktak-tsangpo hatte hier eine Breite von 28,<small>1</small> Meter, eine Maximaltiefe von
 0,<small>73</small> Meter, eine durchschnittliche Stromgeschwindigkeit von
 1,<small>39</small> Meter und 18,<small>8</small> Kubikmeter Wassermenge
 in der Sekunde. sein Wasser war fast ganz klar und drang infolge der größeren

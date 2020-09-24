@@ -310,7 +310,8 @@ sollte künftig mit zwei anderen im Zelt des Toten wohnen.
 Da ich voraussah, das die Disziplin nicht bleiben würde, wie sie
 zu Muhamed Isas Zeiten gewesen, sprach ich mit den Männern ein
 ernstes Wort. sie hätten Guffaru ebenso blind zu gehorchen wie seinem
-Vorgängdienen. Wenn jemand Zank anfange und ungehorsam sei, werde er
+Vorgänger,sie sollten wie bisher zusammenhalten und mir fernerhin treu dienen.
+Wenn jemand Zank anfange und ungehorsam sei, werde er
 augenblicklich seinen ausstehenden Lohn erhalten und fortgejagt werden
 und könne dann gehen, wohin er wolle. Jetzt, da wir mit gemieteten Yaks reisten,
 könne ich sehr gut die Hälfte der Mannschaft entbehren; es liege daher
@@ -463,7 +464,8 @@ wir vermißten Muhamed Isa und empfanden eine große Leere nach seinem
 Hinscheiden. Aber das Leben ging seinen ebenen Gang. Wenn die
 Sonne aufgeht, streifen die Dorfweiber umher, um Dung in Körben zu
 sammeln, während die Männer Pferde und Yaks auf die Weide treiben
-(Abb. [219, 220](ch007.xhtml#b0056_219), 224, 225). Man hört sie singen und pfeifen,
+(Abb. [219, 220](ch007.xhtml#b0056_219), [224](ch008.xhtml#b0064_224),
+[225](ch008.xhtml#b0064_225)). Man hört sie singen und pfeifen,
 die Kinder schreien und die Hunde bellen. Der blaue Rauch steigt aus den
 Schornsteinen des Dorfes auf oder von den schwarzen Zelten, die zwischen den
 Häusern liegen, von Mauern umgeben. Vom Dach des Saka-gumpa mit
