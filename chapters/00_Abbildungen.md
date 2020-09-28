@@ -47,8 +47,8 @@
 227. [Mädchen in Pasa-guk.](ch008.xhtml#b0064_227)
 228. [Weib in Njuku.](ch008.xhtml#b0064_228)
 229. [Der Gova von Tuksum.](ch008.xhtml#b0064_229) Skizzen des Verfassers.
-230. Der tote Muhamed Isa.
-231. Muhamed Isas Leichenprozession.
+230. [Der tote Muhamed Isa.](ch009.xhtml#b0064_230)
+231. [Muhamed Isas Leichenprozession.](ch009.xhtml#b0064_230)
 232. 233. Muhamed Isas Bestattung.
 234. Muhamed Isas Grabmal.
 235. Aussicht vom Kore-la nach Südwesten.

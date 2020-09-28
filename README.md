@@ -1,4 +1,4 @@
-# Transhimalaja. Erster Band.
+# Transhimalaja. Zweiter Band.
 
 This is a git repository of the source files for the book
 "Transhimalaja von Sven Hedin. Zweiter Band."

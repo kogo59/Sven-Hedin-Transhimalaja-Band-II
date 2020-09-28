@@ -156,7 +156,7 @@ Reise zu nehmen! Über das Leichentuch („Kafan“) hatten sie eine graue
 Filzdecke gewickelt. Der Tote lag jetzt im strahlenden Sonnenschein vor
 dem Zelt auf einer Bahre, die aus den Böden der beiden Bootshälften
 bestand; sie waren aneinandergeschwärt und mit vier Querstangen für die
-Träger versehen worden (Abb. 230).
+Träger versehen worden ([Abb. 230](ch009.xhtml#b0064_230)).
 
 :::: {.wrap-100 .break-before }
 ![213. Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte. Im Hintergrund der Targo-tsangpo und der Targo-gangri.](Transhimalaja_Band_II_40_213.jpg "Transhimalaja_Band_II_40_213.jpg"){#b0040_213}
@@ -177,8 +177,8 @@ nicht mit nach dem Grabe zu kommen. Er war mit Leib und Seele
 Lamaist, und nun quälte ihn der Gedanke, das er seinen Bruder, der
 auf das Paradies der Mohammedaner gehofft, nie wiedersehen werde!
 In der Ferne standen einige Tibeter. Langsam, feierlich und düster
-setzte sich der Zug in Bewegung (Abb. 231). Kein Glockengeläute, keine
-hingestreuten Tannenzweige! Keine Gesänge sprachen von einem
+setzte sich der Zug in Bewegung ([Abb. 231](ch009.xhtml#b0064_231)). Kein
+Glockengeläute, keine hingestreuten Tannenzweige! Keine Gesänge sprachen von einem
 Wiedererwachen jenseits des Tales der Todesschatten. Aber über uns spannte
 der Himmel sein türkisblaues Gewölbe aus, und auf den Seiten hielten
 die hohen, öden Gebirge Wacht. Mit tiefer, klagender Stimme sangen
