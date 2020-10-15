@@ -48,14 +48,15 @@
 228. [Weib in Njuku.](ch008.xhtml#b0064_228)
 229. [Der Gova von Tuksum.](ch008.xhtml#b0064_229) Skizzen des Verfassers.
 230. [Der tote Muhamed Isa.](ch009.xhtml#b0064_230)
-231. [Muhamed Isas Leichenprozession.](ch009.xhtml#b0064_230)
-232. 233. Muhamed Isas Bestattung.
-234. Muhamed Isas Grabmal.
-235. Aussicht vom Kore-la nach Südwesten.
-236. Ein Tschorten bei Lager Nr. 182 in Nepal.
-237. Landschaft im oberen Nepal.
-238. Manihaufen bei Kung-muga.
-239. Weiber im Dorf Namla.
+231. [Muhamed Isas Leichenprozession.](ch009.xhtml#b0064_231)
+232. [Muhamed Isas Bestattung.](ch010.xhtml#b0080_232)
+233. [Muhamed Isas Bestattung.](ch010.xhtml#b0080_233)
+234. [Muhamed Isas Grabmal.](ch010.xhtml#b0080_234)
+235. [Aussicht vom Kore-la nach Südwesten.](ch010.xhtml#b0080_235)
+236. [Ein Tschorten bei Lager Nr. 182 in Nepal.](ch010.xhtml#b0088_236)
+237. [Landschaft im oberen Nepal.](ch010.xhtml#b0088_237)
+238. [Manihaufen bei Kung-muga.](ch010.xhtml#b0088_238)
+239. [Weiber im Dorf Namla.](ch010.xhtml#b0088_239)
 240. Einwohner des Dorfes Namla.
 241. Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum .
 242. Vornehmer Lama in meinem Boot auf dem Tsangpo.

@@ -188,11 +188,11 @@ nehmen, denn Muhamed Isa war groß und schwer.
 
 Endlich schritten wir nach der Kiesterrasse zwischen zwei Quellbächen
 hinauf. Die Bahre wurde am Rand des Grabes niedergesetzt, das noch
-nicht ganz fertig war (Abb. 232). Es war tief, lag in nordsüdlicher
+nicht ganz fertig war ([Abb. 232](ch010.xhtml#b0080_232)). Es war tief, lag in nordsüdlicher
 Richtung und hatte auf der linken Seite einen Einschnitt, eine Nische,
 unter deren Wölbung die Leiche gelegt werden sollte, damit die Erde sie
 nicht drücke, wenn das Grab ausgefüllt worden sei. Vier Männer standen
-im Grabe und nahmen den Toten in Empfang (Abb. 233), der jetzt nur
+im Grabe und nahmen den Toten in Empfang ([Abb. 233](ch010.xhtml#b0080_233)), der jetzt nur
 in dem weißen Leichentuch unter die Wölbung geschoben und dort so
 niedergelegt wurde, das er das Antlitz nach Mekka wandte, dem Ziel der
 sehnsucht aller rechtgläubigen Pilger.
@@ -265,7 +265,7 @@ Tag treppenartig mit ausgestochenen Erdschollen bedeckt, auf der
 Westseite des Grabes neben dem Haupt des Toten aber eine kleine
 Steinplatte eingegraben, auf der vorbeiziehende Mohammedaner einen
 Gebetteppich ausbreiten und für die Ruhe des Verstorbenen beten können
-(Abb. 234). Auf einer Scheibe von Tonschiefer, deren Fläche mit einem
+([Abb. 234](ch010.xhtml#b0080_234)). Auf einer Scheibe von Tonschiefer, deren Fläche mit einem
 Stemmeisen geglättet worden war, ritzte ich mit lateinischen Buchstaben
 in englischer Sprache folgende Inschrift ein:
 

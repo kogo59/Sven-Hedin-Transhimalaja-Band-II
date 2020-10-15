@@ -31,7 +31,7 @@ Nebuk aus der Tiefe der Täler heraufgezogen.
 
 Vergebens schauen wir uns nach der Wasserscheide um; erst an der
 Hand der Rinnsale, die sich vereinigen, um nach Süden zu fließen, finden
-wir sie. Hier zünden wir ein Feuer an, und ich zeichne (Abb. 235) und
+wir sie. Hier zünden wir ein Feuer an, und ich zeichne ([Abb. 235](ch010.xhtml#b0080_235)) und
 messe. Die Aussicht ist staunenerregend, jedenfalls ein Relief, wie wir es
 lange nicht gesehen haben. Wohl sind die mächtigen Schneeberge im Süden,
 die noch gestern die Wolken durchbrachen, jetzt verhüllt, aber unsere Täler
@@ -128,7 +128,7 @@ das dicht bewohnte und reich angebaute Tal friedliches Gepräge, und keine
 Grenzwächter hindern uns am Weiterziehen.
 
 Längs der Straße liegen die gewöhnlichen Manis, und ein großer, roter
-Tschorten oder „Stupa“ hat einen Anflug indischer Bauart (Abb. 236).
+Tschorten oder „Stupa“ hat einen Anflug indischer Bauart ([Abb. 236](ch010.xhtml#b0088_236)).
 Unterhalb dreier, nebeneinander liegender Dörfer verengt sich das Tal ein
 wenig. In der Nähe eines einsamen Gehöftes lagerten wir in einem
 herrlichen Garten mit prachtvoll grünen Bäumen inmitten wogender Kornfelder!
@@ -158,7 +158,7 @@ Rabsang und zwei Tibeter bei mir, und meine Kasse bestand nur aus
 24 Rupien! Der Gedanke, noch einige Tage südwärts durch die tiefen,
 zerklüfteten Täler des Himalaja ziehen zu können, war eine große
 Versuchung. Hier, im Lager Nama-schu, befanden wir uns auf einer Höhe
-von 3806 Meter, und waren also vom Kore-la 855 Meter herabgestiegen (Abb. 237).
+von 3806 Meter, und waren also vom Kore-la 855 Meter herabgestiegen ([Abb. 237](ch010.xhtml#b0088_237)).
 Mit jeder in südlicher Richtung führenden Tagereise
 würden wir in immer dichtere Luft gelangen und waren schon jetzt
 nicht mehr weit von den schattigen Nadelholzwäldern. Aber würde es klug
@@ -248,7 +248,7 @@ haben 3—4 Zentimeter hohe Schriftzeichen, während die allergrößten
 Platz findet. Dann liegen sechs Platten in einer Reihe, um die heilige
 Formel „Om ma-ni pad-me hum“ zu bilden. Auf einigen Opfersteinen
 waren die Schriftzeichen rot und aus runden Granitstücken mit weißem
-Grunde ausgehauen. Das größte Mani war 80 Meter lang (Abb. 238).
+Grunde ausgehauen. Das größte Mani war 80 Meter lang ([Abb. 238](ch010.xhtml#b0088_238)).
 
 Wir ritten an reichen Zeltlagern mit großen Herden vorüber;
 Wildesel grasten neben zahmen Yaks. Alle, die uns begegneten, blieben stehen
@@ -337,11 +337,11 @@ obwohl ein Fremdling, Häuptling der Gegend!
 Am Morgen des 28. ritten wir nach Namla-gumpa auf den
 Felsenvorsprung hinauf, von wo aus die Aussicht ebenso umfassend wie
 lehrreich ist. Am östlichen Fuß des vorspringenden Berges liegt das
-Dorf Namla (Abb. 239, 240), ein paar elende Steinhütten; hier tritt
-der Flus Pung-tschu, der aus dem See Udscham-tso kommt, in die
+Dorf Namla (Abb. [239](ch010.xhtml#b0088_239), 240), ein paar elende Steinhütten;
+hier tritt der Fluss Pung-tschu, der aus dem See Udscham-tso kommt, in die
 Ebene hinaus. Das Kloster hat einige vergoldete Bronzegötter und sieben
 Mönche, von denen ein Sechziger schon 50 Jahre in diesen Mauern
-lebt. sie sind arm und betteln, erhalten aber auch freiwillige Gaben
+lebt. Sie sind arm und betteln, erhalten aber auch freiwillige Gaben
 von den in der Umgegend lebenden Nomaden.
 
 Über eine Ebene von rissigem Lehmboden, die in der Hochwasserzeit
@@ -410,8 +410,8 @@ herab, die ihnen von Nomaden und Wanderern dargebracht werden. Nur
 fünf Mönche und ebenso viele Hunde sind in Gandschu zu Hause.
 
 Die ganze Einwohnerschaft Tuksums kam uns vor dem Dorfe
-entgegen. Mit dem Gova (Abb. 229) wurde vereinbart, das Guffaru und
-die Hauptkarawane nach Schamsang ziehen sollten, während ich mit
+entgegen. Mit dem Gova ([Abb. 229](ch008.xhtml#b0064_229)) wurde vereinbart, daß
+Guffaru und die Hauptkarawane nach Schamsang ziehen sollten, während ich mit
 ein paar Begleitern auf unerlaubten Wegen die Südseite des Flusses
 abstreifte. Am Abend machte mir eine Deputation unserer Ladakis ihre
 Aufwartung, um anzufragen, ob ihnen Muhamed Isa nicht von seinem
