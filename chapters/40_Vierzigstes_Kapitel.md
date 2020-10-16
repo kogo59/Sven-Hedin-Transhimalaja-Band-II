@@ -376,14 +376,14 @@ zu sehen, wie sie sich freuten, wieder bei uns zu sein. sie hatten Muhamed
 Isas Grab gesehen, und die Unterhaltung hierüber rief Tserings Kummer
 wieder wach.
 
-Am 18. Juni zogen wir durch offenes Gelände nach Tradum.
+Am 18. Juni zogen wir durch offenes Gelände nach Tradum,
 wobei wir den Weg auf der nördlichen Talseite nahmen, während die
 Tasam auf der südlichen blieb. Der Boden war sandig. Kleine
 boshafte Bremsen fliegen summend in die Nüstern der Pferde und machen
-sie toll. sie gehen jetzt wie die Wildesel mit dem Maul am Boden,
+sie toll, sie gehen jetzt wie die Wildesel mit dem Maul am Boden,
 um sich vor den Bremsen zu schützen. Rechts liegt der Tuto-pukpa,
-ein Berg, zu dem die Leichen aus Tradum auf Yaks gebracht wer-
-den, um dort zerstückelt zu werden. Wir reiten zwischen Tümpeln, in
+ein Berg, zu dem die Leichen aus Tradum auf Yaks gebracht werden,
+um dort zerstückelt zu werden. Wir reiten zwischen Tümpeln, in
 denen sich Massen von Wildgänsen mit ihren niedlichen, dottergelben
 Jungen aufhalten. An einem Felsenvorsprung sind Steinmale und
 Wimpelstangen errichtet; die Bergwand ist schwarz, aber ihre ganze
@@ -397,7 +397,7 @@ breit zwischen grasbewachsenen Sandterrassen; sie ist die „great trunk
 road“ Tibets.
 
 Wir hatten kaum unser Lager aufgeschlagen, als der entlassene Hadschi
-und seine beiden Begleiter ankamen und uns mit einem „salam“ begrüsten!
+und seine beiden Begleiter ankamen und uns mit einem „salam“ begrüßten!
 Aber ich war böse und jagte sie wieder fort. Nachher hörte ich, daß sie
 geweint hätten; da tat es mir bitterlich leid, das ich unfreundlich gewesen
 war. Nun aber war es zu spät; man hatte sie, als die Abendschatten
@@ -445,8 +445,8 @@ nach Südsüdwesten. Vor uns zeigten sich drei Wanderer mit Bündeln
 auf dem Rücken und Stöcken in den Händen. Als wir sie eingeholt
 hatten, blieben sie stehen und kamen dann heran, um ihre Stirn an
 meine Füße zu legen. Es waren der Hadschi und die beiden anderen!
-Ich war innerlich froh über die Gelegenheit, sie wieder zu Gnaden an-
-nehmen zu können. sie sollten künftig die Yaks begleiten.
+Ich war innerlich froh über die Gelegenheit, sie wieder zu Gnaden
+annehmen zu können. sie sollten künftig die Yaks begleiten.
 
 Auf dem rechten Flußufer am Fuß des Hügels (4565 Meter), auf
 dessen Gipfel die Ruinen des alten Klosters Liktse liegen, war das Lager

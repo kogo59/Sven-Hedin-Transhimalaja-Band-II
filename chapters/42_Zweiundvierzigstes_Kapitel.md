@@ -105,7 +105,7 @@ die immer der großen Straße folgen und über den Marium-la nach
 Toktschen gehen sollte, während ich mit Robert, drei Ladakis und drei
 bewaffneten Tibetern dem Kubi-tsangpo bis an seine Wurzel und Quelle
 nachgehen wollte. Unser Weg führte nach Westsüdwest. Da wo wir,
-eine gute Strecke oberhalb des lezten Deltaarms des Marium-tschu,
+eine gute Strecke oberhalb des letzten Deltaarms des Marium-tschu,
 durch den Tschema-jundung gingen, führte der Fluß wenig mehr als
 4 Kubikmeter Wasser; der südöstlich von ihm fließende Kubi-tsangpo ist
 hier also etwa achtmal größer. An der Furt schlugen unsere Tibeter

@@ -57,10 +57,10 @@
 237. [Landschaft im oberen Nepal.](ch010.xhtml#b0088_237)
 238. [Manihaufen bei Kung-muga.](ch010.xhtml#b0088_238)
 239. [Weiber im Dorf Namla.](ch010.xhtml#b0088_239)
-240. Einwohner des Dorfes Namla.
-241. Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum .
-242. Vornehmer Lama in meinem Boot auf dem Tsangpo.
-243. Weidende Yaks am Südufer des Manasarovar. Im Hintergrund der Gurla Man-data.
+240. [Einwohner des Dorfes Namla.](ch011.xhtml#b0096_240)
+241. [Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum.](ch011.xhtml#b0096_241)
+242. [Vornehmer Lama in meinem Boot auf dem Tsangpo.](ch011.xhtml#b0096_242)
+243. [Weidende Yaks am Südufer des Manasarovar. Im Hintergrund der Gurla Mandatta.](ch011.xhtml#b0096_243)
 244. Hauptmann Cecil Rawling.
 245. Major W. F. O'Connor.
 246. Das Quellgebiet des Brahmaputra. Nach Nain Sing, 1865.

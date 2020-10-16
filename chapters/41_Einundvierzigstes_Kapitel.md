@@ -337,9 +337,9 @@ obwohl ein Fremdling, Häuptling der Gegend!
 Am Morgen des 28. ritten wir nach Namla-gumpa auf den
 Felsenvorsprung hinauf, von wo aus die Aussicht ebenso umfassend wie
 lehrreich ist. Am östlichen Fuß des vorspringenden Berges liegt das
-Dorf Namla (Abb. [239](ch010.xhtml#b0088_239), 240), ein paar elende Steinhütten;
-hier tritt der Fluss Pung-tschu, der aus dem See Udscham-tso kommt, in die
-Ebene hinaus. Das Kloster hat einige vergoldete Bronzegötter und sieben
+Dorf Namla (Abb. [239](ch010.xhtml#b0088_239), [240](ch011.xhtml#b0096_240)), ein
+paar elende Steinhütten; hier tritt der Fluss Pung-tschu, der aus dem See Udscham-tso
+kommt, in die Ebene hinaus. Das Kloster hat einige vergoldete Bronzegötter und sieben
 Mönche, von denen ein Sechziger schon 50 Jahre in diesen Mauern
 lebt. Sie sind arm und betteln, erhalten aber auch freiwillige Gaben
 von den in der Umgegend lebenden Nomaden.
@@ -363,7 +363,7 @@ dem schlüpfrigen Tongrunde aus; beide nahmen ein unerwartetes Bad und
 wir anderen erhielten Veranlassung zu herzlichem Gelächter.
 
 Am nächsten Tag wurde das empfindliche Gepäck mit dem Boote
-hinüberbefördert (Abb. 241), alles übrige auf gemieteten Yaks, die plump
+hinüberbefördert ([Abb. 241](ch011.xhtml#b0096_241)), alles übrige auf gemieteten Yaks, die plump
 und schwarz durch das trübe, grauschmutzige Wasser stampften. Auf dem
 Nordufer ritten wir dann durch eine ungewöhnliche Landschaft. Hier gab
 es Seen und Sümpfe, die aus Flußarmen entstanden sind und in einem
@@ -434,7 +434,7 @@ ritten in südwestlicher Richtung über die Ebene und schlugen das Lager
 191 auf dem linken Ufer des Tsangpo auf, der hier 56 Kubikmeter
 Wasser führte. Am nächsten Morgen wurde das Gepäck hinübergebracht,
 und wir hatten zugleich die Ehre, einem vornehmen Lama, den ich in
-Taschi-lunpo kennen gelernt hatte, über den Fluß zu helfen (Abb. 242).
+Taschi-lunpo kennen gelernt hatte, über den Fluß zu helfen ([Abb. 242](ch011.xhtml#b0096_242)).
 Er trug ein gelbes Gewand mit rotem Mantel und hatte einen kleinen,
 gelben Holzhut, der wie Metall glänzte. seine Diener waren mit Flinten
 und Säbeln bewaffnet und brachten ihr ganzes Gepäck auf Yaks über den
