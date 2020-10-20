@@ -61,9 +61,9 @@
 241. [Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum.](ch011.xhtml#b0096_241)
 242. [Vornehmer Lama in meinem Boot auf dem Tsangpo.](ch011.xhtml#b0096_242)
 243. [Weidende Yaks am Südufer des Manasarovar. Im Hintergrund der Gurla Mandatta.](ch011.xhtml#b0096_243)
-244. Hauptmann Cecil Rawling.
-245. Major W. F. O'Connor.
-246. Das Quellgebiet des Brahmaputra. Nach Nain Sing, 1865.
+244. [Hauptmann Cecil Rawling.](ch012.xhtml#b0104_244)
+245. [Major W. F. O'Connor.](ch012.xhtml#b0104_245)
+246. [Das Quellgebiet des Brahmaputra. Nach Nain Sing, 1865.](ch012.xhtml#b0104_246)
 247. Kartenskizze der Reiseroute von Webber im Jahre 186.
 248. Das Quellgebiet des Brahmaputra. Nach Major Ryder, 1904.
 249, 250, 251. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.

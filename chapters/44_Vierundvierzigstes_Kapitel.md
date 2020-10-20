@@ -94,7 +94,7 @@ hinaufzubringen, werde es auf der anderen Seite in solcher Fahrt
 hinunterrutschen, daß es kentern müsse, und wir würden, da wir den Zorn
 des Seegottes erweckt hätten, in den Wellen umkommen.
 
-Wir ritten nah Südsüdwesten über die Hügel nach Serolung, dem
+Wir ritten nach Südsüdwesten über die Hügel nach Serolung, dem
 goldenen Tal, in dessen Schlucht das Kloster Serolung-gumpa
 versteckt liegt. Dort blieb ich vier Stunden, um Skizzen zu zeichnen und
 Notizen zu machen. Serolung, das 30 Mönche hat, von denen die
