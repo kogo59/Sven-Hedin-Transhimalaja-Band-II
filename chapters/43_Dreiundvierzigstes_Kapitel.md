@@ -138,10 +138,10 @@ war, an kleinen Seen mit klarem, grünem Wasser vorüber und nach dem
 allerhöchsten Punkt ihres Rückens hinauf, wo es nichts gab, was uns
 die Aussicht hätte verdecken können.
 
-Erst nahm ich eine Serie von neun Photographien auf (Abb. 249,
-250, 251). Dann wurde zum Schutz gegen den heftigen Wind ein Mantel
-über das Stativ gehängt und in diesem Schilderhäuschen saß ich beinahe
-vier Stunden lang und zeichnete ein Panorama, das den ganzen Horizont
+Erst nahm ich eine Serie von neun Photographien auf (Abb. [249](ch013.xhtml#b0120_249),
+[250](ch013.xhtml#b0120_250), [251](ch013.xhtml#b0120_251)). Dann wurde zum Schutz
+gegen den heftigen Wind ein Mantel über das Stativ gehängt und in diesem Schilderhäuschen
+saß ich beinahe vier Stunden lang und zeichnete ein Panorama, das den ganzen Horizont
 umfaßte. Unterdessen schnarchten meine Begleiter am Boden, und ich
 freute mich, diesen königlichen Bergriesen von Angesicht zu Angesicht
 allein gegenüber zu sitzen. Der ganze Aufbau ist phantastisch wild, und

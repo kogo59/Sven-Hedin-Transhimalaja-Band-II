@@ -34,7 +34,7 @@ Flusses liegen 100 Kilometer weit vom Gurla^[^0071]^, einem Berg, der mit
 dem Brahmaputra nicht das geringste zu tun hat!
 
 Die politische Expedition, die zu Ende des Jahres 1904 unter
-Rawlings (Abb. 244) Befehl stand, deren Ziel Gartok war und deren
+Rawlings (Abb. [244](ch012.xhtml#b0104_244)) Befehl stand, deren Ziel Gartok war und deren
 Hauptresultat die bewunderungswürdige Karte des oberen
 Brahmaputratales ist, die Ryder und seine Gehilfen aufnahmen, zog
 von Schamsang über den Marium-la und an der Nordseite des Guntschu-tso entlang
@@ -52,8 +52,8 @@ seiner Karte eingetragen habe.
 
 Anstatt mich jetzt auf eine weitläufige Diskussion dieses Problems
 einzulassen, gebe ich hier kleine Skizzen der Karten meiner drei Vorgänger
-Nain Sing, Webber und Ryder (Abb. 246, 247, 248). Kein anderer
-Reisender ist je in dieser Gegend gewesen, ich aber wollte unter keiner
+Nain Sing, Webber und Ryder (Abb. [246](ch012.xhtml#b0104_246), [247](ch012.xhtml#b0104_247), [248](ch012.xhtml#b0104_248)).
+Kein anderer Reisender ist je in dieser Gegend gewesen, ich aber wollte unter keiner
 Bedingung die Gelegenheit versäumen, bis an die wirkliche Quelle des
 Brahmaputra vorzudringen und ihre Lage endgültig festzustellen.
 

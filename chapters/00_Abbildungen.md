@@ -64,9 +64,11 @@
 244. [Hauptmann Cecil Rawling.](ch012.xhtml#b0104_244)
 245. [Major W. F. O'Connor.](ch012.xhtml#b0104_245)
 246. [Das Quellgebiet des Brahmaputra. Nach Nain Sing, 1865.](ch012.xhtml#b0104_246)
-247. Kartenskizze der Reiseroute von Webber im Jahre 186.
-248. Das Quellgebiet des Brahmaputra. Nach Major Ryder, 1904.
-249, 250, 251. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.
+247. [Kartenskizze der Reiseroute von Webber im Jahre 1866.](ch013.xhtml#b0112_247)
+248. [Das Quellgebiet des Brahmaputra. Nach Major Ryder, 1904.](ch013.xhtml#b0112_248)
+249. [Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](ch013.xhtml#b0120_249)
+250. [Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](ch013.xhtml#b0120_250)
+251. [Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](ch013.xhtml#b0120_251)
 252. Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907). Skizze des Verfassers.
 253. Schafschur in Tugu-gumpa am Manasarovar.
 254. Tempelsaal, Lhakang, in Tugu-gumpa. Skizze des Verfassers.

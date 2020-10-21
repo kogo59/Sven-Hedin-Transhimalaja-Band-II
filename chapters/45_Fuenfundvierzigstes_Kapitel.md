@@ -435,6 +435,7 @@ wechselt von Tag zu Tag, je nachdem Niederschläge erfolgen oder die
 Sonne scheint; nur durch gewissenhafte Messungen werde ich von der
 Größe der Wassermasse, die sich während eines Sommertags in die
 klaren Wellen des Tso-mavang ergießt, einen Begriff erhalten können.
+
 :::
 
 :::: align-center
