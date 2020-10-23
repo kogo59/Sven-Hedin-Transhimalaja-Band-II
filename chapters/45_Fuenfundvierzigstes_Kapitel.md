@@ -330,7 +330,7 @@ See und den dahinterliegenden Kailas. An der südlichen Klosterwand
 ist ein von einer Steinmauer umgebener Hof, wo 500 Schafe eng, wie
 Heringe in einer Tonne, standen, um der Reihe nach von Hindus und
 Botias, die aus Almora und dem Grenzland im Süden hierherkommen,
-geschoren zu werden (Abb. 253). Die Nomaden erhalten acht Anna
+geschoren zu werden ([Abb. 253](ch014.xhtml#b0120_253)). Die Nomaden erhalten acht Anna
 (69 Pfennig) für jedes Schaf, also gute Zinsen von ihrem lebenden
 Kapital. Die Wolle, die man von 500 Schafen erhält, soll 16
 Yaklasten ausmachen.
@@ -351,9 +351,9 @@ Sie besitzen Herden in Tschang-tang, treiben Handel und scheinen
 wohlhabend zu sein, wenigstens helfen sie armen Pilgern, die auf ihrer
 Wanderung um den Tso-mavang nichts zu essen haben. Von
 wohlhabenden Pilgern erhalten sie selber Geschenke. Die Tempelsäle sind pittoresk,
-vornehm und sehr gut erhalten (Abb. 254, 255, 257). Von einem oberen
-Altan tritt man in eine Vorhalle mit Wandgemälden, unter denen sich auch
-ein Bild des Tso-mavang mit dem aus den Wellen aufsteigenden
+vornehm und sehr gut erhalten (Abb. [254](ch014.xhtml#b0120_254), 255, 257).
+Von einem oberen Altan tritt man in eine Vorhalle mit Wandgemälden, unter denen
+sich auch ein Bild des Tso-mavang mit dem aus den Wellen aufsteigenden
 „Fischgott“ Madö Gemo befindet. Im Haar hat er sieben Wasserschlangen,
 und sein Unterkörper gleicht einem grünen Delphin. Der See ist ebenso
 breit als tief gezeichnet, und da, wo der Gott emporsteigt, bilden sich

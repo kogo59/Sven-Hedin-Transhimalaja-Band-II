@@ -393,6 +393,10 @@ Brandung zuzuhören.
 ![251. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_251.jpg "Transhimalaja_Band_II_120_251.jpg"){#b0120_251}
 ::::
 
+:::: {.wrap-100 .break-before }
+![252. Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907). Skizze des Verfassers.](Transhimalaja_Band_II_120_252.jpg "Transhimalaja_Band_II_120_251.jpg"){#b0120_252}
+::::
+
 Als das Feuer ordentlich in Brand und es glühend heiß geworden
 war, zogen wir uns splitterfasernackt aus, rangen ein Kleidungsstück nach
 dem anderen aus und hockten dann ans Feuer, um unser Unterzeug zu

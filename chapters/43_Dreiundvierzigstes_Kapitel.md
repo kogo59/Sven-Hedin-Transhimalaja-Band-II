@@ -149,8 +149,8 @@ das einzige Gesetz, das gehorsam befolgt wird, ist, das jeder Gletscher
 von zwei gewaltigen schwarzen Felsenkämmen eingerahmt wird.
 
 Um dem Leser einen Begriff von der Gegend zu geben, füge ich
-hier den Teil des Panoramas bei, der den Kubi-gangri umfaßt (Abb.
-252). In 27°&nbsp;O haben wir den tetraederförmigen Gipfel, den unsere
+hier den Teil des Panoramas bei, der den Kubi-gangri umfaßt ([Abb.252](ch013.xhtml#b0120_249)).
+In 27°&nbsp;O haben wir den tetraederförmigen Gipfel, den unsere
 Führer Ngomo-dingding nannten, In S&nbsp;11°&nbsp;O erhebt sich ein Gipfel
 von beinahe genau derselben Form, der Absi. Östlich von ihm liegt
 also der Ngomo-dingding-Gletscher und auf dessen Westseite der

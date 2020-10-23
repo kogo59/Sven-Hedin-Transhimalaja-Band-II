@@ -69,10 +69,10 @@
 249. [Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](ch013.xhtml#b0120_249)
 250. [Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](ch013.xhtml#b0120_250)
 251. [Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](ch013.xhtml#b0120_251)
-252. Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907). Skizze des Verfassers.
-253. Schafschur in Tugu-gumpa am Manasarovar.
-254. Tempelsaal, Lhakang, in Tugu-gumpa. Skizze des Verfassers.
-|    Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus. Aquarell des Verfassers.
+252. [Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907).](ch013.xhtml#b0120_252) Skizze des Verfassers.
+253. [Schafschur in Tugu-gumpa am Manasarovar.](ch014.xhtml#b0120_253)
+254. [Tempelsaal, Lhakang, in Tugu-gumpa.](ch014.xhtml#b0120_254) Skizze des Verfassers.
++    [Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus.](ch014.xhtml#b0140_000) Aquarell des Verfassers.
 255. Tempelinneres in Tugu-gumpa.
 256. Krypta in Janggo-gumpa. Skizzen des Verfassers.
 257. Tschenresis Bild in Tugu-gumpa.
