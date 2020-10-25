@@ -315,7 +315,7 @@ die Wanderung um den See in orthodoxer Richtung machten: südwärts
 auf dem Ostufer und nordwärts auf dem Westufer.
 
 Drunten waren im Sande noch die Spuren von 120 Yaks zu sehen,
-die am Morgen mit Ziegeltee beladen nah Norden gezogen waren. Ein
+die am Morgen mit Ziegeltee beladen nach Norden gezogen waren. Ein
 alter Hindu, der seine Umwanderung des Sees in derselben Richtung wie
 die Tibeter ausführte, bat, bei uns lagern zu dürfen, weil er sich vor
 Räubern fürchte; wir bewirteten ihn mit Tee, Brot und Tabak, wogegen

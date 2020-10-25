@@ -517,7 +517,7 @@ Wir brachen daher wieder nach Norden auf und zogen durch das
 Takburtal, das sehr reich an Wild, Hasen, Fasanen und Rebhühnern
 war, von denen Tsering einige schoß, und an Füchsen, Murmeltieren
 und Erdmäusen. In der Ferne erblickten wir ein graues, schleichendes
-Tier, das wir für einen Luchs hielten. Auch Kiangs kamen vor und
+Tier, das wir für einen Luchs hielten. Auch Kiangs^[^0039]^ kamen vor und
 traten sehr ungeniert auf. Im Nordwesten, Norden und Nordosten sah
 man vom Takbur-la (5066 Meter) aus gewaltige Schneeberge, die Ryder und
 Wood gemessen hatten. Ebenso wie jene Engländer hielt ich es für gewiß,
@@ -560,3 +560,5 @@ nach dem Abendessen.
 ::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
+
+[^0039]: [*Kiang*: vergleiche [Kiang](https://de.wikipedia.org/wiki/Kiang)]{.footnote}

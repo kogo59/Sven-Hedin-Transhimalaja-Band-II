@@ -37,7 +37,8 @@
 216. [Einige meiner Yaks auf dem Angden-la.](ch007.xhtml#b0049_216)
 217. [Tal in der Nähe des Angden-la.](ch007.xhtml#b0049_217)
 218. [Manis beim Dorf Antschok-jung.](ch007.xhtml#b0056_218)
-219. [, 220. Mädchen und Knaben von Saka und Tradum.](ch007.xhtml#b0056_219)
+219. [Mädchen und Knaben von Saka und Tradum.](ch007.xhtml#b0056_219)
+220. [Mädchen und Knaben von Saka und Tradum.](ch007.xhtml#b0056_219)
 221. [Der durchschossene Jüngling Ugju.](ch007.xhtml#b0056_221)
 222. [Nomade aus Basang.](ch007.xhtml#b0056_221) Skizzen des Verfassers.
 223. [Weib vom Tschaktak-tsangpo.](ch008.xhtml#b0064_223)
@@ -73,16 +74,16 @@
 253. [Schafschur in Tugu-gumpa am Manasarovar.](ch014.xhtml#b0120_253)
 254. [Tempelsaal, Lhakang, in Tugu-gumpa.](ch014.xhtml#b0120_254) Skizze des Verfassers.
 +    [Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus.](ch014.xhtml#b0140_000) Aquarell des Verfassers.
-255. Tempelinneres in Tugu-gumpa.
-256. Krypta in Janggo-gumpa. Skizzen des Verfassers.
-257. Tschenresis Bild in Tugu-gumpa.
-258. Lama mit Gebetstrommel. Skizzen des Verfassers.
+255. [Tempelinneres in Tugu-gumpa.](ch015.xhtml#b0136_255)
+256. [Krypta in Janggo-gumpa.](ch015.xhtml#b0136_256) Skizzen des Verfassers.
+257. [Tschenresis Bild in Tugu-gumpa.](ch015.xhtml#b0136_257)
+258. [Lama mit Gebetstrommel.](ch015.xhtml#b0136_258) Skizzen des Verfassers.
 259. Der Gott des Tso-mavang zu Pferd. Skizze des Verfassers.
 260. Lama vor der Tempelpforte in Tugu-gumpa.
 261. Tempelsaal des Seegottes des Tso-mavang. Skizzen des Verfassers.
 262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar. Zeichnung von T. Macfarlane.
 263. Die alte Nonne in Janggo-guinpa am Manasarovar. Skizze des Verfassers.
-264, Klosternovizen.
+264. Klosternovizen.
 265. Küche in Tschiu-gumpa. Skizzen des Verfassers .
 266. Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund.
 267. Der Kailas hinter Njandi-gumpa.

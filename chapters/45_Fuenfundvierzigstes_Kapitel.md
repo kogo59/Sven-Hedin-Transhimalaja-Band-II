@@ -351,7 +351,7 @@ Sie besitzen Herden in Tschang-tang, treiben Handel und scheinen
 wohlhabend zu sein, wenigstens helfen sie armen Pilgern, die auf ihrer
 Wanderung um den Tso-mavang nichts zu essen haben. Von
 wohlhabenden Pilgern erhalten sie selber Geschenke. Die Tempelsäle sind pittoresk,
-vornehm und sehr gut erhalten (Abb. [254](ch014.xhtml#b0120_254), 255, 257).
+vornehm und sehr gut erhalten (Abb. [254](ch014.xhtml#b0120_254), [255](ch015.xhtml#b0136_255), [257](ch015.xhtml#b0136_257)).
 Von einem oberen Altan tritt man in eine Vorhalle mit Wandgemälden, unter denen
 sich auch ein Bild des Tso-mavang mit dem aus den Wellen aufsteigenden
 „Fischgott“ Madö Gemo befindet. Im Haar hat er sieben Wasserschlangen,
@@ -398,7 +398,7 @@ geben, ob der See seit dem 2. August 1907 wieder gestiegen oder
 gefallen ist.
 
 Die folgenden Tage brachte ich im Kloster zu, zeichnete Lamas bei
-verschiedenartigen Tempeldienstarbeiten (Abb. 258) und verliebte mich
+verschiedenartigen Tempeldienstarbeiten ([Abb. 258](ch015.xhtml#b0136_258)) und verliebte mich
 in dieses freundliche, hübsche Tugu-gumpa. Der Lama Punso, ein
 junger Mönch, wurde mein besonderer Freund und zeigte mir alles mit
 der unerschöpflichen Sachkenntnis eines geübten Museumsdieners. In
@@ -413,7 +413,7 @@ Janggo-gumpa, das zehn Mönche und eine Nonne hat. Sie sagten
 mir, daß sie aus dem Lande Hor, im Norden des innersten Tibet, seien,
 und nennen sich daher Horpa, aber auch Dokpa; Tschangpa heißen die
 Nomaden in Tschang-tang. Der Abt ist aus Sekija-gumpa. Im
-„Gunkang“ des Klosters, einer finsteren, unterirdischen Krypta (Abb. 256),
+„Gunkang“ des Klosters, einer finsteren, unterirdischen Krypta ([Abb. 256](ch015.xhtml#b0136_256)),
 hängen Masken, Kadachs, Trommeln, Speere und Flinten. Ich fragte,
 wozu die Mönche die Schußwaffen benutzten, da ihnen doch eines ihrer
 Fundamentaldogmen verbiete, ein Lebenslicht auszulöschen; sie erwiderten,
