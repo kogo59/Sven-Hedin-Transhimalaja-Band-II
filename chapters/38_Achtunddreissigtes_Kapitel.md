@@ -36,7 +36,7 @@ Maximaltiefe von jämmerlichen 3,<small>66</small> Meter gelotet haben.
 ::::
 
 :::: {.wrap-100 .break-before }
-![205. Tibetischer Knabe. 206. Bettellama mit Flöte aus Menschenknochen und Trommel aus menschlicher Hirnschale.](Transhimalaja_Band_II_25_205_206.jpg "Transhimalaja_Band_II_25_205_206.jpg"){#b0025_205_206}
+![205. Tibetischer Knabe. 206. Bettellama mit Flöte aus Menschenknochen und Trommel aus menschlicher Hirnschale.<small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_25_205_206.jpg "Transhimalaja_Band_II_25_205_206.jpg"){#b0025_205_206}
 ::::
 
 :::: {.wrap-100 .break-before }

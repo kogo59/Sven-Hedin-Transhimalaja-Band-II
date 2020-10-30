@@ -241,7 +241,7 @@ mich jetzt für immer behalten!
 ::::
 
 :::: {.wrap-70 .break-before }
-![256. Krypta in Janggo-gumpa. Skizzen des Verfassers.](Transhimalaja_Band_II_136_256.jpg "Transhimalaja_Band_II_136_256.jpg"){#b0136_256}
+![256. Krypta in Janggo-gumpa. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_136_256.jpg "Transhimalaja_Band_II_136_256.jpg"){#b0136_256}
 ::::
 
 :::: {.wrap-100 .break-before }
@@ -249,7 +249,7 @@ mich jetzt für immer behalten!
 ::::
 
 :::: {.wrap-100 .break-before }
-![258. Lama mit Gebetstrommel. Skizzen des Verfassers.](Transhimalaja_Band_II_136_258.jpg "Transhimalaja_Band_II_136_258.jpg"){#b0136_258}
+![258. Lama mit Gebetstrommel. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_136_258.jpg "Transhimalaja_Band_II_136_258.jpg"){#b0136_258}
 ::::
 
 Aber der Morgen war herrlich, und als wir um ½6 auf den
@@ -370,7 +370,7 @@ geht, auf unterirdischen Wegen nach dem Langak-tso, der niedriger liegt.
 
 Am 22. ruderten wir wieder vom Ufer gerade in den See hinein,
 bis wir eine Stelle mit 41 Meter Tiefe erreicht hatten, und kehrten
-dann, in scharfem günstigem Winde segelnd, nah unserm Ausgangspunkt
+dann, in scharfem günstigem Winde segelnd, nach unserm Ausgangspunkt
 zurück. Es war das letztemal, daß ich das Lot in die heiligen Wellen
 hinabsenkte, fest überzeugt, daß ich es nie wieder tun würde! Denn jetzt
 hatte ich 138 ausgelotete Punkte, die gleichmäßig über den See verteilt
@@ -432,7 +432,7 @@ Teekessel der Pilger gekocht haben. Weiter westlich bilden die Vorsprünge
 eine Reihe Kulissen in heller werdenden Tönen; an jedem dieser
 Vorsprünge öffnet sich eine neue fesselnde Perspektive. Eine Wasserstandsmarke,
 die 1¾ Meter über dem jetzigen Seespiegel liegt, ist sehr deutlich
-erkennbar. Auf den Felsspitzen sitzen regungslos, wie Statuen, nah Beute
+erkennbar. Auf den Felsspitzen sitzen regungslos, wie Statuen, nach Beute
 ausspähende Adler.
 
 Tschärgip-gumpa ist auf einer Terrasse in einer breiten

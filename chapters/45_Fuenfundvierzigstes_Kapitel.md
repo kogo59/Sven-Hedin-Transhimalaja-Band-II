@@ -365,19 +365,19 @@ bewaffnet. Im Hintergrund erhebt sich der Kang-rinpotsche, der heilige Berg.
 Dem Bild fehlt es an Perspektive und Proportion, aber es ist drollig
 und ansprechend, und man freut sich des lamaistischen Künstlers, der sein
 Bestes getan hat, um den heiligen See und den heiligen Berg in Farben
-zu verherrlichen. Ich kopierte dieses Kunstwerk (Abb. 259), dem einige
+zu verherrlichen. Ich kopierte dieses Kunstwerk ([Abb. 259](ch016.xhtml#b0136_259)), dem einige
 Verwandtschaft mit unseren alten Dalmalereien immerhin nicht
 abzustreiten ist.
 
-Von der Vorhalle führt eine Miniaturtür (Abb. 260) in das allerheiligste
+Von der Vorhalle führt eine Miniaturtür ([Abb. 260](ch016.xhtml#b0136_260)) in das allerheiligste
 Tempelnest in ganz Tugu-gumpa, nämlich in den Saal des Seegottes. Er
 ist nur als Maske dargestellt und überall von Kadachs umrahmt;
 es sieht aus, als luge er zwischen zwei Gardinen hervor. Vor ihm
 brennen ein paar Flammen, auf einem Schemeltisch sind die gewöhnlichen
 Schalen aufgestellt. Kein anderer Mensch als die Mönche selber darf in
 diese kleine Kammer hinein, doch erhielt ich die Erlaubnis, auf der
-Schwelle zu sitzen und eine Skizze davon zu zeichnen (Abb. 261). Ich
-betrachtete diesen unbekannten Hlabsen Dortsche Barva beinahe mit
+Schwelle zu sitzen und eine Skizze davon zu zeichnen ([Abb. 261](ch016.xhtml#b0136_261)).
+Ich betrachtete diesen unbekannten Hlabsen Dortsche Barva beinahe mit
 Ehrfurcht, er herrschte ja über den See meiner Sehnsucht und war mir so
 aufrichtig gewogen gewesen.
 
@@ -423,8 +423,8 @@ Ehrenplatz im Kloster erhalten. Jamba Tsering, ein zweiundzwanzigjähriger
 Mönch, saß, das Haupt an eine hölzerne Säule gelehnt, stumm
 da und blickte zu dem spärlichen Licht empor, das durch das Impluvium^[^0101]^
 in die Krypta fiel; ein Träumer, ein Sucher der verborgenen Wahrheit
-(Abb. 262). Neben ihm saß die runzelige Nonne; beide kamen in mein
-Skizzenbuch (Abb. 263). Der Fuß der Klosterfassade liegt genau
+([Abb. 262](ch016.xhtml#b0152_262)). Neben ihm saß die runzelige Nonne; beide kamen in mein
+Skizzenbuch ([Abb. 263](ch016.xhtml#b0152_263)). Der Fuß der Klosterfassade liegt genau
 4,<small>5</small> Meter über dem Seespiegel; der hinter dem Kloster nach dem See
 hinabströmende Fluß Ri-tshung-tschu hatte 1,<small>76</small> Kubikmeter Wasser.
 

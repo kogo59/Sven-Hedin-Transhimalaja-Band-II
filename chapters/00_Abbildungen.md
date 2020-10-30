@@ -78,18 +78,18 @@
 256. [Krypta in Janggo-gumpa.](ch015.xhtml#b0136_256) Skizzen des Verfassers.
 257. [Tschenresis Bild in Tugu-gumpa.](ch015.xhtml#b0136_257)
 258. [Lama mit Gebetstrommel.](ch015.xhtml#b0136_258) Skizzen des Verfassers.
-259. Der Gott des Tso-mavang zu Pferd. Skizze des Verfassers.
-260. Lama vor der Tempelpforte in Tugu-gumpa.
-261. Tempelsaal des Seegottes des Tso-mavang. Skizzen des Verfassers.
-262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar. Zeichnung von T. Macfarlane.
-263. Die alte Nonne in Janggo-guinpa am Manasarovar. Skizze des Verfassers.
+259. [Der Gott des Tso-mavang zu Pferd.](ch016.xhtml#b0136_259) Skizze des Verfassers.
+260. [Lama vor der Tempelpforte in Tugu-gumpa.](ch016.xhtml#b0136_260)
+261. [Tempelsaal des Seegottes des Tso-mavang.](ch016.xhtml#b0136_261) Skizzen des Verfassers.
+262. [Ein Träumer. Lama in Janggo-gumpa am Manasarovar.](ch016.xhtml#b0152_262) Zeichnung von T. Macfarlane.
+263. [Die alte Nonne in Janggo-gumpa am Manasarovar.](ch016.xhtml#b0152_263) Skizze des Verfassers.
 264. Klosternovizen.
 265. Küche in Tschiu-gumpa. Skizzen des Verfassers .
 266. Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund.
 267. Der Kailas hinter Njandi-gumpa.
 268. Bettelnde Pilger.
 269. Der Kailas von Nordwesten. Skizze des Verfassers.
-|    Om mani padme hum. (Kopfleiste)
+|    Om mani padme hum. (Kopfleist3)
 270. Der Kailas von Diri-pu aus.
 271. Vereinigung der beiden Indusarme. Skizzen des Verfassers.
 272. Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas.
