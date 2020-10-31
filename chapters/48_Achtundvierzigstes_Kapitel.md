@@ -197,8 +197,8 @@ gebildet werden. In ihnen hielten sich junge Wildgänse auf, die sich
 nur mühsam vor der braunen Puppy schützen konnten.
 
 Tschiu-gumpa, das fünfte der acht Klöster des Sees, das ich besuchte
-(Abb. 265), ist klein und hat 15 Lamas, die hier auf Lebenszeit eintreten,
-während der Abt alle drei Jahre wechselt. Es besitzt einige Yaks, 500
+([Abb. 265](ch017.xhtml#b0160_265)), ist klein und hat 15 Lamas, die hier auf Lebenszeit
+eintreten, während der Abt alle drei Jahre wechselt. Es besitzt einige Yaks, 500
 Ziegen und 100 Schafe, die zum Salztransport nach Purang benutzt
 werden, wo die Mönche Gerste eintauschen. Ein Mönch, ein zwanzigjähriger
 Jüngling aus Rudok, hieß Tsering Tundup und gehört zu den Tibetern,

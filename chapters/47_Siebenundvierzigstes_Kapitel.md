@@ -50,7 +50,7 @@ die Mönche alle drei Jahre und kommen aus dem Kloster Schibeling^[^0122]^
 in Purang^[^0121]^, von dem sie auch ihren Unterhalt beziehen, hierher. Es
 sind ihrer nur drei, aber ich sah auch vier Novizen, sieben, neun, zehn
 und elf Jahre alt, die so flink wie Mäuse überall umherliefen und die
-Mönche bedienten (Abb. 264). Ihre Mutter, eine Nonne aus Purang,
+Mönche bedienten ([Abb. 264](ch017.xhtml#b0160_264)). Ihre Mutter, eine Nonne aus Purang,
 wohnt auch im Kloster. Sie war verheiratet gewesen, ehe sie „den Schleier
 nahm“, da ihr Mann aber starb, schenkte sie sowohl sich selbst, wie alle
 ihre Kinder der Kirche. Später erfuhr ich, daß der eine „Junge“ ein

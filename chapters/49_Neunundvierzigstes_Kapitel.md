@@ -470,7 +470,7 @@ kriechen zu können! Nie wieder wird mein Fuß ihren friedlichen Strand
 betreten!
 
 :::: {.wrap-60 .break-before }
-![262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar.<small>Nach einer Skizze des Verfassers von T. Macfarlane gezeichnet.</small>](Transhimalaja_Band_II_152_262.jpg "Transhimalaja_Band_II_152_262.jpg"){#b0152_262}
+![262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar. <small>Nach einer Skizze des Verfassers von T. Macfarlane gezeichnet.</small>](Transhimalaja_Band_II_152_262.jpg "Transhimalaja_Band_II_152_262.jpg"){#b0152_262}
 ::::
 
 :::: {.wrap-70 .break-before }

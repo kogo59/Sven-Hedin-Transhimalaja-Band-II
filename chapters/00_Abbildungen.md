@@ -83,9 +83,9 @@
 261. [Tempelsaal des Seegottes des Tso-mavang.](ch016.xhtml#b0136_261) Skizzen des Verfassers.
 262. [Ein Träumer. Lama in Janggo-gumpa am Manasarovar.](ch016.xhtml#b0152_262) Zeichnung von T. Macfarlane.
 263. [Die alte Nonne in Janggo-gumpa am Manasarovar.](ch016.xhtml#b0152_263) Skizze des Verfassers.
-264. Klosternovizen.
-265. Küche in Tschiu-gumpa. Skizzen des Verfassers .
-266. Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund.
+264. [Klosternovizen.](ch017.xhtml#b0160_264)
+265. [Küche in Tschiu-gumpa.](ch017.xhtml#b0160_265) Skizzen des Verfassers .
+266. [Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund.](ch017.xhtml#b0160_266)
 267. Der Kailas hinter Njandi-gumpa.
 268. Bettelnde Pilger.
 269. Der Kailas von Nordwesten. Skizze des Verfassers.
