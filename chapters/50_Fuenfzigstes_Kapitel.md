@@ -293,7 +293,7 @@ bereits über ihn gesagt habe!
 Lang-tschuan-ka-pa-pu ist die chinesische Übertragung des tibetischen
 Langtschen-kabab, das wortgetreu „Quelle des Satledsch“ bedeutet. Wenn
 uns der chinesische Verfasser nun mitteilt, daß „östlich von
-Langtschen-kabab Tamtschok-kabab liegt‘‘, das die Quelle des Flusses Jere-tsangpo
+Langtschen-kabab Tamtschok-kabab liegt“, das die Quelle des Flusses Jere-tsangpo
 (Brahmaputra) ist, so muß man gestehen, daß seine Beschreibung ganz
 genau mit der Wirklichkeit übereinstimmt, wie der erste Europäer in
 dieser Gegend, ich selbst, sie gefunden habe! Denn auf dem Tamlung-la
