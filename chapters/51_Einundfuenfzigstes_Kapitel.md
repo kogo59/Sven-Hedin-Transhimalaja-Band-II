@@ -161,7 +161,7 @@ nun wohl 8 Kubikmeter.
 Ein Mann aus Gertse ist 20 Tage hintereinander um den Berg
 gegangen und hat jetzt gerade seine zehnte Umwanderung hinter sich.
 Dunglung-do ist ein sehr wichtiger Talknoten, drei Täler stoßen hier
-zusammen; das Tschamo-lungtschen fommt von N&nbsp;70°&nbsp;W, das
+zusammen; das Tschamo-lungtschen kommt von N&nbsp;70°&nbsp;W, das
 Dunglung von N&nbsp;5°&nbsp;W; das dritte, das in seinem oberen Teil Hle-lungpa
 heißt, ist das, in dem wir aufwärts ziehen. Wir haben jetzt auf beiden
 Seiten Granit. Der Kailas wendet eine scharfe Kante nach Norden,
