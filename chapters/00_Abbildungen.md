@@ -86,9 +86,9 @@
 264. [Klosternovizen.](ch017.xhtml#b0160_264)
 265. [Küche in Tschiu-gumpa.](ch017.xhtml#b0160_265) Skizzen des Verfassers .
 266. [Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund.](ch017.xhtml#b0160_266)
-267. Der Kailas hinter Njandi-gumpa.
-268. Bettelnde Pilger.
-269. Der Kailas von Nordwesten. Skizze des Verfassers.
+267. [Der Kailas hinter Njandi-gumpa.](ch018.xhtml#b0168_267)
+268. [Bettelnde Pilger.](ch018.xhtml#b0168_268)
+269. [Der Kailas von Nordwesten.](ch018.xhtml#b0168_269) Skizze des Verfassers.
 |    Om mani padme hum. (Kopfleist3)
 270. Der Kailas von Diri-pu aus.
 271. Vereinigung der beiden Indusarme. Skizzen des Verfassers.
