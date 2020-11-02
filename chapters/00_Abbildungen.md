@@ -84,15 +84,15 @@
 262. [Ein Träumer. Lama in Janggo-gumpa am Manasarovar.](ch016.xhtml#b0152_262) Zeichnung von T. Macfarlane.
 263. [Die alte Nonne in Janggo-gumpa am Manasarovar.](ch016.xhtml#b0152_263) Skizze des Verfassers.
 264. [Klosternovizen.](ch017.xhtml#b0160_264)
-265. [Küche in Tschiu-gumpa.](ch017.xhtml#b0160_265) Skizzen des Verfassers .
+265. [Küche in Tschiu-gumpa.](ch017.xhtml#b0160_265) Skizzen des Verfassers.
 266. [Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund.](ch017.xhtml#b0160_266)
 267. [Der Kailas hinter Njandi-gumpa.](ch018.xhtml#b0168_267)
 268. [Bettelnde Pilger.](ch018.xhtml#b0168_268)
 269. [Der Kailas von Nordwesten.](ch018.xhtml#b0168_269) Skizze des Verfassers.
-|    Om mani padme hum. (Kopfleist3)
-270. Der Kailas von Diri-pu aus.
-271. Vereinigung der beiden Indusarme. Skizzen des Verfassers.
-272. Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas.
++    [Om mani padme hum.](ch019.xhtml#b0174_000) (Kopfleiste)
+270. [Der Kailas von Diri-pu aus.](ch019.xhtml#b0176_270)
+271. [Vereinigung der beiden Indusarme.](ch019.xhtml#b0176_271) Skizzen des Verfassers.
+272. [Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas.](ch019.xhtml#b0176_272)
 273. Meine Transportschafe.
 274. Gulam Rasuls Zeltlager in Gartok .
 275. Nomadenweib aus Jumba-matsen.

@@ -185,7 +185,7 @@ Berg natürlich in verkehrter Richtung, und die Orthodoxen, die ihnen
 begegnen, werfen ihnen verächhtliche Blickke zu. Ich zog es daher vor,
 mein Zelt auf dem Dache aufzuschlagen, wo das Gepäck der Pilger in
 Haufen aufgestapelt lag. Auch von hier hat man eine prachtvolle
-Aussicht auf den Kailas, dessen Gipfel sich gerade im Süden zeigt (Abb. 270).
+Aussicht auf den Kailas, dessen Gipfel sich gerade im Süden zeigt ([Abb. 270](ch020.xhtml#b0176_270)).
 Bei 4,<small>5</small> Grad um 9 Uhr war es kalt und unfreundlich, weil heftiger
 Wind wehte, und weil mein Zelt, das nur aus dem mit Leinwand
 überdeckten Stativ des photographischen Apparates bestand, zu klein war, um
@@ -216,7 +216,7 @@ Chaleb oder schlimmstenfalls selbst von Gartok aus zu machen.
 ::::
 
 :::: {.wrap-100 .break-before }
-![269. Der Kailas von Nordwesten. <small>Skizze des Verfassers</small>](Transhimalaja_Band_II_168_269.jpg "Transhimalaja_Band_II_168_269.jpg"){#b0168_269}
+![269. Der Kailas von Nordwesten. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_168_269.jpg "Transhimalaja_Band_II_168_269.jpg"){#b0168_269}
 ::::
 
 Am 4. September nahmen wir von den Mönchen in Diri-pu Abschied,
@@ -247,14 +247,14 @@ erkennbar ist. Der Gipfel erhebt sich über diesem Meere wilder Berge wie ein
 ungeheuerer Bergkristall von sechseckiger Form.
 
 Eine Gesellschaft armer Frauen und Kinder klimmt mühsam nach dem
-Paß hinauf (Abb. 272). Ein älterer Mann, der schon bei der neunten
+Paß hinauf ([Abb. 272](ch020.xhtml#b0176_272)). Ein älterer Mann, der schon bei der neunten
 Umkreisung war, hatte nichts dagegen, sich uns anzuschließen; er kannte
 die Gegend und konnte Auskunft darüber geben. Auf einer neuen
 Anschwellung, Tutu-dapso genannt, sahen wir Hunderte von meterhohen
 Votivhaufen, einen wirklichen Wald von Steinpyramiden, der an einen
 Kirchhof mit unzähligen Grabmalen erinnerte.
 
-Mühsam und langsam klimmen wir nah diesem anstrengenden
+Mühsam und langsam klimmen wir nach diesem anstrengenden
 Paß hinauf, einem der schwierigsten auf der ganzen Reise. Immer
 dichter liegen die Blöcke, ausschließlich Granit in allen möglichen
 Abarten, darunter auch rosiger und so hellgrauer, daß er beinahe weiß
