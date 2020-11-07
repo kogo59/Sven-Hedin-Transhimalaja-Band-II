@@ -93,10 +93,10 @@
 270. [Der Kailas von Diri-pu aus.](ch019.xhtml#b0176_270)
 271. [Vereinigung der beiden Indusarme.](ch019.xhtml#b0176_271) Skizzen des Verfassers.
 272. [Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas.](ch019.xhtml#b0176_272)
-273. Meine Transportschafe.
-274. Gulam Rasuls Zeltlager in Gartok .
-275. Nomadenweib aus Jumba-matsen.
-276. Der Oberlama in Tschuschul-gumpa. Skizzen des Verfassers
+273. [Meine Transportschafe.](ch020.xhtml#b0176_273)
+274. [Gulam Rasuls Zeltlager in Gartok.](ch020.xhtml#b0176_274)
+275. [Nomadenweib aus Jumba-matsen.](ch020.xhtml#b0176_275)
+276. [Der Oberlama in Tschuschul-gumpa.](ch020.xhtml#b0176_276) Skizzen des Verfassers
 277. Weib von Jumba-matsen.
 278. Ladaki-Kaufmann in Westtibet.
 279. Dortsche Tsuän, Gouverneur der Provinz Saka, seine chinesische Pfeife rauchend.
