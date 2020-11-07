@@ -119,7 +119,7 @@ aber der Indus selbst ist hier ein sehr unbedeutender Fluß. Es setzte mich dahe
 nicht in Erstaunen, als ich hörte, daß es nur eine kurze Tagereise nach der
 Quelle sei, von der mir gesagt wurde, daß sie weder von Schnee noch von
 einem Gletscher herrühre, sondern direkt aus der Erde entspringe. Den
-Fluß nannten sie Singi-tsangpo und Singi-kamba und die Quelle
+Fluß nannten sie Singi-tsangpo^[^0184]^ und Singi-kamba und die Quelle
 selbst Singi-kabab, obgleich wir das Wort später oft mehr Sängä als
 Singi aussprechen hörten.
 
@@ -317,3 +317,5 @@ Brahmaputra vorgedrungen ist.
 [^0182]: [*Kuhistan*: vergleiche [Süd-Chorasan](https://de.wikipedia.org/wiki/https://de.wikipedia.org/wiki/S%C3%BCd-Chorasan)]{.footnote}
 
 [^0183]: [*Baltistan*: vergleiche [Baltistan](https://de.wikipedia.org/wiki/Baltistan)]{.footnote}
+
+[^0184]: [*Singi-tsangpo*: vergleiche [Sênggê Zangbo](https://en.wikipedia.org/wiki/S%C3%AAngg%C3%AA_Zangbo)]{.footnote}
