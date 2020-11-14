@@ -102,10 +102,10 @@
 279. [Dortsche Tsuän, Gouverneur der Provinz Saka, seine chinesische Pfeife rauchend.](ch021.xhtml#b0192_279)
 280. [Oang Ojä, Sohn des Gouverneurs Dortsche Tsuän.](ch021.xhtml#b0192_279) Skizzen des Verfassers.
 281. [Gulam Rasul; hinter ihm Ballen chinesischen Ziegeltees.](ch021.xhtml#b0192_280)
-282. Zelt in Gartok.
-283. Kloster von Gar-gunsa.
-284. Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten.
-285. Robert im Boot unterhalb Gar-gunsa an dem Punkte, wo die beiden Indusarme sich vereinigen.
+282. [Zelt in Gartok.](ch022.xhtml#b0200_282)
+283. [Kloster von Gar-gunsa.](ch022.xhtml#b0200_283)
+284. [Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten.](ch022.xhtml#b0200_284)
+285. [Robert im Boot unterhalb Gar-gunsa an dem Punkte, wo die beiden Indusarme sich vereinigen.](ch022.xhtml#b0200_285)
 286. Götterbilder in Tschuschul-gumpa.
 287. Meine Yaks im oberen Industal.
 288. Mein Boot auf dem Indus bei Taschi-gang.

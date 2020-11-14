@@ -4,8 +4,8 @@
 **V**on der Quelle des Indus zogen wir mit unserem freundlichen Führer
 immer weiter nordostwärts nach einer Gegend, die Jumba-matsen
 heißt und in 32 Grad nördlicher Breite liegt (Abb. [275](ch020.xhtml#b0176_275), [277](ch021.xhtml#b0192_277)).
-Und von dort begab ich mich nach Gartok^[^0190]^ (Abb. [278](ch021.xhtml#b0192_278), 282), dem
-Hauptort Westtibets und der Residenz der beiden Garpuns^[^0191]^, wo ich, nachdem
+Und von dort begab ich mich nach Gartok^[^0190]^ (Abb. [278](ch021.xhtml#b0192_278), [282](ch022.xhtml#b0200_282)),
+dem Hauptort Westtibets und der Residenz der beiden Garpuns^[^0191]^, wo ich, nachdem
 ich den Transhimalaja im Dschukti-la (5825 Meter hoch) zum
 fünftenmal überschritten hatte, nach vielen Abenteuern am 26. September 1907
 ankam. Ich muß leider für jetzt die Beschreibung dieses Zuges überspringen,
@@ -263,7 +263,7 @@ Ehrentitel Khan Bahadur, den er auch erhielt; hierbei berief ich mich jedoch
 verständlicherweise nur auf die großen kommerziellen Dienste, die er dem
 indischen Kaiserreich leistet.
 
-In Gar-gunsa (Abb. 283) erhielt ich die Kunde von dem neuen
+In Gar-gunsa ([Abb. 283](ch022.xhtml#b0200_283)) erhielt ich die Kunde von dem neuen
 Vertrag zwischen England und Rußland, der im Oktober dieses Jahres
 abgeschlossen worden war. „Großbritannien und Rußland verpflichten
 sich, während der drei nächsten Jahre nicht ohne vorhergehende
@@ -328,7 +328,7 @@ Indien kommenden Transport entgegengeschickt. Anfangs November
 erhielten wir endlich Nachricht, daß die Sendung im Anzuge sei. Nun
 schlug Robert vor, mit einigen unserer neuen Maulesel den ersehnten
 Gästen entgegenzuziehen. Spät abends am 6., als ich schon zu Bett war,
-kamen sie alle an. Es waren fünf Polizisten aus Rampur (Abb. 284),
+kamen sie alle an. Es waren fünf Polizisten aus Rampur ([Abb. 284](ch022.xhtml#b0200_284)),
 einer von ihnen hatte Lungenentzündung und war mehr tot als lebendig.
 Robert hatte sie beim Zusammentreffen so durchfroren und erschöpft
 gefunden, daß er erst die ganze Gesellschaft hatte massieren müssen, um
@@ -368,7 +368,7 @@ ihnen Winteranzüge, nahm dann herzlichen Abschied von meinem
 redlichen Freunde Gulam Rasul, ohne dessen Beistand die neue Reise
 unmöglich gewesen wäre, dankte Thakur Jai Chand und den anderen
 Hindus für ihre Freundlichkeit und brach am 9. November 1907 nach
-Nordwesten auf, dem Laufe des oberen Indus folgend (Abb. 276 und 285—294).
+Nordwesten auf, dem Laufe des oberen Indus folgend (Abb. 276 und [285](ch022.xhtml#b0200_285)—294).
 
 Am 26. erreichten wir Tankse, wo die Honoratioren der Gegend
 und sogar der Tesildar^[^0199]^ aus Leh selbst uns empfingen. Sie hatten schon
