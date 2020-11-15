@@ -106,15 +106,16 @@
 283. [Kloster von Gar-gunsa.](ch022.xhtml#b0200_283)
 284. [Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten.](ch022.xhtml#b0200_284)
 285. [Robert im Boot unterhalb Gar-gunsa an dem Punkte, wo die beiden Indusarme sich vereinigen.](ch022.xhtml#b0200_285)
-286. Götterbilder in Tschuschul-gumpa.
-287. Meine Yaks im oberen Industal.
-288. Mein Boot auf dem Indus bei Taschi-gang.
-289. 291. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.
-290. Der Oberlama in Tschuschul-gumpa.
-292. Tanzende Pilgerinnen in Tschuschul
-293. Mädchen in Tschuschul.
-294. Auf dem Wege nach Tankse.
-295. Die neuen Pferde und Maultiere in Drugub.
+286. [Götterbilder in Tschuschul-gumpa.](ch023.xhtml#b0209_286)
+287. [Meine Yaks im oberen Industal.](ch023.xhtml#b0209_287)
+288. [Mein Boot auf dem Indus bei Taschi-gang.](ch023.xhtml#b0209_288)
+289. [An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.](ch023.xhtml#b0209_289)
+290. [Der Oberlama in Tschuschul-gumpa.](ch023.xhtml#b0209_290)
+291. [An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.](ch023.xhtml#b0209_291)
+292. [Tanzende Pilgerinnen in Tschuschul.](ch023.xhtml#b0216_292)
+293. [Mädchen in Tschuschul.](ch023.xhtml#b0216_293)
+294. [Auf dem Wege nach Tankse.](ch023.xhtml#b0216_294)
+295. [Die neuen Pferde und Maultiere in Drugub.](ch023.xhtml#b0216_295)
 296. Abdul Kerim, der neue Karawanenführer.
 297. Gulam, mein Koch.
 298. Lobsang.

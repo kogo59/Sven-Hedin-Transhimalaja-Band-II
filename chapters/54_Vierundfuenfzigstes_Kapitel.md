@@ -368,7 +368,7 @@ ihnen Winteranzüge, nahm dann herzlichen Abschied von meinem
 redlichen Freunde Gulam Rasul, ohne dessen Beistand die neue Reise
 unmöglich gewesen wäre, dankte Thakur Jai Chand und den anderen
 Hindus für ihre Freundlichkeit und brach am 9. November 1907 nach
-Nordwesten auf, dem Laufe des oberen Indus folgend (Abb. 276 und [285](ch022.xhtml#b0200_285)—294).
+Nordwesten auf, dem Laufe des oberen Indus folgend (Abb. 276 und [285](ch022.xhtml#b0200_285)—[294](ch023.xhtml#b0216_294)).
 
 Am 26. erreichten wir Tankse, wo die Honoratioren der Gegend
 und sogar der Tesildar^[^0199]^ aus Leh selbst uns empfingen. Sie hatten schon

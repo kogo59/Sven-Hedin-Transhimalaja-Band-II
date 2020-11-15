@@ -74,7 +74,7 @@ zusammengetroffen wären.
 
 Die neuen Pferde sahen prächtig und kräftig aus und standen, Heu
 und Gerste fressend, in einer langen Reihe neben den Mauleseln und den
-Veteranen am Fuße einer Mauer (Abb. 295). Sie sollten gut gefüttert
+Veteranen am Fuße einer Mauer ([Abb. 295](ch023.xhtml#b0216_295)). Sie sollten gut gefüttert
 werden, denn die Tage der süßen Brote waren bald zu Ende; es würde
 gut sein, wenn sie Fett ansetzten, von dem sie in bösen Tagen zehren
 konnten. Alle bestellten Sachen waren in bestem Zustand und in neue

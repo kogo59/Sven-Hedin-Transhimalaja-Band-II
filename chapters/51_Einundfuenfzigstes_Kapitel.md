@@ -19,7 +19,7 @@ Die übrige Karawane sollte uns in Chaleb erwarten, und mein Zelt sollte
 unberührt stehen bleiben, damit die Tibeter dächten, daß man mich zum
 Abend zurückerwarte.
 
-Tsering, Namgjal  und Ische brachen früh auf, ich und Rabsang
+Tsering, Namgjal und Ische brachen früh auf, ich und Rabsang
 ein wenig später. Der Gova und seine Leute kamen, um zu fragen,
 was dies bedeute und wohin ich wolle. Aber ich antwortete ihm nur:
 „Ich bin bald wieder da“, und ritt nach N&nbsp;30°&nbsp;O nach dem Eingange
