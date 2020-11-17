@@ -390,7 +390,7 @@ Konglomeratwänden. Dies ist das Kisil-unkur oder „das rote Loch“, ein
 passender Name. Hier hat die Karawane ihr Lager aufgeschlagen. Keine
 Spur organischen Lebens. Die Tiere stehen auf einem Haufen, die
 Maulesel knabbern an dem gefrorenen Dung früherer Gäste. Von diesem Loch
-aus steigt der Weg nach dem Hochplateau des Dapsang hinauf, wo jetzt
+aus steigt der Weg nach dem Hochplateau des Dapsang^[^211]^ hinauf, wo jetzt
 der Schneesturm tobt, und auch hier im Tal tanzen die Schneeflocken
 wirbelnd in der Luft. In der Dämmerung war Kuntschuk (Abb. 301) mit
 nur noch zwölf Schafen angekommen; die übrigen waren ihm unterwegs
@@ -445,3 +445,5 @@ den Bogen zu stark gespannt habe!
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^210]: [*Schahidullah*: vergleiche [Xaidullah](https://en.wikipedia.org/wiki/Xaidulla)]{.footnote}
+
+[^211]: [*Dapsang*: vergleiche [Depsang Plains](https://en.wikipedia.org/wiki/Depsang_Plains)]{.footnote}

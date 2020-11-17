@@ -14,7 +14,7 @@ hatten vom Tesildar Befehl erhalten, mich nach Schejok zu begleiten.
 „Wer ist der Karawan-baschi?“ fragte ich.
 
 „Ich“, antwortete ein kleiner, runzliger älterer Mann, der Abdul
-Kerim hieß und einen großen gelben Pelz trug (Abb. 296).
+Kerim hieß und einen großen gelben Pelz trug ([Abb. 296](ch024.xhtml#b0224_296)).
 
 „Wie heißen die anderen?“
 
@@ -37,7 +37,7 @@ Mannesalter. —
 
 „Wer von euch ist mein Koch?“
 
-„Ich“, erwiderte Gulam (Abb. 297), ein klassisches Kerlchen, dem
+„Ich“, erwiderte Gulam ([Abb. 297](ch024.xhtml#b0224_297)), ein klassisches Kerlchen, dem
 Nub Das gerade eine Vorlesung hielt, wie mir aufzuwarten sei.
 
 „Seid ihr alle Ladakis?“
@@ -55,7 +55,7 @@ zu freuen, daß ich den Gedanken nicht hatte zur Tat werden lassen! Wenn
 ich die vier russischen Kosaken und Robert ausnehme, war Lobsang der beste
 Diener, der mir je auf meinen Wildniswanderungen durch Asien begleitet
 hat. Es war ein prächtiger Mensch, und ich erinnere mich seiner gern
-und mit warmer Empfindung (Abb. 298).
+und mit warmer Empfindung ([Abb. 298](ch024.xhtml#b0224_298)).
 
 Alle wurden nun in meinem Dienst willkommen geheißen, wobei ich
 die Hoffnung äußerte, daß sie ihre Pflicht ebenso treu erfüllen würden
@@ -297,7 +297,7 @@ Jetzt waren wir ganz unter uns. Nur noch ein nicht zu uns Gehörender
 befand sich bei der Karawane, der Schejoker Tubges (Abb. 300),
 der während der ersten Tagereisen die Aufsicht über unsere Schafe, besonders
 bei den Furten, führen sollte. Abends hatte ich eine Unterredung mit
-Abdul Kerim, Kutus (Abb. 299) und Gulam. Jetzt sagte ich ihnen, daß
+Abdul Kerim, Kutus ([Abb. 299](ch024.xhtml#b0224_299)) und Gulam. Jetzt sagte ich ihnen, daß
 ich nicht auf der gewöhnlichen Straße nach Chotan ziehen wolle, weil sie
 mir schon bekannt sei. Wir würden einen östlicheren Weg einschlagen,
 und es handle sich jetzt nur darum, je eher je lieber auf das Plateau

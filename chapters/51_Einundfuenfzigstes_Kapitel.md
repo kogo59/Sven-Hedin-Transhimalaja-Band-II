@@ -7,7 +7,7 @@ an dem die Umwanderung des heiligen Berges beginnen soll! Der
 vornehmste Gova von Parka ist bei uns, um mich im
 Zaum zu halten; aber ich lasse es hübsch bleiben, meine Pläne zu
 verraten. Tsering, Rabsang, Namgjal und Ische sollen mit; sie sind
-Lamaisten und freuen sich auf die Gelegenheit, durch Ummwandern des
+Lamaisten und freuen sich auf die Gelegenheit, durch Umwandern des
 heiligsten aller Berge der Erde den Toren der Seligkeit näher zu
 kommen. Proviant auf drei Tage, die absolut notwendigen Instrumente und
 Skizzen- und Notizbücher werden mitgenommen. Das Stativ des großen

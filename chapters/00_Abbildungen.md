@@ -116,10 +116,10 @@
 293. [Mädchen in Tschuschul.](ch023.xhtml#b0216_293)
 294. [Auf dem Wege nach Tankse.](ch023.xhtml#b0216_294)
 295. [Die neuen Pferde und Maultiere in Drugub.](ch023.xhtml#b0216_295)
-296. Abdul Kerim, der neue Karawanenführer.
-297. Gulam, mein Koch.
-298. Lobsang.
-299. Kutus.
+296. [Abdul Kerim, der neue Karawanenführer.](ch024.xhtml#b0224_296)
+297. [Gulam, mein Koch.](ch024.xhtml#b0224_297)
+298. [Lobsang.](ch024.xhtml#b0224_298)
+299. [Kutus.](ch024.xhtml#b0224_299)
 |    Bunte Tafel. Aussicht von Lager 307. Der kleine Salzsee südlich von Lager 309.
 |    Die Pferde gehen zur Tränke zum See bei Lager 310. Berg nordöstlich
 |    von Lager 310. Sturmwolken über dem Schneegebirge südlich des Lagers 312.
