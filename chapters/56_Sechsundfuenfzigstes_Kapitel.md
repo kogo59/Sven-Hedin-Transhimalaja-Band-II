@@ -392,7 +392,7 @@ Spur organischen Lebens. Die Tiere stehen auf einem Haufen, die
 Maulesel knabbern an dem gefrorenen Dung früherer Gäste. Von diesem Loch
 aus steigt der Weg nach dem Hochplateau des Dapsang^[^211]^ hinauf, wo jetzt
 der Schneesturm tobt, und auch hier im Tal tanzen die Schneeflocken
-wirbelnd in der Luft. In der Dämmerung war Kuntschuk (Abb. 301) mit
+wirbelnd in der Luft. In der Dämmerung war Kuntschuk ([Abb. 301](ch025.xhtml#b0232_301)) mit
 nur noch zwölf Schafen angekommen; die übrigen waren ihm unterwegs
 erfroren! Die Nacht senkt sich unheimlich und drohend über den ewigen
 Schnee herab. Alles ist hier oben so düster und so kalt; nichts Lebendes

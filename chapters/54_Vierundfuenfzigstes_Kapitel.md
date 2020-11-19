@@ -400,7 +400,7 @@ geschwebt. Der alte Tsering bat mich, ob er nicht den lahmen Hund
 vom Ngangtse-tso behalten dürfe; sein Bellen vor seiner Hütte in Leh
 werde ihn an den Wachtdienst des Hundes bei unsern Lagerfeuern
 erinnern. Schulkur Ali durfte einen zweiten Hund aus derselben Gegend
-behalten. Nun hatte ich nur noch die braune Puppy (Abb. 304), die
+behalten. Nun hatte ich nur noch die braune Puppy ([Abb. 304](ch025.xhtml#b0232_304)), die
 nebst Robert und dem Maulesel aus Poonch zu den ältesten Veteranen der
 Karawane gehörte, denn alle drei hatten mich schon von Srinagar an begleitet.
 

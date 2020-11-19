@@ -396,7 +396,7 @@ Wasser für die Tiere fänden. Mein bewährter Ladakischimmel, den ich
 noch immer ritt, pflegte jeden Morgen mein Waschwasser zu erhalten,
 und um es ihm nicht ungenießbar zu machen, verzichtete ich auf die Seife.
 Von einer ganz kleinen Schwelle konnten wir endlich die Aussicht
-genießen, nach der ich mich schon solange gesehnt : die große, offene
+genießen, nach der ich mich schon solange gesehnt: die große, offene
 Hochebene, die wir im Herbst 1906 durchzogen hatten! Im Ostsüdosten erkannte
 ich leicht den vorspringenden Berg wieder, an dem wir damals
 entlanggezogen waren. Wir konnten daher nicht mehr als zwei Tagereisen vom
@@ -411,8 +411,8 @@ einem nur 5 Kilometer langen Marsch fanden wir die ersehnte offene
 Quelle mit herrlichem Wasser (+ 0,<small>6</small> Grad), an der das Lager Nr. 300(!)
 in einer Höhe von 4977 Meter aufgeschlagen wurde. An diesem Abend
 sangen meine Leute wieder fröhliche Lieder, und Suän tanzte ihnen seinen
-allerverrücktesten Tanz vor (Abb. 302, 303). Wir waren wieder oben
-auf dem „Dach der Welt“, und das ganze öde Tibet lag vor uns.
+allerverrücktesten Tanz vor (Abb. [302](ch025.xhtml#b0232_302), [303](ch025.xhtml#b0232_303)).
+Wir waren wieder oben auf dem „Dach der Welt“, und das ganze öde Tibet lag vor uns.
 :::
 
 :::: align-center

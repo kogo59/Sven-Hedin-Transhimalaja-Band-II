@@ -143,9 +143,9 @@ Posthaus in Leh abliefern sollte.
 Wir hatten nun 21 Maulesel und 19 Pferde, die braune Puppy
 und einen großen gelben Hund aus Gartok. Alle Maulesel und Pferde,
 außer meinem und Abdul Kerims Reitpferd, trugen Lasten. ich ritt
-meinen kleinen Ladakischimmel (Abb. 305, 306, 307), der sich wieder
-unglaublich gekräftigt hatte und ebenso munter war als eins der neuen
-Pferde. Er und noch zwei hatten die ganze große Karawane, die
+meinen kleinen Ladakischimmel (Abb. [305](ch025.xhtml#b0232_305), [306](ch025.xhtml#b0232_306), [307](ch025.xhtml#b0232_307)),
+der sich wieder unglaublich gekräftigt hatte und ebenso munter war als eins der
+neuen Pferde. Er und noch zwei hatten die ganze große Karawane, die
 vorigesmal aus Leh ausgezogen war, überlebt. Um sicher zu gehen, daß
 Abdul Kerim auch genügend Proviant mitnahm, sagte ich ihm,
 er solle nicht denken, daß ich wie gewöhnliche Karawanen den geraden Weg
@@ -294,7 +294,7 @@ Tschong-jangal, wo ich schon im Jahre 1902 zu Gast gewesen war, schlugen
 wir das Lager auf.
 
 Jetzt waren wir ganz unter uns. Nur noch ein nicht zu uns Gehörender
-befand sich bei der Karawane, der Schejoker Tubges (Abb. 300),
+befand sich bei der Karawane, der Schejoker Tubges ([Abb. 300](ch025.xhtml#b0232_300)),
 der während der ersten Tagereisen die Aufsicht über unsere Schafe, besonders
 bei den Furten, führen sollte. Abends hatte ich eine Unterredung mit
 Abdul Kerim, Kutus ([Abb. 299](ch024.xhtml#b0224_299)) und Gulam. Jetzt sagte ich ihnen, daß

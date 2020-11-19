@@ -120,17 +120,17 @@
 297. [Gulam, mein Koch.](ch024.xhtml#b0224_297)
 298. [Lobsang.](ch024.xhtml#b0224_298)
 299. [Kutus.](ch024.xhtml#b0224_299)
-|    Bunte Tafel. Aussicht von Lager 307. Der kleine Salzsee südlich von Lager 309.
-|    Die Pferde gehen zur Tränke zum See bei Lager 310. Berg nordöstlich
-|    von Lager 310. Sturmwolken über dem Schneegebirge südlich des Lagers 312.
-|    Aquarelle des Verfassers.
-300. Tubges.
-301. Kuntschuk.
-302. 303. Suän, der maître de plaisir der Karawane, tanzend.
-304. Meine braune Puppy mit dem Koch Tsering.
-305. 306, 307. Mein weißer Ladaki.
++    Bunte Tafel. [Aussicht von Lager 307.](ch025.xhtml#b0230_001) [Der kleine Salzsee südlich von Lager 309.](ch025.xhtml#b0230_002) [Die Pferde gehen zur Tränke zum See bei Lager 310.](ch025.xhtml#b0230_003) [Berg nordöstlich von Lager 310.](ch025.xhtml#b0230_004) [Sturmwolken über dem Schneegebirge südlich des Lagers 312.](ch025.xhtml#b0230_005) Aquarelle des Verfassers.
+300. [Tubges.](ch025.xhtml#b0232_300)
+301. [Kuntschuk.](ch025.xhtml#b0232_301)
+302. [Suän, der maître de plaisir der Karawane, tanzend.](ch025.xhtml#b0232_302)
+303. [Suän, der maître de plaisir der Karawane, tanzend.](ch025.xhtml#b0232_303)
+304. [Meine braune Puppy mit dem Koch Tsering.](ch025.xhtml#b0232_304)
+305. [Mein weißer Ladaki.](ch025.xhtml#b0232_305)
+306. [Mein weißer Ladaki.](ch025.xhtml#b0232_306)
+307. [Mein weißer Ladaki.](ch025.xhtml#b0232_307)
 308. Berg bei Schialung im Schejoktal.
-309, Tal des Buptsang-tsangpo bei Tuta. Skizzen des Verfassers.
+309. Tal des Buptsang-tsangpo bei Tuta. Skizzen des Verfassers.
 310. Aussicht von Lager Nr. 307.
 311. Aussicht von Lager Nr. 318.
 312. Aussicht von Lager Nr. 333.
