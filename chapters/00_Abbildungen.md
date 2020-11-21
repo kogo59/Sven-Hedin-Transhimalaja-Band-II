@@ -129,13 +129,13 @@
 305. [Mein weißer Ladaki.](ch025.xhtml#b0232_305)
 306. [Mein weißer Ladaki.](ch025.xhtml#b0232_306)
 307. [Mein weißer Ladaki.](ch025.xhtml#b0232_307)
-308. Berg bei Schialung im Schejoktal.
-309. Tal des Buptsang-tsangpo bei Tuta. Skizzen des Verfassers.
-310. Aussicht von Lager Nr. 307.
-311. Aussicht von Lager Nr. 318.
-312. Aussicht von Lager Nr. 333.
-313. Aussicht von Lager Nr. 333 bei Sturm.
-314. Tschomo-utschong, am 1. Mai 1908. Nach Aquarellen und Skizzen des Verfassers.
+308. [Berg bei Schialung im Schejoktal.](ch026.xhtml#b0240_308)
+309. [Tal des Buptsang-tsangpo bei Tuta.](ch026.xhtml#b0240_309) Skizzen des Verfassers.
+310. [Aussicht von Lager Nr. 307.](ch026.xhtml#b0240_310)
+311. [Aussicht von Lager Nr. 318.](ch026.xhtml#b0240_311)
+312. [Aussicht von Lager Nr. 333.](ch026.xhtml#b0240_312)
+313. [Aussicht von Lager Nr. 333 bei Sturm.](ch026.xhtml#b0240_313)
+314. [Tschomo-utschong, am 1. Mai 1908.](ch026.xhtml#b0240_313) Nach Aquarellen und Skizzen des Verfassers.
 315. Geht dies noch einige Tage so weiter, dann sind wir verloren! Zeichnung von T. Macfarlane.
 316. Mein sterbender kleiner Ladaki. Skizze des Verfassers.
 317, 318. Der Lemtschung-tso nach Osten.

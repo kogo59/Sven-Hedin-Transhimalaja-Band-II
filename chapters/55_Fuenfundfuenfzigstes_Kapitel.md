@@ -417,7 +417,7 @@ Weg aus. Noch zweimal überschritten wir den Fluß auf seiner Eisdecke.
 Bei der zweiten Furt kam die ganze Karawane trocknen Fußes hinüber,
 nur mein kleiner Schimmel brach ein, und ich erhielt dabei ein Fußbad.
 Nach einem dritten Übergang lagerten wir in öder Gegend, dem Tale
-Schialung gerade gegenüber (Abb. 308). Es sah vielversprechend aus.
+Schialung gerade gegenüber ([Abb. 308](ch026.xhtml#b0240_308)). Es sah vielversprechend aus.
 Tubges und Kutus wurden talaufwärts geschickt, um das Gelände
 auszukundschaften. Spät abends kehrten sie mit dem Bescheid zurück,
 daß man zwar ziemlich weit talaufwärts ziehen könne, das Tal dann aber wegen

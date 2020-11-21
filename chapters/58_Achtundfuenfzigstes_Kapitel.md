@@ -114,7 +114,7 @@ um uns nach Südosten wenden zu können. Durch eine Lücke im
 nördlichen Gebirge erblickten wir im Nordosten die mächtigen Schneekuppen,
 die wir auch 1906 links hatten liegen lassen. Nach Osten zeigten sich
 keine Hindernisse, aber wir bogen nach Südosten ab und zogen ein Tal
-hinauf. Noch ehe wir das Lager (Abb. 310 und [bunte Tafel](ch025.xhtml#b0230_001)) aufschlugen,
+hinauf. Noch ehe wir das Lager ([Abb. 310](ch026.xhtml#b0240_310) und [bunte Tafel](ch025.xhtml#b0230_001)) aufschlugen,
 war wieder ein Maulesel gefallen, und mit ihm hatten wir schon ein
 Viertel der Karawane verloren!
 
