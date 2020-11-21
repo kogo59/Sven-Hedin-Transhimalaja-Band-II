@@ -135,15 +135,18 @@
 311. [Aussicht von Lager Nr. 318.](ch026.xhtml#b0240_311)
 312. [Aussicht von Lager Nr. 333.](ch026.xhtml#b0240_312)
 313. [Aussicht von Lager Nr. 333 bei Sturm.](ch026.xhtml#b0240_313)
-314. [Tschomo-utschong, am 1. Mai 1908.](ch026.xhtml#b0240_313) Nach Aquarellen und Skizzen des Verfassers.
-315. Geht dies noch einige Tage so weiter, dann sind wir verloren! Zeichnung von T. Macfarlane.
-316. Mein sterbender kleiner Ladaki. Skizze des Verfassers.
-317, 318. Der Lemtschung-tso nach Osten.
-319, 320. Der Scha-kangscham. Nach Aquarellen des Verfassers.
+314. [Tschomo-utschong, am 1. Mai 1908.](ch026.xhtml#b0240_314) Nach Aquarellen und Skizzen des Verfassers.
+315. [Geht dies noch einige Tage so weiter, dann sind wir verloren!](ch027.xhtml#b0248_315) Zeichnung von T. Macfarlane.
+316. [Mein sterbender kleiner Ladaki.](ch027.xhtml#b0248_316) Skizze des Verfassers.
+317. Der Lemtschung-tso nach Osten.
+318. Der Lemtschung-tso nach Osten.
+319. Der Scha-kangscham. Nach Aquarellen des Verfassers
+320. Der Scha-kangscham. Nach Aquarellen des Verfassers.
 321. Der Verfasser als Schafhirt verkleidet. Zeichnung von de Haenen.
 322. Übergang über das Eis des Kangscham-tsangpo. Zeichnung von de Haenen.
-323, 324, 325. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern
-Nr. 379, 381 und 383 aus gesehen. Nach Aquarellen des Verfassers.
+323. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.
+324. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.
+325. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen. Nach Aquarellen des Verfassers.
 326. Abdul Kerims Zelt.
 327. Rindors Wachmannschaft.
 328. Dortsche Tsuän und sein Amtsbruder Ngavang.

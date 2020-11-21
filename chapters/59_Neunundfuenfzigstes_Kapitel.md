@@ -38,7 +38,7 @@ sich wieder in Gang seht, stürzt er in eine schneegefüllte Mulde, wo
 ihn zwei Männer in Empfang nehmen müssen, um seine Last
 zurechtzurücken. Es geht jetzt östlich vorwärts, und das Terrain steigt. Geht
 dies noch einige Tage so weiter, dann sind wir verloren!
-(Abb. 315.)
+([Abb. 315](ch027.xhtml#b0248_315))
 
 Endlich erreichen wir eine flache Paßschwelle (5568 Meter hoch).
 Auch in Seehöhe würde eine solche Reise schon schwer genug sein,
