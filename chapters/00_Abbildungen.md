@@ -138,11 +138,11 @@
 314. [Tschomo-utschong, am 1. Mai 1908.](ch026.xhtml#b0240_314) Nach Aquarellen und Skizzen des Verfassers.
 315. [Geht dies noch einige Tage so weiter, dann sind wir verloren!](ch027.xhtml#b0248_315) Zeichnung von T. Macfarlane.
 316. [Mein sterbender kleiner Ladaki.](ch027.xhtml#b0248_316) Skizze des Verfassers.
-317. Der Lemtschung-tso nach Osten.
-318. Der Lemtschung-tso nach Osten.
-319. Der Scha-kangscham. Nach Aquarellen des Verfassers
-320. Der Scha-kangscham. Nach Aquarellen des Verfassers.
-321. Der Verfasser als Schafhirt verkleidet. Zeichnung von de Haenen.
+317. [Der Lemtschung-tso nach Osten.](ch028.xhtml#b0256_317)
+318. [Der Lemtschung-tso nach Osten.](ch028.xhtml#b0256_318)
+319. [Der Scha-kangscham.](ch028.xhtml#b0256_319)
+320. [Der Scha-kangscham.](ch028.xhtml#b0256_320) Nach Aquarellen des Verfassers.
+321. [Der Verfasser als Schafhirt verkleidet.](ch028.xhtml#b0256_321) Zeichnung von de Haenen.
 322. Übergang über das Eis des Kangscham-tsangpo. Zeichnung von de Haenen.
 323. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.
 324. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.
