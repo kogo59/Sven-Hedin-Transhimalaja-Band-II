@@ -323,7 +323,7 @@ Schlammdamm, die wir vom Westufer her kennen; ich wurde hübsch ans Land
 getragen und von einer Hinduschar, die aus Pilgern und Wollhändlern
 bestand, höflich begrüßt. Eine Menge tibetischer Hirten aus dem Norden
 hielt sich auch hier auf, wo jeden Sommer ein nicht unbedeutender
-Wollmarkt abgehalten wird, Auf dem Dach stand eine Gruppe von
+Wollmarkt abgehalten wird. Auf dem Dach stand eine Gruppe von
 Mönchen; unser Lager war unmittelbar am Fuß des Klosters auf der
 Uferstraße aufgeschlagen worden und hatte eine herrliche Aussicht auf den
 See und den dahinterliegenden Kailas. An der südlichen Klosterwand

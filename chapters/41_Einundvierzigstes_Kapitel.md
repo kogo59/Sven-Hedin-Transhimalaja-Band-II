@@ -346,7 +346,7 @@ von den in der Umgegend lebenden Nomaden.
 
 Über eine Ebene von rissigem Lehmboden, die in der Hochwasserzeit
 überschwemmt wird, gelangten wir nach dem Lager am Ufer des Tsangpo;
-der Fluß gleicht einem See; das dies auch im spätherbst der Fall ist,
+der Fluß gleicht einem See; das dies auch im Spätherbst der Fall ist,
 geht aus Ryders auserordentlich gewissenhafter und korrekter Karte
 hervor. Die Breite belief sich hier auf 890 Meter, die größte Tiefe
 betrug aber nur 0,<small>74</small> Meter. Man durchreitet ihn daher ungehindert,
@@ -436,7 +436,7 @@ Wasser führte. Am nächsten Morgen wurde das Gepäck hinübergebracht,
 und wir hatten zugleich die Ehre, einem vornehmen Lama, den ich in
 Taschi-lunpo kennen gelernt hatte, über den Fluß zu helfen ([Abb. 242](ch011.xhtml#b0096_242)).
 Er trug ein gelbes Gewand mit rotem Mantel und hatte einen kleinen,
-gelben Holzhut, der wie Metall glänzte. seine Diener waren mit Flinten
+gelben Holzhut, der wie Metall glänzte. Seine Diener waren mit Flinten
 und Säbeln bewaffnet und brachten ihr ganzes Gepäck auf Yaks über den
 Fluß. Sie hatten jedoch das Pech, das die Yaks in zu tiefes Wasser
 hineingerieten und zu schwimmen begannen, wobei sämtliches Gepäck

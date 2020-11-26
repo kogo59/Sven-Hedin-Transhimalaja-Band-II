@@ -446,7 +446,7 @@ auf dem Rücken und Stöcken in den Händen. Als wir sie eingeholt
 hatten, blieben sie stehen und kamen dann heran, um ihre Stirn an
 meine Füße zu legen. Es waren der Hadschi und die beiden anderen!
 Ich war innerlich froh über die Gelegenheit, sie wieder zu Gnaden
-annehmen zu können. sie sollten künftig die Yaks begleiten.
+annehmen zu können. Sie sollten künftig die Yaks begleiten.
 
 Auf dem rechten Flußufer am Fuß des Hügels (4565 Meter), auf
 dessen Gipfel die Ruinen des alten Klosters Liktse liegen, war das Lager
@@ -467,7 +467,7 @@ gespannt hatten, zerriß es durch den Druck des Windes und der Wellen
 und mußte noch einmal gespannt werden. Wir hatten +12 Grad in der
 Luft und +15,<small>4</small> Grad im Wasser, aber die Leute waren doch
 vom Wind so durchfroren, das sie ein großes Feuer anzünden mußten. Obendrein
-regnete es tüchtig, der erste Regen,seit wir Ladak verlassen hatten!
+regnete es tüchtig, der erste Regen, seit wir Ladak verlassen hatten!
 Im Gebirge grollte der Donner.
 
 In der Nacht blieb die Minimumtemperatur zum erstenmal über
@@ -540,7 +540,7 @@ direkt nach dem Paß hinaufgeht, dessen Schwelle sich im Süden
 abzeichnet. Stundenlang ritten wir bergan, obgleich die Steigung nicht
 merkbar war; der Wind kam uns gerade entgegen. Rechts hatten wir
 jetzt einen Teil der wasserscheidenden Himalajakette, die wir von Tradum
-aus gesehen hatten. sie wurde durch eine eigentümliche, scharf begrenzte
+aus gesehen hatten. Sie wurde durch eine eigentümliche, scharf begrenzte
 Wolke verdeckt, die einem weißen Torpedo glich, von dessen nördlicher
 Spitze sich dann und wann kleine Wolkenflocken loslösen und verflüchtigen.
 In dem Seitental, das ganz in der Nähe der außerordentlich flachen

@@ -195,7 +195,7 @@ offene Tal des Tschema-jundung-Flusses zu gelangen, der von einem
 ziemlich großen Gletscher im Süden herkommt, der zu der Gruppe
 Tschema-undung-pu gehört. Hier gab es mehrere Nomadenzelte und sieben von
 Pilgern aus Bongba bewohnte Zelte auf einem Haufen. Mit Kind und
-Kegel waren diese. Pilger nach dem Kang-rinpotsche unterwegs, um die
+Kegel waren diese Pilger nach dem Kang-rinpotsche unterwegs, um die
 Wallfahrt um den heiligen Berg zu machen. Die meisten Pilger aus dem
 fernen Osten schlagen diesen südlichen Weg ein; auf dem Heimweg gehen
 sie dann über den Marium-la.

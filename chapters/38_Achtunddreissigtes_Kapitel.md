@@ -101,7 +101,7 @@ Gucklöcher angefertigt; er sah in dem Kleidungstück, das gut in das Land
 der religiösen Maskeraden paßte, urkomisch aus.
 
 Der Weg, der in dem breiten Tal des Pu-tschu aufwärts steigt,
-führte bis Serme-lartsa dur offenes, schwach gewelltes Gelände.
+führte bis Serme-lartsa durch offenes, schwach gewelltes Gelände.
 Hier wurde der alte Guffaru krank gemeldet, er litt an Kolik und
 wurde aufs beste verpflegt. Aber spät am Abend kam Robert atemlos
 in mein Zelt, um mitzuteilen, der Alte liege im sterben. Als ich in
@@ -188,9 +188,9 @@ wünschte, die ich in Raga-tasam erwarten würde.
 
 Sobald mein Entschluß gefaßt war, rief ich Tundup Sonam und
 Taschi in mein Zelt und befahl ihnen, zunächst bis Mitternacht auszuschlafen.
-Dann schrieb ih die erwähnten Briefe nebst Briefen an meine
+Dann schrieb ich die erwähnten Briefe nebst Briefen an meine
 Eltern und an Major O'Connor. Als die Post fertig war, hatte auch
-die Mitternachtsstunde gescchlagen. Das Lager lag schon mehrere Stunden
+die Mitternachtsstunde geschlagen. Das Lager lag schon mehrere Stunden
 in tiefem Schlaf, als ich durch den Nachtwächter die beiden Eilboten
 und Muhamed Isa wecken ließ. Jetzt erhielten sie Befehle, wie noch nie
 zuvor! Sie sollten Tag und Nacht 350 Kilometer nach Schigatse
@@ -244,7 +244,7 @@ flehentlichen Tönen aufzubrechen. Als dies nichts nützte, erklärten sie schli
 daß sie uns nicht länger mit Lebensmitteln versehen könnten, da in dieser
 Gegend nichts mehr zu haben sei. Ich fragte versuchsweise, ob sie zwei
 Briefe an die Mandarinen in Lhasa befördern wollten, aber sie
-erwiderten, das sie dazu nicht berechtigt seien. sie waren sehr
+erwiderten, das sie dazu nicht berechtigt seien. Sie waren sehr
 verwundert, als sie erfuhren, das ich die Briefe schon vor fünf Tagen
 abgeschickt hatte. Zwei Tage lag auch ich zu Bett, da ich vor Erschöpfung
 ganz am Ende meiner Kräfte war, und ließ mir von Robert vorlesen.

@@ -2,7 +2,7 @@
 Brahmaputra.`**<br /><br /> {#Kapitel_zweiundvierzig .unnumbered}
 
 ::: justified
-*J*etzt waren wir schon weit nach Westen gelangt; Schritt für Schritt
+**J**etzt waren wir schon weit nach Westen gelangt; Schritt für Schritt
 hatte die Macht der Verhältnisse mich gezwungen, immer größere
 Gebiete des Landes im Norden hinter mir zurückzulassen! Es grämte
 mich, aber ich wollte wenigstens versuchen, aus der mir aufgezwungenen
@@ -114,7 +114,7 @@ einen Holzpflock mit einem weißen Zeuglappen in den Ufersand ein,
 Tälern hinunterzuschicken!“
 
 In Tok-dschonsung, wo wir zwischen einigen Nomadenzelten
-lagerten, sah der Tshema mächtig aus, aber sein Wasser strömte auch
+lagerten, sah der Tschema mächtig aus, aber sein Wasser strömte auch
 sehr langsam. Die Nomaden der Gegend gehen im Winter nach
 Tschang-tang hinauf. Auch hier erfuhren wir, wie schon früher bei
 mehreren Gelegenheiten, das in Purang die schwarzen Pocken furchtbar
@@ -130,7 +130,7 @@ Lager in Schärjak erreichten, ließen wir ihn zur Rechten liegen.
 Bei heftigem Wind ritten wir am 11. Juli weiter südwestlich. Schon
 hier passierten wir poröse, schmelzende Schneeflecken. Anstehendes Gestein
 war nicht mehr sichtbar, alles Geröll bestand aus Granit und grünem
-sShiefer. Wir folgen einem deutlich erkennbaren Nomadenpfad, der nach
+Schiefer. Wir folgen einem deutlich erkennbaren Nomadenpfad, der nach
 dem kleinen Paß Tso-niti-kargang in dem Landrücken, der eine
 Wasserscheide zwischen dem Tschema-jundung und dem Kubi-tsangpo ist,
 hinauf führt. Das mächtige Tal des letzteren haben wir jetzt südlich unter uns.
@@ -182,7 +182,7 @@ um nicht selber darin umzukommen. Jetzt im Frühling hatte man sich
 hinaufbegeben und die Gerippe und Häute der umgekommenen Tiere
 gefunden. Der Gova von Schamsang hatte kürzlich auf gleiche Weise einige
 Pferde verloren. Nicht einmal die Wildesel können sich vor diesem Frühschnee
-retten. sie können nicht laufen, wenn der Schnee tief ist; wenn
+retten. Sie können nicht laufen, wenn der Schnee tief ist; wenn
 sie vergeblich versucht haben, sich auf schneefreien Boden zu flüchten,
 verhungern und erfrieren sie zwischen den Schneewehen. Unsere drei
 Führer, die selber den Sommer hier oben verleben, versicherten mir,

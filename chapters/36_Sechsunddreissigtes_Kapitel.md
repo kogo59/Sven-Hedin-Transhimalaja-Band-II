@@ -77,8 +77,8 @@ ist das letzte Dorf, das Ackerbau treibt; wir befanden uns hier also auf
 der Grenze zwischen Ackerbau und Viehzucht, auch auf der zwischen
 Steinhäusern und schwarzen Zelten.
 
-Es ist also noch Zeit, in eine gewöhnliche tibetische Steinhütte hinein-
-zusehen, die einer in gesicherten Verhältnissen lebenden Familie gehörte.
+Es ist also noch Zeit, in eine gewöhnliche tibetische Steinhütte
+hineinzusehen, die einer in gesicherten Verhältnissen lebenden Familie gehörte.
 Die Mauern bestanden aus unbehauenem, nicht geputztem Feldstein,
 Erdfüllung aber hinderte den Wind, durch die Lücken zu wehen. Über ein
 Labyrinth von Mauern und kleinen runden Blöcken, die so dicht lagen,

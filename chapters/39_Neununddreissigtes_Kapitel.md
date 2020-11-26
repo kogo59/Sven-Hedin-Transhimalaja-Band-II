@@ -408,7 +408,7 @@ hatten von meinem langen Aufenthalt gehört und wollten nun selber
 untersuchen, wie alles zusammenhinge. Der Gova von Njuku ergriff
 zuerst das Wort:
 
-„In Ihrem Pas stehen Saka und Tradum, aber nicht Njuku.
+„In Ihrem Paß stehen Saka und Tradum, aber nicht Njuku.
 Kommen sie trotzdem dorthin, so erlaube ich Ihnen, eine Nacht zu
 verweilen, jedoch nicht länger, denn in dem Passe steht, daß Sie
 geradeswegs nach Tradum reisen müssen.“

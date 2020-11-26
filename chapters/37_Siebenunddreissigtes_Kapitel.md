@@ -218,9 +218,9 @@ nicht reich; es bezieht seinen Unterhalt von Nomaden in Naltsang, Largäp
 und Särschik. Das Kloster besteht zum größten Teil aus Stein, hat
 aber auch Gebälk, das aus dem Schangtal hierher transportiert worden
 ist. Ein Dukang ist vorhanden, sowie eine Anzahl kleinerer
-Götterstatuen. Auch der Bergstocj Targo-gangri kann umwandert werden, man
+Götterstatuen. Auch der Bergstock Targo-gangri kann umwandert werden, man
 hat dabei nur einen einzigen Paß zu überschreiten, nämlich den Barong-la
-oder Parung, der zwischen dem Targo- gangri und der mächtigen Kette
+oder Parung, der zwischen dem Targo-gangri und der mächtigen Kette
 im Westen des Schuru-tso liegt.
 
 Die kurze, hohe, meridionale Kette, die Targo-gangri heißt und
@@ -311,7 +311,7 @@ des Targo-gangri verdeckte jetzt die übrigen Teile der Kette, aber noch
 bevor wir das Lager 151 erreicht hatten, sahen wir sie wieder in Verkürzung
 hinter uns. Dieses Lager stand auf dem linken Ufer des Flusses.
 
-|   1. Mai. Der Frühling ist gekommen; wohl haben wir während
+&nbsp;1. Mai. Der Frühling ist gekommen; wohl haben wir während
 der letzten Nächte noch bis zu 16 Grad Kälte gehabt, aber die Tage
 sind herrlich und klar, und selbst wenn man direkt gegen den Wind
 reitet, empfindet man ihn nicht so lästig wie in Tschang-tang. Im Lager
