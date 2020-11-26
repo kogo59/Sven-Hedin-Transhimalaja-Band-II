@@ -143,10 +143,10 @@
 319. [Der Scha-kangscham.](ch028.xhtml#b0256_319)
 320. [Der Scha-kangscham.](ch028.xhtml#b0256_320) Nach Aquarellen des Verfassers.
 321. [Der Verfasser als Schafhirt verkleidet.](ch028.xhtml#b0256_321) Zeichnung von de Haenen.
-322. Übergang über das Eis des Kangscham-tsangpo. Zeichnung von de Haenen.
-323. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.
-324. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.
-325. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen. Nach Aquarellen des Verfassers.
+322. [Übergang über das Eis des Kangscham-tsangpo.](ch029.xhtml#b0264_322) Zeichnung von de Haenen.
+323. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_323)
+324. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_322)
+325. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_322) Nach Aquarellen des Verfassers.
 326. Abdul Kerims Zelt.
 327. Rindors Wachmannschaft.
 328. Dortsche Tsuän und sein Amtsbruder Ngavang.
