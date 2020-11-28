@@ -168,7 +168,7 @@ Gefangenschaft tröste, erhielt er Blut und Eingeweide des geschlachteten Schafe
 ::::
 
 :::: {.wrap-100 .break-before}
-![329. Ein „Kavallerist“ meiner Eskorte. <small>Skizze des Verfassers</small>](Transhimalaja_Band_II_272_329.jpg "Transhimalaja_Band_II_272_329.jpg"){#b0272_329}
+![329. Ein „Kavallerist“ meiner Eskorte. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_272_329.jpg "Transhimalaja_Band_II_272_329.jpg"){#b0272_329}
 ::::
 
 Am 20. passierten wir wieder eine kleine Paßschwelle (5955 Meter)

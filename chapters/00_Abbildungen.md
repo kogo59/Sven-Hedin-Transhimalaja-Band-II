@@ -151,13 +151,13 @@
 327. [Rindors Wachmannschaft.](ch030.xhtml#b0272_327)
 328. [Dortsche Tsuän und sein Amtsbruder Ngavang.](ch030.xhtml#b0272_328)
 329. [Ein „Kavallerist“ meiner Eskorte.](ch030.xhtml#b0272_329) Skizze des Verfassers.
-330. Kantschung-gangri und Laptschung-tso von Lager Nr. 400 aus. Nach einem Aquarell des Verfassers.
-331. Aufbruch zum Lamlung-la.
-332. Seine Exzellenz der Herr Gouverneur von Saka unterwegs.
-333. Pantschor, Führer zum Teri-nam-tso.
-334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.
-335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu.
-336. Soldat aus Souam Ngurbus Eskorte. Skizzen des Verfassers.
+330. [Kantschung-gangri und Laptschung-tso von Lager Nr. 400 aus.](ch031.xhtml#b0280_330) Nach einem Aquarell des Verfassers.
+331. [Aufbruch zum Lamlung-la.](ch031.xhtml#b0280_331)
+332. [Seine Exzellenz der Herr Gouverneur von Saka unterwegs.](ch031.xhtml#b0280_332)
+333. [Pantschor, Führer zum Teri-nam-tso.](ch031.xhtml#b0280_333)
+334. [Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.](ch031.xhtml#b0280_334)
+335. [Sonam Ngurbu, Statthalter der Provinz Tschoktschu.](ch031.xhtml#b0280_335)
+336. [Soldat aus Sonam Ngurbus Eskorte.](ch031.xhtml#b0280_335) Skizzen des Verfassers.
 337. Abschiedsfest für die Tibeter am 5. Mai 1908. Zeichnung von de Haenen.
 338. 339. Soldaten unserer Eskorte.
 340. 341. Soldaten aus Tagla Tserings Gefolge. Skizzen des Verfassers
