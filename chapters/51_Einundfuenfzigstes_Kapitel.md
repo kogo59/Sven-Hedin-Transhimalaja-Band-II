@@ -182,7 +182,7 @@ Kloster ein, in dessen Herberge sie kostenfrei übernachten dürfen ([Abb. 268](
 Sie war zum Bersten voll, nachdem auch noch eine Gesellschaft von
 Wanderern, die zur Pembosekte gehörten, angelangt war; diese umwandern den
 Berg natürlich in verkehrter Richtung, und die Orthodoxen, die ihnen
-begegnen, werfen ihnen verächhtliche Blickke zu. Ich zog es daher vor,
+begegnen, werfen ihnen verächtliche Blicke zu. Ich zog es daher vor,
 mein Zelt auf dem Dache aufzuschlagen, wo das Gepäck der Pilger in
 Haufen aufgestapelt lag. Auch von hier hat man eine prachtvolle
 Aussicht auf den Kailas, dessen Gipfel sich gerade im Süden zeigt ([Abb. 270](ch020.xhtml#b0176_270)).
@@ -359,7 +359,7 @@ quälen, nicht zerrissen werden kann. Sie beginnen ihre Bahn bei
 Tartschen-labrang, und jede neue Wegbiegung führt sie dem Punkt, der den
 Ring schließt, einen Schritt näher. Und während der ganzen
 Umwanderung beten sie „Om mani padme hum“ und lassen jedesmal, wenn
-dies Gebet gesprochen ist, eine Kugel des Rosenkranzes durchc die Finger
+dies Gebet gesprochen ist, eine Kugel des Rosenkranzes durch die Finger
 gleiten. Aber auch der Fremdling nähert sich dem Kang-rinpotsche mit
 Ehrfurcht. Es ist der unvergleichlich berühmteste Berg der Erde. Der
 Mount Everest und der Montblanc können sich an Berühmtheit nicht
@@ -387,7 +387,7 @@ davon haben wolle!
 Als wir uns einige Tage später zum zweitenmal Diri-pu näherten,
 erblickten wir zwei junge Lamas, die die Niederwerfungswanderung um
 den Berg gerade ausführten. Sie waren aus Kham, und zwar aus der
-Gegend dieses Landes, „wo die lezten Menschen wohnen“, und schon
+Gegend dieses Landes, „wo die letzten Menschen wohnen“, und schon
 ein ganzes Jahr unterwegs, um nach dem Kailas zu gelangen. Sie
 waren arm und zerlumpt und hatten nichts zu tragen, da sie nur von
 frommen Gaben lebten. In neun Tagen waren sie von Tartschen nach

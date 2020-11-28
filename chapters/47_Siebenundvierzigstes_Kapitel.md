@@ -167,7 +167,7 @@ in der Fassade von Gossul-gumpa lag am 8. August 1907 gerade
 37,<small>40</small> Meter über dem Spiegel des Sees, wie ich mit Hilfe
 des Nivellierspiegels festgestellt habe.
 
-Wir stiegen auf das Dach des Klosters Gossulo-gumpa. Es ist
+Wir stiegen auf das Dach des Klosters Gossul-gumpa. Es ist
 flach, wie die meisten Klosterdächer, hat einen Rauchfang, eine Brüstung
 und Wimpel. Keine irdische Sprache verfügt aber über Worte, die
 fähig wären, die Aussicht, die man von hier aus über den See hat, zu
@@ -273,13 +273,13 @@ Indus, der Satledsch und der Ganges, ihre Quellen haben; umgeben
 von einer Welt von Bergen, von denen der Kailas der berühmteste der
 Welt ist, denn er ist Hunderten von Millionen Hindus heilig. Zentrum
 eines Kranzes von Klöstern, auf deren Dächern jeden Morgen die Stöße
-des Muschelhorns über den See hinschallen, sobald die Sonne aufgeht ;
+des Muschelhorns über den See hinschallen, sobald die Sonne aufgeht;
 Achse und Scheibe des Rades, das ein Bild des Lebens ist und dessen
 Kreis die Pilger auf dem befreienden Wege nach dem Land der
 Vollkommenheit umwandern. Das ist der Manasarovar, die Perle aller Seen
 der Erde! Schon zu uralten Zeiten, als die Vedabücher^[^0123]^ geschrieben wurden,
 haben seine blauen Wogen im Lauf der Jahrhunderte unzählige Scharen
-gläubiger Hindus und Tibeter au seine Ufer kommen sehen, um dort zu
+gläubiger Hindus und Tibeter an seine Ufer kommen sehen, um dort zu
 trinken, zu baden und Ruhe für ihre Seele zu finden. Es gibt gewiß
 schönere Seen auf Erden. Der Nachbar im Westen, der Langak-tso, ist
 zum Beispiel malerischer. Aber es gibt keinen, der mit der Naturschönheit

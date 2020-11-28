@@ -204,7 +204,7 @@ Preis, den ich bezahlte, mir wieder abzukaufen, wenn sie lebend
 zurückkämen. Ich bezahlte für alle zwanzig zusammen 1780 Rupien. Auch
 besaß ich selbst noch fünf Tiere, seitdem ein kleiner weißer Maulesel
 in Gartok von Wölfen zerrissen worden war. Ein ganzes Rudel hatte
-unsere legten sechs Tiere überfallen, der Nachtwächter hatte die Wölfe
+unsere letzten sechs Tiere überfallen, der Nachtwächter hatte die Wölfe
 nicht verjagen können, und der Maulesel war grauenhaft verwundet
 worden. Man hatte ihn noch vor den Wölfen herlaufen sehen, als ihm
 die Eingeweide schon lang nachschleppten. Der letzte Maulesel aus
@@ -334,7 +334,7 @@ Robert hatte sie beim Zusammentreffen so durchfroren und erschöpft
 gefunden, daß er erst die ganze Gesellschaft hatte massieren müssen, um
 wieder Leben in sie zu bringen.
 
-Sofort gab ich Befehl, ein gewaltiges Feuer anzuzünden und Tec
+Sofort gab ich Befehl, ein gewaltiges Feuer anzuzünden und Tee
 aufzusetzen. Sie kamen mit ihren beladenen Mauleseln heran, zwei
 Mohammedaner, drei Hindus, alle in dunkelblauen Uniformen mit hohen
 blau und weißen Turbanen und Gewehren mit Bajonetten. Ich hieß sie
@@ -351,7 +351,7 @@ Zigarren, Zigaretten und Pfeifentabak, goldene und silberne Uhren und
 Revolver mit Munition, beides zu Geschenken bestimmt, Patronen zu
 zweien unserer Flinten, Notizbücher und Kartenpapier, eine ganze
 Bibliothek neuer Romane, Jack Londons „The call of the wild“, ein
-Geschenk O'Connor und eine passende Lektüre für die Zeit der Abenteuer  
+Geschenk O'Connors und eine passende Lektüre für die Zeit der Abenteuer  
 die unser wartete, einen Anemometer^[^0196]^ und einen Aräometer^[^0197]^, Geschenke
 des Chefs der meteorologischen Zentralanstalt in Simla, Dr. Gilbert
 Walker^[^0198]^, und eine Menge anderer ebenso notwendiger wie willkommener
@@ -368,7 +368,7 @@ ihnen Winteranzüge, nahm dann herzlichen Abschied von meinem
 redlichen Freunde Gulam Rasul, ohne dessen Beistand die neue Reise
 unmöglich gewesen wäre, dankte Thakur Jai Chand und den anderen
 Hindus für ihre Freundlichkeit und brach am 9. November 1907 nach
-Nordwesten auf, dem Laufe des oberen Indus folgend (Abb. 276 und [285](ch022.xhtml#b0200_285)—[294](ch023.xhtml#b0216_294)).
+Nordwesten auf, dem Laufe des oberen Indus folgend (Abb. [276](ch020.xhtml#b0176_276) und [285](ch022.xhtml#b0200_285)—[294](ch023.xhtml#b0216_294)).
 
 Am 26. erreichten wir Tankse, wo die Honoratioren der Gegend
 und sogar der Tesildar^[^0199]^ aus Leh selbst uns empfingen. Sie hatten schon

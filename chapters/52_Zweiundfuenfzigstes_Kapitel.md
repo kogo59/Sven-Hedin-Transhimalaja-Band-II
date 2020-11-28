@@ -150,8 +150,8 @@ Pilgerstraßen nach unzähligen Heiligtümern angeben zu können. Auf dieser Kar
 würden fern im Norden zahlreiche Straßen, wie Speichen eines Rades,
 bei Da Kuren, dem Tempel des Maidari in Urga^[^0170]^, zusammenlaufen. Noch
 dichter würden die Radien von jedem bewohnten Punkt des ungeheuren
-Gebietes der Lamaherrschaft nach ihrem Hauptbrennpunkt Lhasa hin-
-zeigen. Etwas weniger dicht würden sie sich in Taschi-lunpo vereinigen.
+Gebietes der Lamaherrschaft nach ihrem Hauptbrennpunkt Lhasa hinzeigen.
+Etwas weniger dicht würden sie sich in Taschi-lunpo vereinigen.
 Von den äußersten Grenzgebieten Tibets würden wir unzählige gewundene
 Wege und Stege ausgehen sehen, die alle nach dem heiligen Kailas
 hinstreben. Wir wissen, daß sie vorhanden sind, und man bedarf keiner
@@ -178,8 +178,8 @@ Laien unablässig wiederholt wird, denn man glaubt, daß ihr bloßes
 Aussprechen den Zyklus der Wiedergeburten zum Stillstande bringe und den,
 der sie ausspricht, direkt ins Paradies hineinführe. So wird in der
 Mani-kah-bum mit rhapsodischer Überschwänglichkeit versichert, daß die
-Formel ‚die Quintessenz jedes Glückes, Wohlergehens und Wissens
-und das große Mittel zur Erlösung‘ sei. Denn om macht der
+Formel‚ die Quintessenz jedes Glückes, Wohlergehens und Wissens
+und das große Mittel zur Erlösung sei. Denn om macht der
 Wiedergeburt unter den Göttern ein Ende, ma unter den Titanen, ni als
 Mensch, pad in Tiergestalt, me als ein Tantalus und hum als ein
 Bewohner des Totenreichs. Und daneben wird noch jedem der sechs

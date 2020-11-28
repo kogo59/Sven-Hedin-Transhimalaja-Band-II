@@ -78,7 +78,7 @@ war es zum Anlegen der Verkleidung schon zu spät? Dann wäre mein
 ganzer Plan gescheitert und der ganze Winter unnütz vergeudet gewesen!
 
 Doch wir hatten wenigstens frisches Fleisch. Untersuchen wir die
-lau konstruierte Falle, während das Tier noch darin sitzt. In einem
+schlau konstruierte Falle, während das Tier noch darin sitzt. In einem
 Ring von fest zusammengedrehten Pflanzenfasern sind Knochenblättchen
 von Antilopenrippen so gleichmäßig eingefügt, daß sie einen Trichter
 bilden, dessen Spitze sich unten in der Grube befindet. Vor einer Reihe

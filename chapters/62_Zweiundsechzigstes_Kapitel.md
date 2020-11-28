@@ -88,7 +88,7 @@ die Verstauchung zu heben! Ich merkte keine Besserung nach dieser
 Pferdekur. Nein, er war für uns verloren, jetzt, wo wir nicht in der Lage
 waren, eines unserer besten Tiere entbehren zu können!
 Und verloren war er denn auch, am Morgen des 8. konnte er
-feinen Schritt mehr gehen. Es war mir schwer ums Herz, als ich ihn
+keinen Schritt mehr gehen. Es war mir schwer ums Herz, als ich ihn
 zum Tode verurteilen mußte; er hatte nichts Böses getan, und es war
 traurig, das frische, gesunde Blut in einem kräftigen Strahl aufspringen
 und den wüsten, unfruchtbaren Boden befeuchten zu sehen. Er lag still
@@ -220,7 +220,7 @@ als an meinen alten treuen Reisekameraden, den ältesten aller derer, die
 mit mir in Tibet gewesen waren, die braune Puppy! Mit dem gelben
 Hund war sie gestern bei dem Maulesel zurückgeblieben, der seines
 verstauchten Fußes wegen hatte getötet werden müssen, und seitdem hatte
-keiner die beiden wiedergesehen. Wir hatten gehofft, daß sie uns, wie .
+keiner die beiden wiedergesehen. Wir hatten gehofft, daß sie uns, wie
 schon unzählige Male, wiederfinden würden. Aber jetzt sah ich ein, daß
 sie unsere Spur verloren hatten und uns nun, verzweifelt und
 wahnsinnig vor Angst, über Berge und Täler suchten, aber nur um sich immer
@@ -370,7 +370,7 @@ Schon um neun Uhr sah man dichte Tromben sich wie gespenstische
 Pinien langsam über die Ebene hindrehen, und dann war der Sturm
 wieder in seiner gewöhnlichen Stärke da. Wir hatten nur für einen
 Tag Tsamba, aber das spielte, solange wir noch so reichliche
-Fleischvorräte besaßen, feine Rolle. Es war ein beruhigendes Gefühl, sich
+Fleischvorräte besaßen, keine Rolle. Es war ein beruhigendes Gefühl, sich
 vom Gertse Pun zu entfernen; in diesem Flugsand war es unmöglich,
 unsere Spur zu finden — war es doch unseren eigenen Hunden unmöglich.
 Klein-Puppy vermißt seine Mutter nicht, im Gegenteil, er kommt sich

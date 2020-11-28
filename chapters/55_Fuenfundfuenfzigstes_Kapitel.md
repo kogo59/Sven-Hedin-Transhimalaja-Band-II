@@ -1,7 +1,7 @@
 # Fünfundfünfzigstes Kapitel.&nbsp;<br />**`Ein neues Kapitel.`**<br /><br /> {#Kapitel_fuenfundfuenfzig .unnumbered}
 
 ::: justified
-*S*obald wir fertig waren, stiegen wir zu Pferd und ritten nach Drugub
+**S**obald wir fertig waren, stiegen wir zu Pferd und ritten nach Drugub
 hinunter. Bald zeichnete sich das alte Dorf mit dem Hause, in
 welchem ich vor sechs Jahren gewohnt, und dem Garten, wo wir im
 Jahre 1906 Rast gehalten hatten, ab. Auf einer Terrasse unterhalb des
@@ -255,7 +255,7 @@ vor meinem Pferde, das bis zur Hälfte des Sattels naß wurde. Man
 muß daher die Beine so hoch hinaufziehen wie irgend möglich; in dieser
 Stellung ist es recht schwierig, Balance zu halten, wenn das Pferd
 zwischen den Blöcken die unerwartetsten Kuhsprünge macht! Als ich mit
-heiser Haut über die letzte Furt gelangt war, riefen die Männer so laut
+heiler Haut über die letzte Furt gelangt war, riefen die Männer so laut
 Hurra, daß es von den Bergen widerhallte; die Folgen meines
 Fußbades neutralisierte ein sprühendes Feuer. Jeder Mann, der frostbebend,
 triefend und blaugefroren herüberkam, mußte sich sofort ans Feuer setzen.
@@ -338,7 +338,7 @@ aufhören, und dann konnten wir uns ein wenig mehr beeilen. Wir
 ruhten also einen Tag aus, als der Kaufmann Muhamed Rehim aus
 Chotan mit seiner Karawane in der Oase ankam. Er blieb aber nur
 eine Stunde — er sehnte sich nach wärmeren Gegenden und war froh,
-daß er den Kara-korum-Paß hinter sic hatte. Er gab mir den
+daß er den Kara-korum-Paß hinter sich hatte. Er gab mir den
 dringenden Rat, mit dem Übergang bis zum Frühling zu warten, da der Schnee
 auf dem Paß höher als gewöhnlich liege. Auch einer seiner
 Karawanenleute trat an mich heran und schenkte mir eine Handvoll gedörrter

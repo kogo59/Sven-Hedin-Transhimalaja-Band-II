@@ -173,7 +173,7 @@ Abhängen der linken Talseite klettert man auf einem abschüssigen
 Zickzackweg wieder in die Höhe; die Schneemenge nimmt zu, und der Schnee
 hat sich besonders auf dem Pfade angehäuft; er ist glatt; ein Fehltritt
 des Pferdes, und man ist rettungslos verloren. Die Landschaft ist
-großartig, aber man hat feinen rechten Genuß davon, wenn es mittags um
+großartig, aber man hat keinen rechten Genuß davon, wenn es mittags um
 ein Uhr schon 17,<small>6</small> Grad kalt ist! Und dann geht es wieder Hals über
 Kopf nach dem Talgrund hinunter, wo wir eine natürliche Blockbrücke
 passieren, bei der Menschenhände nachgeholfen haben. Unsere Richtung

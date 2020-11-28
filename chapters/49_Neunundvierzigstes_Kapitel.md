@@ -1,7 +1,7 @@
 # Neunundvierzigstes Kapitel.&nbsp;<br />**`Abenteuer auf dem Langak-tso.`**<br /><br /> {#Kapitel_Neunundvierzig .unnumbered}
 
 ::: justified
-*I*ch habe die Schilderung meines Lebens an dem ehrenreichen See
+**I**ch habe die Schilderung meines Lebens an dem ehrenreichen See
 nicht mit Berichten über unsere politischen Besorgnisse gestört. Es
 genügt zu sagen, daß es mir gelang, uns dort einen ganzen Monat zu
 halten. Oft kamen Reiter und andere Boten, um sich über mich zu
@@ -327,7 +327,7 @@ die südlichste der Inseln liegt. Es stürmte, aber hier fanden wir Schutz
 unter der Felswand, auf deren Gipfel eine Wimpelstange errichtet war.
 Steinmauern, Lumpen und Eierschalen zeugten von menschlichen Besuchen.
 Im Osten und Westen des Vorgebirges hatten wir offene Buchten mit
-hohem Seegang, und in N&nbsp;19°nbsp;O sah man die südlichste Spitze der Insel,
+hohem Seegang, und in N&nbsp;19°&nbsp;O sah man die südlichste Spitze der Insel,
 einen abschüssigen dunkeln Felsen, der sich wie ein gewaltiges Brötchen
 aus den Wellen erhebt. Wir hatten von dieser Insel, Latsche-to,
 schon gehört; im Mai legen die Wildgänse hier ihre Eier, und Leute

@@ -49,7 +49,7 @@ als er spät abends im nächsten Lager ankam, war er so dick und faul,
 daß man sich sagen konnte, er habe sich gleich auf mehrere Tage versorgt.
 Zwei Raben folgten uns mit ihrem heiseren Krächzen. Der Schnee fiel
 in dichten Flocken und verbarg die Aussicht. In seinem Nebel verschwand
-eine Herde Antilopen wie Schatten. Ein Schaf starb auf dem Marsch, ,
+eine Herde Antilopen wie Schatten. Ein Schaf starb auf dem Marsch
 und zwei mußten geschlachtet werden, weil ihre Kräfte erschöpft waren;
 jetzt hatten wir nur noch drei. An diesem Abend hatten wir klingenden
 Frost, und die Kälte ging wieder auf 36,<small>1</small> Grad hinunter.
@@ -233,31 +233,31 @@ und macht uns bald Zeichen, nachzukommen. Wir ziehen nach dem Ufer
 hinab und auf eine Landspitze hinaus, die sich in einen nadelfeinen
 Erddamm verschmälert.
 
-:::: {.wrap-40 .float-left .break-before}
+:::: {.w-40 .float-left .break-before}
 ![300. Tubges.](Transhimalaja_Band_II_232_300.jpg "Transhimalaja_Band_II_232_300.jpg"){#b0232_300}
 ::::
 
-:::: {.wrap-40 .float-right}
+:::: {.w-40 .float-right .break-after}
 ![301. Kuntschuk.](Transhimalaja_Band_II_232_301.jpg "Transhimalaja_Band_II_232_301.jpg"){#b0232_301}
 :::
 
-:::: {.wrap-40 .float-left .break-before}
+:::: {.w-40 .float-left }
 ![302. Suän, der maître de plaisir der Karawane, tanzend.](Transhimalaja_Band_II_232_302.jpg "Transhimalaja_Band_II_232_302.jpg"){#b0232_302}
 ::::
 
-:::: {.wrap-40 .float-right}
+:::: {.w-40 .float-right .break-after }
 ![303. Suän, der maître de plaisir der Karawane, tanzend.](Transhimalaja_Band_II_232_303.jpg "Transhimalaja_Band_II_232_303.jpg"){#b0232_303}
 ::::
 
-:::: {.wrap-40 .break-before .float-left}
+:::: {.w-40 .float-left }
 ![304. Meine braune Puppy mit dem Koch Tsering.](Transhimalaja_Band_II_232_304.jpg "Transhimalaja_Band_II_232_304.jpg"){#b0232_304}
 ::::
 
-:::: {.wrap-40 .float-right}
+:::: {.w-40 .float-right .break-after}
 ![305. Mein weißer Ladaki.](Transhimalaja_Band_II_232_305.jpg "Transhimalaja_Band_II_232_305.jpg"){#b0232_305}
 ::::
 
-:::: {.wrap-100 .break-before}
+:::: {.wrap-100 }
 ![306. Mein weißer Ladaki.](Transhimalaja_Band_II_232_306.jpg "Transhimalaja_Band_II_232_306.jpg"){#b0232_306}
 ::::
 
@@ -317,7 +317,7 @@ nun schon so entwickelt, daß er allein draußen zwischen den Zelten
 umherspazierte, um Fleisch zu mausen. Das eine Schaf wurde geschlachtet.
 
 Abends wurde die Kälte wieder schlimmer, in der Nacht hatten wir
-— 34,<small>6</small> Grad. Der kranke Maulesel suchte hinter dem Leutezelt
+—34,<small>6</small> Grad. Der kranke Maulesel suchte hinter dem Leutezelt
 Schutz, legte sich aber bald nieder und ließ klagendes Stöhnen hören. Ich ging
 hinaus und befahl den Männern, ihn von jeglichem Gefühl der
 Erschöpfung zu befreien.
@@ -326,15 +326,15 @@ Am Morgen des 28. fanden wir wieder zwei Pferde tot im Gras.
 Das eine war der Veteran aus Leh, den Robert geritten und der auch mich
 nach den Quellen des Satledsch getragen hatte. Ich besaß jetzt nur
 noch 23 Tiere, und mein kleiner Ladakischimmel war der allerletzte der
-Veteranen geworden. Als er mich über den Tschang-lung- jogma trug, hatte
-ih niht geahnt, daß er etwa 150 Kameraden überleben werde! Jeden
+Veteranen geworden. Als er mich über den Tschang-lung-jogma trug, hatte
+ich nicht geahnt, daß er etwa 150 Kameraden überleben werde! Jeden
 Morgen hingen zwei lange Eiszapfen an seinen Nüstern; er wurde aber
 besonders liebevoll behandelt, und ich hob ihm jeden Morgen eine
 Semmel von meinem Frühstück auf.
 
 Ein Verlust von drei Tieren an einem Tag war für eine Karawane
 wie die unsere recht viel. Wie sollte das schließlich enden? Wir
-hatten ja noch unendliche Entfernungen vor uns, Drei Stunden lang
+hatten ja noch unendliche Entfernungen vor uns. Drei Stunden lang
 arbeiteten wir uns heute mit ersterbenden Schritten nach diesem greulichen
 Paß, der eine Höhe von 5572 Meter hatte, hinauf, lagerten dann im
 Schutz eines Felsens und schlachteten das letzte, entkräftete Schaf. Wir

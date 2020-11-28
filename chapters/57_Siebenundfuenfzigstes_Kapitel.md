@@ -66,11 +66,11 @@ und Geschwister auf eine der Kisten in einer Reihe auf, wie ich es schon
 so manchen Weihnachtsabend in Asien getan hatte. Halb neun Uhr ging
 der Mond prachtvoll über den Gebirgen im Ostnordosten auf, und um
 neun Uhr war die Kälte auf 27,<small>1</small> Grad hinuntergegangen. Im Zelt
-konnte ich das Quecksilber nicht dazu bringen, über — 20 Grad zu steigen!
+konnte ich das Quecksilber nicht dazu bringen, über —20 Grad zu steigen!
 Meine Hände wurden so klamm, daß ich kein Buch halten konnte, sondern
 zu Bett gehen mußte. Und das war auch das beste, was ich tun konnte
 — so vergaß ich das Weihnachtsfest mit all seinen teuern Erinnerungen
-und seine einsame Wemut.
+und seine einsame Wehmut.
 
 Aber die Kälte sank auf 38,<small>6</small> Grad! Ein Pferd lag hartgefroren
 auf seinem Platz in der Reihe; die anderen standen schlaff mit
@@ -343,7 +343,7 @@ bevorstehende Zeit, da die herrlichen Sachen aus Simla alle verspeist sein
 würden, als daran, daß unsere Tiere mit jedem Tag leichtere Lasten
 haben müßten. Die Gesteinproben, die ich sammelte, wogen nicht schwer.
 Leider war der Gerstevorrat längst zu Ende, aber da, wo es schlechtes
-oder gar fein Gras gab, wurden für unsere Tiere Klöße von geröstetem
+oder gar kein Gras gab, wurden für unsere Tiere Klöße von geröstetem
 Mehl geknetet.
 
 Die andern sollten am 7. wiederkommen, so war ihnen gesagt

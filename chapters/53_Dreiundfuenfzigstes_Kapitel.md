@@ -78,6 +78,7 @@ Hinterhalt abzugeben. Ich beruhigte sie mit der Versicherung, daß kein
 Räuber es wagen werde, einen Europäer zu überfallen, gab aber doch
 dem Nachtwächter Befehl, auf unsere Tiere gut achtzugeben.
 
+Die Nacht verlief ruhig; die Minimumtemperatur ging auf 8,<small>8</small> Grad
 Kälte hinunter; der Herbst war schon wieder in das öde Tibet eingezogen!
 Ich hatte angenommen, daß der Tseti-la der entscheidende Paß sei, aber
 wir waren noch nicht weit gelangt, als wir seinen nach Norden
@@ -188,7 +189,7 @@ Rücken beinahe schwarz erschien.
 
 Wir ritten talaufwärts weiter und ließen eine rote, semmelförmige
 Bergpartie, die Lungdep-ningri hieß, rechts liegen. Gegenüber sahen
-wir an der nördlichen Talseite zwei ‘stattliche Ammonschafe auf einer
+wir an der nördlichen Talseite zwei stattliche Ammonschafe auf einer
 kegelförmigen Anhöhe äsen. Sie trugen prachtvolles Gehörn und hatten
 eine königliche Kopfhaltung. Sie bemerkten uns aber bald und wechselten
 langsam die Abhänge hinauf. Aber sie interessierten sich zu sehr für

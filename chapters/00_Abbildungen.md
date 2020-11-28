@@ -147,10 +147,10 @@
 323. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_323)
 324. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_322)
 325. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_322) Nach Aquarellen des Verfassers.
-326. Abdul Kerims Zelt.
-327. Rindors Wachmannschaft.
-328. Dortsche Tsuän und sein Amtsbruder Ngavang.
-329. Ein „Kavallerist“ meiner Eskorte. Skizze des Verfassers.
+326. [Abdul Kerims Zelt.](ch030.xhtml#b0272_326)
+327. [Rindors Wachmannschaft.](ch030.xhtml#b0272_327)
+328. [Dortsche Tsuän und sein Amtsbruder Ngavang.](ch030.xhtml#b0272_328)
+329. [Ein „Kavallerist“ meiner Eskorte.](ch030.xhtml#b0272_329) Skizze des Verfassers.
 330. Kantschung-gangri und Laptschung-tso von Lager Nr. 400 aus. Nach einem Aquarell des Verfassers.
 331. Aufbruch zum Lamlung-la.
 332. Seine Exzellenz der Herr Gouverneur von Saka unterwegs.

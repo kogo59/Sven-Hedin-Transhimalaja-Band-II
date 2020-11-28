@@ -65,7 +65,7 @@ Baum nur Rinpotsches und wirklichen Inkarnationen sichtbar sei, habe
 es für gewöhnliche Sterbliche so ausgesehen, als hänge das Kadach frei
 in der Luft.
 
-Am 11. August nahm ich einen langen Abschied von den liebensswürdigen
+Am 11. August nahm ich einen langen Abschied von den liebenswürdigen
 Mönchen Tugu-gumpas, die reiche Geschenke erhielten. Sie begleiteten
 uns nach dem Ufer hinunter, als wir abstießen, um nach Westen
 weiterzurudern. In einer großen Uferlagune, deren Wasser von den vielen
@@ -129,7 +129,7 @@ Problems, das ich mir gestellt hatte, einen Schritt näher. Als wir am 13.
 längs des Westufers nordwärts ruderten, gruben wir an einigen Stellen
 10 Meter vom Ufer Brunnen. Der Boden bestand aus
 abwechselnden Sand- und Tonlagern; zuoberst Sand, darauf eine Schicht
-verfaulter Pflanzenteile, dann ein 50 Zentimeter dies Sandlager, das auf
+verfaulter Pflanzenteile, dann ein 50 Zentimeter tiefes Sandlager, das auf
 Ton ruhte. Ein 62 Zentimeter tiefer Schacht füllte sich langsam mit
 Wasser; es hatte dasselbe Niveau wie der Seespiegel. Es durchdrang
 den Sand und stand auf dem Ton. Wenn dieses Tonlager sich, wie
@@ -292,7 +292,7 @@ niedlichen kleinen Kavalier mit einem roten Schellenhalsband aufgestöbert.
 Es war ein schönes Gefühl, auch diese letzte Linie nun erledigt zu haben
 und unter dem Licht der ewigen Sterne auf dem Sandufer einzuschlafen.
 
-Mit Rabsang machte ih am folgenden Morgen einen 27 Kilometer
+Mit Rabsang machte ich am folgenden Morgen einen 27 Kilometer
 langen Ritt nach Norden, um die Wassermenge der Flüsse des Patschen-
 und des Patschungtales zu messen. Wir hatten mit den anderen
 verabredet, daß wir uns am Nordufer, wohin sie mit dem Gepäck ruderten,
