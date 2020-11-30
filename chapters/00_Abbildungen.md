@@ -145,8 +145,8 @@
 321. [Der Verfasser als Schafhirt verkleidet.](ch028.xhtml#b0256_321) Zeichnung von de Haenen.
 322. [Übergang über das Eis des Kangscham-tsangpo.](ch029.xhtml#b0264_322) Zeichnung von de Haenen.
 323. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_323)
-324. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_322)
-325. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_322) Nach Aquarellen des Verfassers.
+324. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_324)
+325. [Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](ch029.xhtml#b0264_325) Nach Aquarellen des Verfassers.
 326. [Abdul Kerims Zelt.](ch030.xhtml#b0272_326)
 327. [Rindors Wachmannschaft.](ch030.xhtml#b0272_327)
 328. [Dortsche Tsuän und sein Amtsbruder Ngavang.](ch030.xhtml#b0272_328)
@@ -157,16 +157,18 @@
 333. [Pantschor, Führer zum Teri-nam-tso.](ch031.xhtml#b0280_333)
 334. [Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.](ch031.xhtml#b0280_334)
 335. [Sonam Ngurbu, Statthalter der Provinz Tschoktschu.](ch031.xhtml#b0280_335)
-336. [Soldat aus Sonam Ngurbus Eskorte.](ch031.xhtml#b0280_335) Skizzen des Verfassers.
-337. Abschiedsfest für die Tibeter am 5. Mai 1908. Zeichnung von de Haenen.
-338. 339. Soldaten unserer Eskorte.
-340. 341. Soldaten aus Tagla Tserings Gefolge. Skizzen des Verfassers
-342. Eingeborene von Kangmar.
-343. Tibetische Soldaten am Ufer des Soma-tsangpo.
-344. Hirtenknabe in Bongba.
-345. Ringkampf zwischen Tibetern.
-346. Junge mit Flinte am Teri-nam-tso.
-347. Die Führer zum Poru-tso. Skizzen des Verfassers.
+336. [Soldat aus Sonam Ngurbus Eskorte.](ch031.xhtml#b0280_336) Skizzen des Verfassers.
+337. [Abschiedsfest für die Tibeter am 5. Mai 1908.](ch032.xhtml#b0288_337) Zeichnung von de Haenen.
+338. [Soldaten unserer Eskorte.](ch032.xhtml#b0288_338)
+339. [Soldaten unserer Eskorte.](ch032.xhtml#b0288_338)
+340. [Soldaten aus Tagla Tserings Gefolge.](ch032.xhtml#b0288_340)
+341. [Soldaten aus Tagla Tserings Gefolge.](ch032.xhtml#b0288_340) Skizzen des Verfassers
+342. [Eingeborene von Kangmar.](ch032.xhtml#b0296_342)
+343. [Tibetische Soldaten am Ufer des Soma-tsangpo.](ch032.xhtml#b0296_343)
+344. [Hirtenknabe in Bongba.](ch032.xhtml#b0296_344)
+345. [Ringkampf zwischen Tibetern.](ch032.xhtml#b0296_345)
+346. [Junge mit Flinte am Teri-nam-tso.](ch032.xhtml#b0296_346)
+347. [Die Führer zum Poru-tso.](ch032.xhtml#b0296_347) Skizzen des Verfassers.
 348. Pilger der Pembo-Sekte.
 349. Junger Hirt in Bongba. Skizzen des Verfassers.
 350. Tagla Tserings Gefolge.
