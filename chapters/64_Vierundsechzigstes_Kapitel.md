@@ -102,19 +102,19 @@ stand fest.
 ![332. Seine Exzellenz der Herr Gouverneur von Saka unterwegs.](Transhimalaja_Band_II_280_332.jpg "Transhimalaja_Band_II_280_332.jpg"){#b0280_332}
 ::::
 
-:::: {.w-40 .break-before .float-left }
+:::: {.wrap-40 .break-before  .float-left }
 ![333. Pantschor, Führer zum Teri-nam-tso.](Transhimalaja_Band_II_280_333.jpg "Transhimalaja_Band_II_280_333.jpg"){#b0280_333}
 ::::
 
-:::: {.w-40 .float-right }
+:::: {.wrap-40 .float-right  }
 ![334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.](Transhimalaja_Band_II_280_334.jpg "Transhimalaja_Band_II_280_334.jpg"){#b0280_334}
 ::::
 
-:::: {.w-40 .break-before .float-left }
+:::: {.wrap-40 .break-before .float-left }
 ![335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu.](Transhimalaja_Band_II_280_335.jpg "Transhimalaja_Band_II_280_335.jpg"){#b0280_335}
 ::::
 
-:::: {.w-40 .float-right }
+:::: {.wrap-40 .float-right}
 ![336. Soldat aus Sonam Ngurbus Eskorte. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_280_336.jpg "Transhimalaja_Band_II_280_336.jpg"){#b0280_336}
 ::::
 

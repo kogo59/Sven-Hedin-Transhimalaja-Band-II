@@ -63,7 +63,7 @@ dem armseligen Zelt zurückgelaufen, in dem er bisher gelebt hatte.
 
 Jetzt führte der Weg in südsüdwestlicher Richtung nach dem kleinen,
 leichten Paß Satsot-la (4856 Meter) hinauf, dessen Gestein roter
-Porphyr ist und der durch eine Steinpyramide bezeichnet wird. Jn dem
+Porphyr ist und der durch eine Steinpyramide bezeichnet wird. In dem
 weiten Kesseltal, das wir vor uns hatten, liegt der See Tschunit-tso,
 an dessen anderm Ufer sich ein roter kegelförmiger Berg erhebt. Wir
 zogen an einigen Manis vorbei; zur Linken ließen wir einen
@@ -98,7 +98,7 @@ sich von Nordwesten her eine aus mehreren Hundert mit Salz beladenen
 Schafen bestehende Karawane. Sie hatte nur zwei bewaffnete Führer,
 die am Tabie-tsaka gewesen waren und wieder nach ihrer Heimat
 zurückkehrten, dem zwanzig Tagereisen weit im Südosten liegenden
-Jangtschut-tanga. Jn derselben Himmelsrichtung weideten auf den Berghalden
+Jangtschut-tanga. In derselben Himmelsrichtung weideten auf den Berghalden
 auch 400 Yaks, die dem Gova der Gegend gehören sollten. Am Abend
 besuchte uns ein Wandersmann, der nach seinem ein wenig weiter südwärts
 liegenden Zelt wollte. Er versprach uns am nächsten Morgen drei Schafe
@@ -139,7 +139,7 @@ gleichmäßige, an Tümpeln, Sümpfen und Quellarmen reiche Ebene aus. An
 einem der Quellbäche saßen zwei Tibeter, mit dem Zerlegen eines
 verendeten Yaks beschäftigt. Sie bestätigten die uns schon früher gemachte
 Mitteilung, daß wir uns in dem Distrikt Bongba-kemar befänden,
-eine Tagereise von Bongba -kebjang entfernt seien und einige Tage am
+eine Tagereise von Bongba-kebjang entfernt seien und einige Tage am
 Fluß Buptsang-tsangpo stromaufwärts ziehen müßten, um über den Paß
 Samje-la nach Saka-dsong zu gelangen. Noch hatte ich sehr dunkle,
 unklare Begriffe von der orographischen Anordnung dieser Gegend. War
@@ -177,7 +177,7 @@ breit und hat sehr geringes Gefälle. Die Gegend, in der wir
 lagerten, nachdem wir an vierzehn Zelten vorbeigezogen waren, hieß
 Monlam-gongma (4822 Meter). Von hier aus soll der Fluß fünf
 Tagereisen weit nach Nordnordwesten strömen und sich dann in einen großen
-See namens Tarok-s\o ergießen. Der Gedanke, einen Abstecher dorthin
+See namens Tarok-tso ergießen. Der Gedanke, einen Abstecher dorthin
 zu machen, hatte für mich etwas Verführerisches, aber es war wichtiger,
 die meridionale Profillinie ganz zu vollenden, solange das Land uns noch
 offen lag. Zwei gewaltige Schneegipfel im Südsüdosten, die die Nomaden
@@ -200,7 +200,7 @@ Tagereise zurückzulegen, zögen immer am Buptsang-tsangpo aufwärts
 und hätten auf beiden Seiten, rechts und links, Gangris, Schneeberge.
 Auf dem Paß selber seien wir den Gipfeln des Lunpo-gangri ganz nahe.
 — Da argwöhnte ich, daß die bedeutende Bergkette, die wir zur Linken,
-also im Osten, hatten, doch die Fortseyung des Nien-tschen-tang-la
+also im Osten, hatten, doch die Fortsetzung des Nien-tschen-tang-la
 bilde, der Lunpo-gangri aber eine vollkommen
 freistehende Kette sei, die keinen Zusammenhang mit jener habe.
 
@@ -217,7 +217,7 @@ zurücklegen, stärkt unsere Lage. Die hiesigen Nomaden müssen wohl
 denken: wenn diese Leute durch ganz Bongba haben ziehen können, ohne
 angehalten worden zu sein, so können sie keine Schwindler sein!
 
-Am 10. April zogen wir 13,7 Kilometer am Buptsang-tsangpo
+Am 10. April zogen wir 13,<small>7</small> Kilometer am Buptsang-tsangpo
 aufwärts — man wundert sich, oben auf dem abflußlosen Plateau einen so
 wasserreichen Fluß zu finden! An seinen Ufern schnattern Wildenten und
 -gänse in großer Zahl. Tubges schoß mehrere — es war unrecht, sie

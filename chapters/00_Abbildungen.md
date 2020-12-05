@@ -169,11 +169,11 @@
 345. [Ringkampf zwischen Tibetern.](ch032.xhtml#b0296_345)
 346. [Junge mit Flinte am Teri-nam-tso.](ch032.xhtml#b0296_346)
 347. [Die Führer zum Poru-tso.](ch032.xhtml#b0296_347) Skizzen des Verfassers.
-348. Pilger der Pembo-Sekte.
-349. Junger Hirt in Bongba. Skizzen des Verfassers.
-350. Tagla Tserings Gefolge.
-351. Tagla Tsering mit seinen Leuten auf Besuch in meinem Zelt.
-352. Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen.
+348. [Pilger der Pembo-Sekte.](ch033.xhtml#b0304_348)
+349. [Junger Hirt in Bongba.](ch033.xhtml#b0304_349) Skizzen des Verfassers.
+350. [Tagla Tserings Gefolge.](ch033.xhtml#b0304_350)
+351. [Tagla Tsering mit seinen Leuten auf Besuch in meinem Zelt.](ch033.xhtml#b0304_351)
+352. [Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen.](ch033.xhtml#b0304_351)
 353, 354. Die Schafe und Yaks gehen über den Soma-tsangpo.
 355. Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo.
 Skizze des Verfassers.
