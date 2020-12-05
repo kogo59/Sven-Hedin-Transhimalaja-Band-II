@@ -16,7 +16,7 @@ schlafen, weil das Abladen und Wiederbeladen von 350 Yaks ihnen für
 eine einzige Nacht zuviel Arbeit macht. Meinetwegen konnten sie gern
 solange wie nur möglich hierbleiben; wir gewannen dann einen Vorsprung
 und konnten an Saka-dsong vorüberziehen, ehe wir angezeigt wurden. Doch
-nein, es war klüger, Safa-dsong ganz zu vermeiden, nicht, um Muhamed
+nein, es war klüger, Saka-dsong ganz zu vermeiden, nicht, um Muhamed
 Isas Grab nicht wiedersehen zu müssen, sondern um nicht unnötigerweise
 Argwohn zu erregen. Es war sonnenklar, daß die Behörden sich fragen
 würden, weshalb eine kleine Schar Ladakis denn auf Schleichwegen gehe,
@@ -46,7 +46,7 @@ zu werden. Erst wenn die anderen, einer nach dem anderen,
 eingeschlafen sind, wird er in Frieden gelassen und kann aus Leibeskräften
 weiter schnarchen.
 
-Klein-Puppy entwielt sich vortrefflich, ist lebhaft, vergnügt und
+Klein-Puppy entwickelt sich vortrefflich, ist lebhaft, vergnügt und
 anhänglich. Nachts schläft er zu meinen Füßen auf dem Pelz und hilft
 Takkar beim Wachehalten. Sie sind meine Gesellschafter; es wird mir
 sehr schwer werden, mich einst von ihnen zu trennen.
@@ -181,7 +181,7 @@ wann ein Raubanfall stattfinden solle. Um diese Zeit des Jahres aber
 säßen die Bösewichter noch daheim an ihren Feuern und spielten die
 Unschuldigen; seiner Ansicht nach müsse es erst wärmer werden, ehe sie frech
 würden. Er behauptete auch, daß, wenn ein Räuber in der Gegend von
-Gartok gefangen worden sei, der Kopf und der eine Arm als Beweis.
+Gartok gefangen worden sei, der Kopf und der eine Arm als Beweis
 nach Lhasa geschickt werden müsse. In der Hauptstadt sind die Strafen
 sehr streng. Einem Dieb werden die Augen ausgestochen und eine Hand
 abgehauen. Ein Gova oder ein anderer höherer Beamter, der einen gefangenen

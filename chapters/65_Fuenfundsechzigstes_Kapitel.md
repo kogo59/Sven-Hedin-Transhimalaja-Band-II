@@ -272,7 +272,7 @@ gewiß ebensosehr anschwillt wie der Satshu. Europäern war der
 Buptsang-tsangpo bisher unbekannt geblieben. Aber auf D’Anvilles Karte aus
 dem Jahre 1733 finden wir den Tarok-tso und einen von Süden her
 in den See hineinströmenden Fluß, der ohne Zweifel mit dem
-Buptsang-tjangpo identisch ist. Die Jesuiten, die sich vor 200 Jahren in Peking
+Buptsang-tsangpo identisch ist. Die Jesuiten, die sich vor 200 Jahren in Peking
 aufhielten und vom Kaiser Kang-hi mit der Herstellung einer Karte über
 das ganze chinesische Reich beauftragt worden waren, verschafften sich aus
 chinesischen und tibetischen Quellen also auch von dieser verborgenen
