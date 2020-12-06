@@ -173,13 +173,13 @@
 349. [Junger Hirt in Bongba.](ch033.xhtml#b0304_349) Skizzen des Verfassers.
 350. [Tagla Tserings Gefolge.](ch033.xhtml#b0304_350)
 351. [Tagla Tsering mit seinen Leuten auf Besuch in meinem Zelt.](ch033.xhtml#b0304_351)
-352. [Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen.](ch033.xhtml#b0304_351)
-353, 354. Die Schafe und Yaks gehen über den Soma-tsangpo.
-355. Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo.
-Skizze des Verfassers.
-356. Gipfel und Gletscher links auf dem Weg zum Sur-la. Nach einem Aquarell des Verfassers.
+352. [Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen.](ch033.xhtml#b0304_352)
+353. [Die Schafe und Yaks gehen über den Soma-tsangpo.](ch034.xhtml#b0312_353)
+354. [Die Schafe und Yaks gehen über den Soma-tsangpo.](ch034.xhtml#b0312_354)
+355. [Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo.](ch034.xhtml#b0312_355) Skizze des Verfassers.
+356. [Gipfel und Gletscher links auf dem Weg zum Sur-la.](ch034.xhtml#b0312_356) Nach einem Aquarell des Verfassers.
 357. Das Klosterdorf Lunkar, in der Ferne der Tarok-tso.
-358, Lunkar-guna.
+358. Lunkar-guna.
 359. Aussicht vom Klosterhügel in Lunkar-gumpa.
 360. Sonam Ngurbus Soldaten mit Gabelflinten.
 |    Bunte Tafel. Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum
