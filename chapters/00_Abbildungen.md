@@ -100,8 +100,8 @@
 277. [Weib von Jumba-matsen.](ch021.xhtml#b0192_277)
 278. [Ladaki-Kaufmann in Westtibet.](ch021.xhtml#b0192_278)
 279. [Dortsche Tsuän, Gouverneur der Provinz Saka, seine chinesische Pfeife rauchend.](ch021.xhtml#b0192_279)
-280. [Oang Ojä, Sohn des Gouverneurs Dortsche Tsuän.](ch021.xhtml#b0192_279) Skizzen des Verfassers.
-281. [Gulam Rasul; hinter ihm Ballen chinesischen Ziegeltees.](ch021.xhtml#b0192_280)
+280. [Oang Ojä, Sohn des Gouverneurs Dortsche Tsuän.](ch021.xhtml#b0192_280) Skizzen des Verfassers.
+281. [Gulam Rasul; hinter ihm Ballen chinesischen Ziegeltees.](ch021.xhtml#b0192_281)
 282. [Zelt in Gartok.](ch022.xhtml#b0200_282)
 283. [Kloster von Gar-gunsa.](ch022.xhtml#b0200_283)
 284. [Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten.](ch022.xhtml#b0200_284)
@@ -178,10 +178,10 @@
 354. [Die Schafe und Yaks gehen über den Soma-tsangpo.](ch034.xhtml#b0312_354)
 355. [Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo.](ch034.xhtml#b0312_355) Skizze des Verfassers.
 356. [Gipfel und Gletscher links auf dem Weg zum Sur-la.](ch034.xhtml#b0312_356) Nach einem Aquarell des Verfassers.
-357. Das Klosterdorf Lunkar, in der Ferne der Tarok-tso.
-358. Lunkar-guna.
-359. Aussicht vom Klosterhügel in Lunkar-gumpa.
-360. Sonam Ngurbus Soldaten mit Gabelflinten.
+357. [Das Klosterdorf Lunkar, in der Ferne der Tarok-tso.](ch035.xhtml#b0320_357)
+358. [Lunkar-gumpa.](ch035.xhtml#b0320_358)
+359. [Aussicht vom Klosterhügel in Lunkar-gumpa.](ch035.xhtml#b0320_359)
+360. [Sonam Ngurbus Soldaten mit Gabelflinten.](ch035.xhtml#b0320_360)
 |    Bunte Tafel. Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum
 |    Teri-nam-tso. Nonnen von Mendong. Vornehmer Lama von Tschoktschu.
 |    Der Prior von Selipuk. Aquarelle des Verfassers.
