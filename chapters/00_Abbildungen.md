@@ -182,13 +182,11 @@
 358. [Lunkar-gumpa.](ch035.xhtml#b0320_358)
 359. [Aussicht vom Klosterhügel in Lunkar-gumpa.](ch035.xhtml#b0320_359)
 360. [Sonam Ngurbus Soldaten mit Gabelflinten.](ch035.xhtml#b0320_360)
-|    Bunte Tafel. Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum
-|    Teri-nam-tso. Nonnen von Mendong. Vornehmer Lama von Tschoktschu.
-|    Der Prior von Selipuk. Aquarelle des Verfassers.
-361. Aussicht vom Abuk-la nach Ost bis Südsüdwest mit der Surla-Kette (drei anschließende Teile).
-362. Aussicht vom Tajep-parva-la über den Ngang-laring-tso und seine Felseninseln. Nach Aquarellen des Verfassers.
-363. Selipuk-gumpa.
-364. Innerer Hof von Selipuk-gumpa.
++    Bunte Tafel. [Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum Teri-nam-tso.](ch036.xhtml#b0328_001) [Nonnen von Mendong.](ch036.xhtml#b0328_002) [Vornehmer Lama von Tschoktschu.](ch036.xhtml#b0328_003) [Der Prior von Selipuk.](ch036.xhtml#b0328_004) Aquarelle des Verfassers.
+361. [Aussicht vom Abuk-la nach Ost bis Südsüdwest mit der Surla-Kette (drei anschließende Teile).](ch036.xhtml#b0336_361)
+362. [Aussicht vom Tajep-parva-la über den Ngang-laring-tso und seine Felseninseln.](ch036.xhtml#b0336_362) Nach Aquarellen des Verfassers.
+363. [Selipuk-gumpa.](ch036.xhtml#b0336_363)
+364. [Innerer Hof von Selipuk-gumpa.](ch036.xhtml#b0336_364)
 |    Bunte Tafel. Dorf unterhalb von Lunkar-gumpa am Tarok-tso. Kloster
 |    Mendong westlich vom Teri-nam-tso. Kloster Selipuk südwestlich vom
 |    Nganglaring-tso. Aquarelle des Verfassers
