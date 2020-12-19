@@ -187,13 +187,8 @@
 362. [Aussicht vom Tajep-parva-la über den Ngang-laring-tso und seine Felseninseln.](ch036.xhtml#b0336_362) Nach Aquarellen des Verfassers.
 363. [Selipuk-gumpa.](ch036.xhtml#b0336_363)
 364. [Innerer Hof von Selipuk-gumpa.](ch036.xhtml#b0336_364)
-|    Bunte Tafel. Dorf unterhalb von Lunkar-gumpa am Tarok-tso. Kloster
-|    Mendong westlich vom Teri-nam-tso. Kloster Selipuk südwestlich vom
-|    Nganglaring-tso. Aquarelle des Verfassers
-|    Bunte Tafel. Zwei Seen nördlich des Transhimalaja. Der Teri-
-|    nam-tso, 4684 Meter, von Nain Sing erkundet, von Hedin zuerst auf-
-|    genommen. — Der Poru-tso, 5150 Meter, von Hedin entdeckt. Aquarelle
-|    des Verfassers.
++    Bunte Tafel. [Dorf unterhalb von Lunkar-gumpa am Tarok-tso.](ch038.xhtml#b0348_001) [Kloster Mendong westlich vom Teri-nam-tso.](ch038.xhtml#b0348_002) [Kloster Selipuk südwestlich vom Nganglaring-tso.](ch038.xhtml#b0348_003) Aquarelle des Verfassers.
++    Bunte Tafel. Zwei Seen nördlich des Transhimalaja. [Der Teri-nam-tso, 4684 Meter, von Nain Sing erkundet, von Hedin zuerst aufgenommen.](ch038.xhtml#b0356_001) — [Der Poru-tso, 5150 Meter, von Hedin entdeckt.](ch038.xhtml#b0356_002) Aquarelle des Verfassers.
 365. Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu.
 366. Der vornehme Lama aus Tschoktschu zu Pferd.
 367. D’Anville, Carte Générale du Thibet ou Bout-tan.
@@ -204,7 +199,7 @@
 372. Ankunft in der Missionsstation von Poo.
 |    Bunte Tafel. Altartisch mit Götterbildern in Mangnang-gumpa. Aquarell des Verfassers.
 373. Der Verfasser in tibetischer Kleidung in Po.
-374. Tafkfar in seinem neuen Heim bei den Missionaren in Poo.
+374. Takkar in seinem neuen Heim bei den Missionaren in Poo.
 375. Klein-Puppy.
 376. Sieben Gentlemen in Simla.
 377. Abschied von meinen letzten Getreuen vor dem Hauptportal des vizeköniglichen Palastes in Simla.

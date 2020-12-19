@@ -20,4 +20,4 @@ before January 1, 1924.
 * Stylesheet from [Blitz eBook Framework](https://friendsofepub.github.io/Blitz/), [MIT License](https://github.com/FriendsOfEpub/Blitz/blob/master/LICENSE)
 
 # Sources
- Transhimalaja. Zweiter Band. [California-USA](https://babel.hathitrust.org/cgi/pt?id=uc1.b4507993)
+ Transhimalaja. Zweiter Band. [California-USA](https://babel.hathitrust.org/cgi/pt?id=uc1.b4507994)
