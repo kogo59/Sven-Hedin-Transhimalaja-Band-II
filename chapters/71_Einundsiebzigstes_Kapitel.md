@@ -1,4 +1,4 @@
-# Einundsiebzigstes Kapitel.&nbsp;<br />**`Eine neue Reise über den „weißen Fleck“.`**<br /><br /> {#Kapitel_EinundSiebzig .unnumbered}
+# Einundsiebzigstes Kapitel.&nbsp;<br />**`Eine neue Reise über den „weißen Fleck“.`**<br /><br /> {#Kapitel_Einundsiebzig .unnumbered}
 
 ::: justified
 **A**m 26. Mai verließen wir den „himmlischen See“, dessen Ufer bisher

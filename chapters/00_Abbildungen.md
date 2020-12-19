@@ -189,9 +189,9 @@
 364. [Innerer Hof von Selipuk-gumpa.](ch036.xhtml#b0336_364)
 +    Bunte Tafel. [Dorf unterhalb von Lunkar-gumpa am Tarok-tso.](ch038.xhtml#b0348_001) [Kloster Mendong westlich vom Teri-nam-tso.](ch038.xhtml#b0348_002) [Kloster Selipuk südwestlich vom Nganglaring-tso.](ch038.xhtml#b0348_003) Aquarelle des Verfassers.
 +    Bunte Tafel. Zwei Seen nördlich des Transhimalaja. [Der Teri-nam-tso, 4684 Meter, von Nain Sing erkundet, von Hedin zuerst aufgenommen.](ch038.xhtml#b0356_001) — [Der Poru-tso, 5150 Meter, von Hedin entdeckt.](ch038.xhtml#b0356_002) Aquarelle des Verfassers.
-365. Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu.
-366. Der vornehme Lama aus Tschoktschu zu Pferd.
-367. D’Anville, Carte Générale du Thibet ou Bout-tan.
+365. [Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu.](ch039.xhtml#b0362_365)
+366. [Der vornehme Lama aus Tschoktschu zu Pferd.](ch039.xhtml#b0362_366)
+367. [D’Anville, Carte Générale du Thibet ou Bout-tan.](ch039.xhtml#b0362_367)
 368. Hodgsons Karte von Südtibet.
 369. Saunders Karte von Südtibet.
 370. Abbé Huc.

@@ -177,7 +177,7 @@ breit und hat sehr geringes Gefälle. Die Gegend, in der wir
 lagerten, nachdem wir an vierzehn Zelten vorbeigezogen waren, hieß
 Monlam-gongma (4822 Meter). Von hier aus soll der Fluß fünf
 Tagereisen weit nach Nordnordwesten strömen und sich dann in einen großen
-See namens Tarok-tso ergießen. Der Gedanke, einen Abstecher dorthin
+See namens Tarok-tso^[^291]^ ergießen. Der Gedanke, einen Abstecher dorthin
 zu machen, hatte für mich etwas Verführerisches, aber es war wichtiger,
 die meridionale Profillinie ganz zu vollenden, solange das Land uns noch
 offen lag. Zwei gewaltige Schneegipfel im Südsüdosten, die die Nomaden
@@ -441,3 +441,5 @@ Erlaubnis durchzogen hatte?
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^290]: [*Hodgson*: vergleiche [Brian Houghton Hodgson](https://en.wikipedia.org/wiki/Brian_Houghton_Hodgson)]{.footnote}
+
+[^291]: [*Tarok-tso*: vergleiche [Taro-Co](http://wikimapia.org/8174534/de/Tarok-Tso-Taro-Co)]{.footnote}
