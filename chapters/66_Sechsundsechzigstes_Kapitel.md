@@ -31,7 +31,7 @@ Tubges versorgt mich mit Rebhühnern, und eine unserer Ziegen liefert mir
 etwas Milch. Vom Lager 383 aus sehen wir die Gipfel des  Lunpo-gangri nur in der
 Verkürzung (Abb. [325](ch029.xhtml#b0264_325)), einer ist so dünn wie ein
 Schirm. Im Ostsüdosten zeigen sich mehrere Gipfel, die Fortsetzung der
-Kette, und man kann leicht berechnen, daß der Tshomo-utschong, der
+Kette, und man kann leicht berechnen, daß der Tschomo-utschong, der
 isolierte Bergstock auf der Tasam, in der östlichen Verlängerung des
 Lunpo-gangri liegt. Von jedem Lager aus nehme ich Winkelmessungen
 der hohen Gipfel in der Nähe vor; die Resultate werde ich später
@@ -51,7 +51,7 @@ anhänglich. Nachts schläft er zu meinen Füßen auf dem Pelz und hilft
 Takkar beim Wachehalten. Sie sind meine Gesellschafter; es wird mir
 sehr schwer werden, mich einst von ihnen zu trennen.
 
-&nbsp;17. April. 17,4 Grad Kälte! Wie lange währt doch dieser Winter!
+&nbsp;17. April. 17,<small>4</small> Grad Kälte! Wie lange währt doch dieser Winter!
 Jetzt hat Lobsang sich ausgedacht, die Yakleute würden sichs nicht
 getrauen uns anzuzeigen, da sie fürchten müßten, zur Verantwortung
 gezogen zu werden, weil sie uns nicht besser ausspioniert hätten. Wir ziehen
@@ -176,7 +176,7 @@ Dämmerung aber wurden sie nach dem Lager getrieben. Am Abend
 redeten die Männer von nichts anderm als von Räubern. Nur
 Lobsang, der selbst Tibeter war, regte sich über die Sache nicht auf. Er
 sagte, daß es organisierte Banden gebe, die bis zu 100 Mitgliedern
-zählten und an deren Spitze ein Hauptmann stehe, der anordne, wo und:
+zählten und an deren Spitze ein Hauptmann stehe, der anordne, wo und
 wann ein Raubanfall stattfinden solle. Um diese Zeit des Jahres aber
 säßen die Bösewichter noch daheim an ihren Feuern und spielten die
 Unschuldigen; seiner Ansicht nach müsse es erst wärmer werden, ehe sie frech

@@ -57,7 +57,7 @@ Es ist etwas Ungewöhnliches, in Tibet ein so großes Längstal von
 Norden nach Süden anzutreffen, denn sonst liegen sie fast immer in
 ostwestlicher Richtung und rufen jenen eigentümlichen
 Faltenparallelismus hervor, der das Land charakterisiert. Sechzehn Zelte wurden
-passiert; bei den letzen durchwateten wir den Pedang-tsangpo, der auf
+passiert; bei den letzten durchwateten wir den Pedang-tsangpo, der auf
 einem östlicheren Weg nach dem Schovo-tso geht. Lobsang erregte große
 Heiterkeit, als ihn ein wütender Hund anfiel und er aus Mangel. an
 Steinen mit seinem blanken Messer nach dem Tiere warf; er traf zwar
@@ -174,7 +174,7 @@ ihrem Zelt möglichst nähere und sie das Fleisch nicht soweit zu tragen
 brauchten!
 
 Das Lager Nr. 439 wurde am User des Flusses Sundang-tsangpo
-aufgeschlagen, der sic in den Nganglaring-tso ergießt, ohne
+aufgeschlagen, der sich in den Nganglaring-tso ergießt, ohne
 sich mit den weiter westlich befindlichen Flüssen Lavar-tsangpo und
 Aong-tsangpo zu vereinigen, die vereint in den westlichsten Teil des
 Sees hineinfließen.
@@ -204,7 +204,7 @@ sichere Kunde von ihnen erhalten würden!
 
 Am 28. Juni, ½10 Uhr abends, wurde das Land durch ein Erdbeben
 erschüttert, das einzige, das ich je in Tibet erlebt habe. Es hatte
-jedoch feinen nachteiligen Einfluß auf das gute Verhältnis, das zwischen
+jedoch keinen nachteiligen Einfluß auf das gute Verhältnis, das zwischen
 mir und den Mönchen, sowie zwischen mir und dem Statthalter Sonam
 Ngurbu bestand, der ebenfalls als Gast im Kloster weilte ([Abb. 360](ch035.xhtml#b0320_360)),
 und einen vornehmen Lama aus Tschoktshu in seinem Gefolge hatte

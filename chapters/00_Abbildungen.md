@@ -192,11 +192,11 @@
 365. [Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu.](ch039.xhtml#b0362_365)
 366. [Der vornehme Lama aus Tschoktschu zu Pferd.](ch039.xhtml#b0362_366)
 367. [D’Anville, Carte Générale du Thibet ou Bout-tan.](ch039.xhtml#b0362_367)
-368. Hodgsons Karte von Südtibet.
-369. Saunders Karte von Südtibet.
-370. Abbé Huc.
-871. Oberst T. G. Montgomerie
-372. Ankunft in der Missionsstation von Poo.
+368. [Hodgsons Karte von Südtibet.](ch040.xhtml#b0368_368)
+369. [Saunders Karte von Südtibet.](ch040.xhtml#b0368_369)
+370. [Abbé Huc.](ch041.xhtml#b0376_370)
+371. [Oberst T. G. Montgomerie.](ch041.xhtml#b0376_371)
+372. [Ankunft in der Missionsstation von Poo.](ch041.xhtml#b0376_372)
 |    Bunte Tafel. Altartisch mit Götterbildern in Mangnang-gumpa. Aquarell des Verfassers.
 373. Der Verfasser in tibetischer Kleidung in Po.
 374. Takkar in seinem neuen Heim bei den Missionaren in Poo.

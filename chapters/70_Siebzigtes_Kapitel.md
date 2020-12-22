@@ -123,7 +123,7 @@ so frostig, daß wir bisweilen haltmachten, um die Hände über einem
 kleinen Dungfeuer zu wärmen. Pantschor bestand nachdrücklich auf diesen
 Ruhepausen, „damit der Bombo nicht müde werde“; aber ich hatte ihn
 im Verdacht, daß es hauptsächlich geschah, weil er sich nach ein paar
-Zügen aus seiner chinesischen „Gansa““ sehnte.
+Zügen aus seiner chinesischen „Gansa“ sehnte.
 
 Wenn unsere Pferde sich auch sehr abmühen mußten, schließlich
 brachten sie uns doch auf die 5820 Meter betragende, schwindelerregende
@@ -178,7 +178,7 @@ unserer Yaks wurden mit Eisblöcken beladen. Jeden Abend sitze ich
 stundenlang plaudernd mit Pantschor zusammen, und seine Angaben sind
 leicht zu kontrollieren. Ich habe ihm ein für allemal gesagt, daß er
 keine Extragratifikation erhalte, wenn er nicht die Wahrheit sage! Heute
-abend erzählte er, daß es um Muhamed isas Grab greulich spuke und
+abend erzählte er, daß es um Muhamed Isas Grab greulich spuke und
 man nachts aus der Tiefe des Grabes unheimliche Schreie und Seufzer
 hören könne! Er war überzeugt, daß sich Dämonen und Geister bei dem
 Grab aufhielten, und sagte, kein Tibeter wage sich der Stelle zu nähern
@@ -266,11 +266,11 @@ nach Westen. —
 Um freie Aussicht zu erhalten, erkletterte ich eine 5173 Meter hohe
 Anhöhe auf der Nordseite des Passes. Der Anblick, der sich von hier aus
 nach allen Seiten hin aufrollt, war eines der großartigsten,
-unvergeßlichsten Bilder, die ich in Tibet gesehen habe (s. buntes Panorama S. 354).
+unvergeßlichsten Bilder, die ich in Tibet gesehen habe (s. [buntes Panorama S. 354](ch038.xhtml#b0356_001)).
 Einem gewaltigen, flachgeschliffenen Türkis vergleichbar, liegt der
 „himmlische See“ zwischen den ihn einfassenden Bergen und Hügeln und spielt
 in rosigen, roten, gelben und violetten Nuancen, die nach dem Horizont
-hin immer mehr in den hellblauen Schleiern der wachsenden Entfernung
+hin immer mehr in den hellblauen Schleiern der wachsenden Entfernung](ch038.xhtml#b0356_001)
 verschwimmen. Nur im südwestlichen Viertel wird die Aussicht durch ganz
 naheliegende Höhen verdeckt, die zu der Kette gehören, auf der wir uns
 befinden und die sich am Südufer des Sees entlang zieht; im übrigen
@@ -370,9 +370,9 @@ und auf dem Kopf eine chinesische Seidenmütze. Ihn begleiteten sechs
 Reiter, und am Tag darauf kamen noch etwa zwanzig, alle mit Flinten,
 Säbeln und Spießen bis an die Zähne bewaffnet und in malerischen,
 bunten Gewändern, einige mit hohen Krempenhüten auf dem Kopf, andere
-mit Binden, die sie sich um die Stirn gewunden hatten (Abb. 340, 341,
-350). Tagla Tsering faßte die Lage sichtlich ernst auf und wollte mir
-mit seiner aufgebotenen Miliz imponieren.
+mit Binden, die sie sich um die Stirn gewunden hatten (Abb. [340](ch032.xhtml#b0288_340), [341](ch032.xhtml#b0288_340),
+[350](ch033.xhtml#b0304_350)). Tagla Tsering faßte die Lage sichtlich ernst auf
+und wollte mir mit seiner aufgebotenen Miliz imponieren.
 
 Gemütlich, vergnügt und ganz wie ein guter alter Freund trat
 der gebieterische Häuptling aber in mein Zelt ([Abb. 351](ch033.xhtml#b0304_351)),

@@ -11,7 +11,7 @@ Abdul Kerim setzte sich schleunigst an die Arbeit, um mir einen tibetischen
 Anzug elegantester Art von rotem Lhasatuch zurechtzuschneidern; auf dem
 Kopf hatte ich eine chinesische Seidenmütze, die ich mit einem roten Turban
 umwand; ich trug auch chinesische Seidenstiefel und hatte mir einen
-zierlichen Säbel durch den Gürtel gesteckt (s. Titelbild). In meinem
+zierlichen Säbel durch den Gürtel gesteckt (s. [Titelbild](ch001.xhtml#b000)). In meinem
 Ladakisattel mit der bunten Satteldecke und auf meinem milchweißen
 Hengst sah ich in der mir aufgezwungenen Maskerade wirklich wie ein
 vornehmer Tibeter aus!

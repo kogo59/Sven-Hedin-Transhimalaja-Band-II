@@ -153,7 +153,7 @@ hatte sich das Wetter aber bedeutend aufgeklärt. —
 
 Bevor wir weitergehen, will ich noch sagen, daß die große Provinz
 Bongba in zwölf „Tso“ oder Distrikte zerfällt, die Parrjang,
-Lafktsang, Buptö, Tsaruk, Jege, Tarok, Kebjang, Kemar,
+Laktsang, Buptö, Tsaruk, Jege, Tarok, Kebjang, Kemar,
 Parma, Tschangma, Kjangrang und Tschuschar heißen. Vor
 jedem solchen Distriktsnamen wird gewöhnlich der Name der Provinz
 genannt, z. B. Bongba-parrjang, Bongba-laktsang usw. Jetzt befanden
@@ -180,7 +180,7 @@ verdrießlich und bellte laut; er konnte jedoch nicht ausfindig machen, woher
 der Lärm kam, und hielt es daher für das sicherste, ins Zelt zu laufen
 und sich hinter meinem Kopfkissen zu verstecken.
 
-&nbsp6. Juni. Hagel und Schnee! Das ganze Land lag, soweit der
+&nbsp;6. Juni. Hagel und Schnee! Das ganze Land lag, soweit der
 Blick reichte, unter einer Decke frischgefallenen Schnees. Muß der Juni
 auch noch zum Winter gerechnet werden, nachdem wir schon beie neun
 Wintermonate gehabt haben?! Der Sommer ist in diesem Jahr allem
@@ -210,7 +210,7 @@ kontrolliert; es war weit bis zu Karma Puntsos Zeltlager — ich hätte
 faktisch überall hinziehen können, wohin ich nur wollte! Aber gerade
 der Buptsang -tsangpo und der Tarok-tso waren die interessantesten
 geographischen Züge der Provinz Bongba, und jetzt sah ich den See ganz
-e vor mir.
+nahe vor mir.
 
 Mein Plan war, mich am 8. Juni nach Lunkar-gumpa zu begeben,
 das wir auf seinem Hügel mit der Aussicht über den See thronen sahen.
@@ -220,7 +220,7 @@ feinen Mantel gehüllt, schien etwa 55 Jahre alt zu sein und begrüßte
 mich höflich und freundlich. Nach einer Weile kam noch ein halbes Dutzend
 Reiter — offensichtlich saß ich wieder einmal fest! Gova Pensa bat mich,
 den Tag hier zu bleiben, weil Gova Parvang, der Häuptling des
-Distrikts Tarok-shung, nachmittags kommen werde. Den Besuch in
+Distrikts Tarok-schung, nachmittags kommen werde. Den Besuch in
 Lunkar-gumpa erklärte er für unmöglich, weil beide Oberlamas und die meisten
 der übrigen zwanzig Mönche sich vorgestern nach dem Kang-rinpotsche
 begeben und die Tempelpforten verschlossen hätten. Nur vier Nonnen
@@ -341,7 +341,7 @@ und Rigi wurde ich sogar Rinpotsche oder „Ew. Heiligkeit“ genannt,
 was ich denn doch ein bißchen zu stark fand! Aber es war gut gemeint,
 und ich nahm die Artigkeit wie die natürlichste Sache von der Welt hin.
 Der Gova Pundar kannte sein Land aus- und inwendig, und ich quetschte
-ihr, gründlich aus. Unter anderen interessanten Mitteilungen, die ich
+ihn gründlich aus. Unter anderen interessanten Mitteilungen, die ich
 ihm verdanke, sagte er mir auch, daß dreizehn Tagemärsche nordwärts
 in der Nähe des Lakkor-tso ein Kloster Marmik-gumpa liege, das
 eine Filiale von Sera sei und 25 Mönche nebst 4 Nonnen beherberge.
@@ -351,7 +351,7 @@ nicht solcher Freiheit wie jetzt erfreut und daher das Kloster nicht besuchen
 können. —
 
 Mit neuen Leuten und neuen Yaks ritten wir am 16. immer noch
-bei Schneegestöber das malericshe Surletal hinauf, und am 17. erstiegen
+bei Schneegestöber das malerische Surletal hinauf, und am 17. erstiegen
 wir auf steinigen, bemoosten Abhängen den 5832 Meter hohen Sur-la
 oder Sur-la-Kemi-la, gleich dem Lunkar-la ein Paß zweiter Ordnung,
 denn er bildet die Wasserscheide zwischen dem Poru-tso und dem

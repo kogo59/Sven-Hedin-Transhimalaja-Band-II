@@ -308,7 +308,7 @@ wir in nur zwei Tagereisen nach Südwesten erreichen können? Ich
 werde an den Gouverneur schreiben und ihn bitten, dort mit Ihnen
 zusammenzutreffen.“
 
-„Gut,ich werde morgen mit Ihnen nach Semoku ziehen.“
+„Gut, ich werde morgen mit Ihnen nach Semoku ziehen.“
 
 „Danke. Ich werde den Gouverneur gleich durch einen Eilboten
 davon unterrichten, damit Sie nicht in Semoku zu warten brauchen.
