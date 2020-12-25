@@ -205,7 +205,6 @@ wärmer als meine Kaschmirstiefel, die ohne Erbarmen verbrannt wurden.
 :::: {.wrap-100 }
 ![314. Tschomo-utschong, am 1. Mai 1908. <small>Nach Aquarellen und Skizzen des Verfassers.</small>](Transhimalaja_Band_II_240_314.jpg "Transhimalaja_Band_II_240_314.jpg"){#b0240_314}
 ::::
-
 :::
 
 :::: align-center

@@ -634,7 +634,6 @@ haben! —
 
 Solange ich lebe, werden meine stolzesten Erinnerungen
 wie Königsadler auf den öden, kahlen Felsen des Transhimalaja horsten. —
-
 :::
 
 :::: align-center

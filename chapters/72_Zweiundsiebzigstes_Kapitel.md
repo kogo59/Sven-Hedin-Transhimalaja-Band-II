@@ -276,7 +276,6 @@ Tage festhielt! Doch darüber kann ich hier nichts mehr erzählen,
 denn schon beim 64. Kapitel hatte ich die Grenze des mir zur
 Verfügung stehenden Raumes erreicht, und — mein Verleger wird
 ungeduldig!
-
 :::
 
 :::: align-center

@@ -376,7 +376,6 @@ die noch schwach erkennbar aus dem Nebel hervortreten, sind gefährliche,
 drohende Klippen, an denen wir im nächsten Augenblick scheitern werden.
 Aber groß und majestätisch ist ein solcher Sturm, wenn er in ungezügelter
 Wut über die Erde hinfährt!
-
 :::
 
 

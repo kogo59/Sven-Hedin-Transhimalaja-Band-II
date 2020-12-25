@@ -371,7 +371,6 @@ blutroten Flammen gestanden.
 :::: {.wrap-100 .break-before }
 ![Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_II_140_000.jpg "Transhimalaja_Band_II_140_000.jpg"){#b0140_000}
 ::::
-
 :::
 
 :::: align-center

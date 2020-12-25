@@ -353,7 +353,6 @@ der Station Sommerhill unterhalb des Viceregal Lodge wechselte ich
 noch einen letzten Händedruck mit meinem lieben Freunde Dunlop Smith;
 dann verschwanden Simlas weiße Sommerhäuser in der Ferne, und der
 Zug rollte dem heißen Indien und dem großen öden Meere entgegen.
-
 :::
 
 :::: align-center

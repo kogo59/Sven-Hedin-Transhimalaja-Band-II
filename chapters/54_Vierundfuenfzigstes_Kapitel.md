@@ -429,7 +429,6 @@ Spur von Unschlüssigkeit empfand. Derselbe Engel, der uns auf der
 vorigen Reise beschützt hatte, würde auch jetzt meine Schritte begleiten.
 „Ich höre in der Ferne das Rauschen seiner Flügel“ droben in den
 kalten Winternächten in Tschang-tang.
-
 :::
 
 :::: align-center

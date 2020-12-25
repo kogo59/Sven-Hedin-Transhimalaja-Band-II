@@ -545,7 +545,6 @@ Wolke verdeckt, die einem weißen Torpedo glich, von dessen nördlicher
 Spitze sich dann und wann kleine Wolkenflocken loslösen und verflüchtigen.
 In dem Seitental, das ganz in der Nähe der außerordentlich flachen
 Paßschwelle liegt, lagerten wir bei einigen schwarzen Zelten.
-
 :::
 
 :::: align-center

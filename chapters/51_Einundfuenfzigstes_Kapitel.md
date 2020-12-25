@@ -429,7 +429,6 @@ Hand nach den dunkeln Höhen hinaufzeigt.“ Welche Überzeugung wir
 auch haben mögen, wir müssen diejenigen doch bewundern, die zwar unserer
 Ansicht nach auf Irrwegen gehen, aber einen so starken Glauben besitzen,
 daß er Berge versetzen kann!
-
 :::
 
 :::: align-center

@@ -217,7 +217,7 @@ Maßstab 1 : 800000.](ch042.xhtml#b0407)<br /><br />
 
 ::: align-center
 [Der Transhimalaja. Von Sven Hedin. Auf Grund der Originalaufnahmen ge-<br />
-gezeichnet von Lieutenant C. J. Otto Kjellström. 1909, Maßstab 1: 1500000.](ch042.xhtml#b0407)<br /><br />
+gezeichnet von Lieutenant C. J. Otto Kjellström. 1909, Maßstab 1: 1500000.](ch042.xhtml#b0408)<br /><br />
 :::
 
 :::: align-center

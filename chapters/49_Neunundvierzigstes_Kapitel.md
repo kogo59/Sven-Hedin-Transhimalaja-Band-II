@@ -476,7 +476,6 @@ betreten!
 :::: {.wrap-70 .break-before }
 ![263. Die alte Nonne in Janggo-gumpa am Manasarovar. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_152_263.jpg "Transhimalaja_Band_II_152_263.jpg"){#b0152_263}
 ::::
-
 :::
 
 :::: align-center

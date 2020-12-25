@@ -472,7 +472,6 @@ schon so weit, daß sie überall Räuber sahen.
 Dies war meine letzte Nacht am Ufer des Tso-rinpotsche, „des
 heiligen Sees“, und mit Wehmut lauschte ich dem verrauschenden Liede der
 Uferbrandung in dem abflauenden Winde.
-
 :::
 
 :::: align-center

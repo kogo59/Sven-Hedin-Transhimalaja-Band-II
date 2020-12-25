@@ -302,7 +302,6 @@ haben. Nicht ohne Stolz, aber auch mit dem Gefühl demütiger
 Dankbarkeit stand ich da oben in dem Bewußtsein, daß ich der erste weiße
 Mann war, der je bis an die Quellen des Indus und des
 Brahmaputra vorgedrungen ist.
-
 :::
 
 :::: align-center

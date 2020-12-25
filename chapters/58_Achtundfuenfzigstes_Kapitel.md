@@ -370,7 +370,6 @@ Gefahren, die unser warteten; jetzt handelte es sich nur noch um das nackte
 Leben, um das Erreichen von Gegenden, wo man sich vor dem Tode
 retten konnte! Hinter uns verwischten die Schneestürme unsere Spur,
 und vor uns wartete die Zukunft mit ihrem undurchdringlichen Dunkel.
-
 :::
 
 :::: align-center

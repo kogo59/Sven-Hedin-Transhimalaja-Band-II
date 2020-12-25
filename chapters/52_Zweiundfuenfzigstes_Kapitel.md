@@ -298,7 +298,6 @@ Worten aus:
 |     Der Tropfen Tau gleitet in die glänzende See!)
 |
 ::::
-
 :::
 
 :::: align-center

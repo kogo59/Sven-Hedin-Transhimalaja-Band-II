@@ -474,7 +474,6 @@ Oang Gjäs Feinfühligkeit und seine große Liebe zu den Wildgänsen so
 sichtbar hervortreten zu sehen. Ich hegte die größte Hochachtung vor ihm.
 Manch edles, feinfühliges Herz schlägt ganz gewiß auch in Tibets kalten,
 öden Tälern.
-
 :::
 
 :::: align-center

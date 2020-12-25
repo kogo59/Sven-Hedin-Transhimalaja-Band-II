@@ -406,7 +406,6 @@ Das Lager dieses Tages trug die Nummer 400.
 :::: {.wrap-100  .break-before}
 ![364. Innerer Hof von Selipuk-gumpa.](Transhimalaja_Band_II_336_364.jpg "Transhimalaja_Band_II_336_364.jpg"){#b0336_364}
 ::::
-
 :::
 
 :::: align-center

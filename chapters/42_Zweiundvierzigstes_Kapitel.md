@@ -357,7 +357,6 @@ zählen. Wir beschlossen also, am nächsten Tag, dem 13. Juli, nach der
 Quelle hinaufzureiten. Nur Rabsang, Robert und ein Tibeter sollten
 mit mir kommen. Die übrigen sollten unter Tserings Befehl unsere
 Rückkehr hier erwarten.
-
 :::
 
 :::: align-center

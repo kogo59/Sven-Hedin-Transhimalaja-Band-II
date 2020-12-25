@@ -447,7 +447,6 @@ der Sekunde, während alle anderen in den Tso-mavang mündenden Flüsse
 höchstens 2—3 Kubikmeter führten. Die Quelle des Tage-tsangpo
 an der Front des Ganglunggletschers ist daher die Quelle
 des Satledsch.
-
 :::
 
 :::: align-center

@@ -431,7 +431,6 @@ Zelt, wo mir die Abendstunden recht lang wurden. Nichts strengt den
 Kopf so sehr an und macht so nervös, als die Aufregung, wenn man
 verkleidet reist und jeden Augenblick auf eine verhängnisvolle Krisis
 gefaßt sein muß.
-
 :::
 
 :::: align-center
