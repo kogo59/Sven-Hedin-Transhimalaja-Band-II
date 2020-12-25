@@ -524,7 +524,7 @@ er mir: „Pupils of Montgomerie naturally ask, why an old word
 should be given a new meaning, when it is possible to invent
 any number of new names for newly discovered mountains. I do
 not see that it is necessary to give an important name to newly
-discovered mountains. À new name wilt become important, be-
+discovered mountains. À new name will become important, be-
 cause of the mountains to which it is attached, and your mountains
 would have rendered any new name important.“
 
@@ -636,7 +636,8 @@ Solange ich lebe, werden meine stolzesten Erinnerungen
 wie Königsadler auf den öden, kahlen Felsen des Transhimalaja horsten. —
 
 :::
-::: align-center
+
+:::: align-center
 ****
 ::::
 

@@ -225,7 +225,7 @@ obendrein!“
 ::::
 
 :::: {.wrap-100 .break-before}
-![367. D’Anville, Carte Générale du Thibet ou Bout-tan. (Avril 1733.) <small>Aus: D'Anville, Nouvel Atlas de la Chine et-. Paris 1737.</small>](Transhimalaja_Band_II_362_367.jpg "Transhimalaja_Band_II_362_367.jpg"){#b0362_366}
+![367. D’Anville, Carte Générale du Thibet ou Bout-tan. (Avril 1733.) <small>Aus: D'Anville, Nouvel Atlas de la Chine et-. Paris 1737.</small>](Transhimalaja_Band_II_362_367.jpg "Transhimalaja_Band_II_362_367.jpg"){#b0362_367}
 ::::
 
 Als wir aber am letzten Juni auf der südlich von Selipuk liegenden

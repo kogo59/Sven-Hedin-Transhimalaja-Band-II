@@ -179,7 +179,7 @@ ohne Verdruß und fremde Einmischung einigen werden.“
 ::::
 
 :::: {.wrap-100  .break-before}
-![358. Lunkar-gumpa.](Transhimalaja_Band_II_320_358.jpg "Transhimalaja_Band_II_320_358.jpg"){#b0320_359}
+![358. Lunkar-gumpa.](Transhimalaja_Band_II_320_358.jpg "Transhimalaja_Band_II_320_358.jpg"){#b0320_358}
 ::::
 
 :::: {.wrap-100  .break-before}

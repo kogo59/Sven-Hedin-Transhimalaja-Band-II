@@ -197,26 +197,28 @@
 370. [Abbé Huc.](ch041.xhtml#b0376_370)
 371. [Oberst T. G. Montgomerie.](ch041.xhtml#b0376_371)
 372. [Ankunft in der Missionsstation von Poo.](ch041.xhtml#b0376_372)
-|    Bunte Tafel. Altartisch mit Götterbildern in Mangnang-gumpa. Aquarell des Verfassers.
-373. Der Verfasser in tibetischer Kleidung in Po.
-374. Takkar in seinem neuen Heim bei den Missionaren in Poo.
-375. Klein-Puppy.
-376. Sieben Gentlemen in Simla.
-377. Abschied von meinen letzten Getreuen vor dem Hauptportal des vizeköniglichen Palastes in Simla.
-378. Meine letzte Stunde mit Lord Kitchener.
-|    Der Verfasser. Photographie von Aron Jonasou.
-
++    Bunte Tafel. [Altartisch mit Götterbildern in Mangnang-gumpa.](ch041.xhtml#b0380_001) Aquarell des Verfassers.
+373. [Der Verfasser in tibetischer Kleidung in Poo.](ch041.xhtml#b0382_373)
+374. [Takkar in seinem neuen Heim bei den Missionaren in Poo.](ch041.xhtml#b0382_374)
+375. [Klein-Puppy.](ch041.xhtml#b0382_375)
+376. [Sieben Gentlemen in Simla.](ch041.xhtml#b0384_376)
+377. [Abschied von meinen letzten Getreuen vor dem Hauptportal des vizeköniglichen Palastes in Simla.](ch041.xhtml#b0384_377)
+378. [Meine letzte Stunde mit Lord Kitchener.](ch041.xhtml#b0386_378)
++    [Der Verfasser.](ch041.xhtml#b0386_379) Photographie von Aron Jonason.
 
 ## Karte.
 
-|
-| Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin. Auf
-|    Grund der Originalaufnahmen und unter Benutzung des älteren Materials,
-|    besonders von Ryder, gezeichnet von Lieutenant C. J. Otto Kjellström. 1909.
-|    Maßstab 1 : 800000.
-| Der Transhimalaja. Von Sven Hedin. Auf Grund der Originalaufnahmen ge-
-|    zeichnet von Lieutenant C. J. Otto Kjellström. 1909, Maßstab 1: 1500000.
-|
+::: align-center
+[Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin. Auf<br />
+Grund der Originalaufnahmen und unter Benutzung des älteren Materials,<br />
+besonders von Ryder, gezeichnet von Lieutenant C. J. Otto Kjellström. 1909.<br />
+Maßstab 1 : 800000.](ch042.xhtml#b0407)<br /><br />
+:::
+
+::: align-center
+[Der Transhimalaja. Von Sven Hedin. Auf Grund der Originalaufnahmen ge-<br />
+gezeichnet von Lieutenant C. J. Otto Kjellström. 1909, Maßstab 1: 1500000.](ch042.xhtml#b0407)<br /><br />
+:::
 
 :::: align-center
 ****
