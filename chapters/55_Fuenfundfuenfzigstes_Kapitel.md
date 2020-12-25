@@ -142,7 +142,7 @@ Posthaus in Leh abliefern sollte.
 
 Wir hatten nun 21 Maulesel und 19 Pferde, die braune Puppy
 und einen großen gelben Hund aus Gartok. Alle Maulesel und Pferde,
-außer meinem und Abdul Kerims Reitpferd, trugen Lasten. ich ritt
+außer meinem und Abdul Kerims Reitpferd, trugen Lasten. Ich ritt
 meinen kleinen Ladakischimmel (Abb. [305](ch025.xhtml#b0232_305), [306](ch025.xhtml#b0232_306), [307](ch025.xhtml#b0232_307)),
 der sich wieder unglaublich gekräftigt hatte und ebenso munter war als eins der
 neuen Pferde. Er und noch zwei hatten die ganze große Karawane, die
