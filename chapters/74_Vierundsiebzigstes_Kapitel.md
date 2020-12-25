@@ -110,7 +110,7 @@ ich hier auch vom Besten meiner Jugend und vom
 inhaltreichsten Kapitel meiner Lebensgeschichte Abschied genommen! —
 
 Am 28. August 1908 lagerten wir in dem Dorfe Poo^[^0398]^, und ich
-verlebte hier zwei unvergeßliche Tage in dem gastfreien Hause. der
+verlebte hier zwei unvergeßliche Tage in dem gastfreien Hause der
 Herrenhuter Missionare. Die Herren Marx und Schnabel und ihre
 liebenswürdigen Familien überhäuften mich mit Güte. Hier stürmten auch tausend
 Neuigkeiten aus der Außenwelt auf mich ein — mir war zumute, als
@@ -151,7 +151,7 @@ bunten Saum.“ Er gedenkt des freien Lebens auf den weiten offenen
 Ebenen, er vermißt die Kämpfe mit den Wölfen der Wildnis und träumt
 vom Land der ewigen Schneestürme. Eines Tages sahen wir ihn aus
 einer Quelle, deren Bächlein den Pfad kreuzte, trinken und sich dann in
-den fühlen Schatten des Waldes legen. Er hatte das schon manch liebes
+den kühlen Schatten des Waldes legen. Er hatte das schon manch liebes
 Mal getan, aber diesmal sollte ich ihn nicht wiedersehen! Er kehrte um
 und lief allein nach Tibet zurück! Doch schied er trauernden Herzens von
 mir, was ich daraus ersah, daß er geglaubt hat, die Missionare in Poo
@@ -164,7 +164,7 @@ Zeit einen Gruß von meinem alten Takkar, der mein Zelt so treu
 verteidigte, als ich sein Heimatland verkleidet durchreiste! ([Abb. 374.](ch042.xhtml#b0382_374))
 
 Im Club des Asiatiques in Paris hatte ich einmal mit Madame
-Massieu diniert, die so viele wunderbare Reisen in Asien gemacht hat.
+Massieu^[^0403]^ diniert, die so viele wunderbare Reisen in Asien gemacht hat.
 Prinz Roland Bonaparte^[^0399]^ und der Herzog Henri d’Orléans^[^0400]^ waren bei
 jener Gelegenheit zugegen gewesen, die mir lebhaft vor der Erinnerung
 schwebte, als ich am 7. September der weitgereisten Pariser Dame im
@@ -386,3 +386,5 @@ Zug rollte dem heißen Indien und dem großen öden Meere entgegen.
 [^0401]: [*Narkanda*: vergleiche [Narkanda](https://en.wikipedia.org/wiki/Narkanda)]{.footnote}
 
 [^0402]: [*Deodaras*: vergleiche [Himalaya-Zeder](https://de.wikipedia.org/wiki/Himalaya-Zeder)]{.footnote}
+
+[^0403]: [*Madame Massieu*: vergleiche [Isabelle Massieu](https://en.wikipedia.org/wiki/Isabelle_Massieu)]{.footnote}

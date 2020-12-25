@@ -207,7 +207,7 @@ erschüttert, das einzige, das ich je in Tibet erlebt habe. Es hatte
 jedoch keinen nachteiligen Einfluß auf das gute Verhältnis, das zwischen
 mir und den Mönchen, sowie zwischen mir und dem Statthalter Sonam
 Ngurbu bestand, der ebenfalls als Gast im Kloster weilte ([Abb. 360](ch035.xhtml#b0320_360)),
-und einen vornehmen Lama aus Tschoktshu in seinem Gefolge hatte
+und einen vornehmen Lama aus Tschoktschu in seinem Gefolge hatte
 (Abb. [365](ch039.xhtml#b0362_365), [366](ch039.xhtml#b0362_366) und bunte Tafel [S. 328](ch036.xhtml#b0328_003)).
 Der Gouverneur schenkte mir so viel Tsamba, Reis und Gerste, daß wir im Notfall
 damit nach Toktschen kommen konnten; er erhielt zum Dank eine Uhr. An

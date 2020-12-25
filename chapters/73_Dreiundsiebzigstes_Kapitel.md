@@ -276,7 +276,7 @@ Bergketten Zentralasiens. Da die Karte vorzugsweise Marco Polos Reisen
 illustrieren soll, so sagt sie natürlich über Gegenden, die dieser nicht
 besucht hat, nicht das geringste aus. 				E. W. Dahlgren.
 
-Pater Huc schließt seine Reisebeshreibung mit folgenden
+Pater Huc schließt seine Reisebeschreibung mit folgenden
 denkwürdigen Worten: „Mais il ne suffit pas toujours de zèle de l’écrivain
 pour faire connaître des contrées, où il n’a jamais mis le pied.
 Écrire un voyage en Chine, après quelques promenades aux
@@ -286,8 +286,8 @@ fisamment . . . il est en général assez difficile de faire des dé-
 couvertes dans un pays sans y avoir pénétré.“ („Aber der Eifer
 des Schriftstellers ist nicht immer ausreichend, um ein Bild der
 Gegenden zu geben, die sein Fuß nie betreten hat. Nach einigen Spaziergängen
-bei den Faktoreien Kantons und in der Umgegend von Macao eine China-
-reise zu schreiben, heißt wohl, von Dingen sprechen, die man nicht
+bei den Faktoreien Kantons und in der Umgegend von Macao eine Chinareise
+zu schreiben, heißt wohl, von Dingen sprechen, die man nicht
 genügend kennt . . . es ist im allgemeinen ziemlich schwierig, Entdeckungen
 in einem Lande zu machen, ohne dort eingedrungen zu sein.“)
 
@@ -310,7 +310,7 @@ erreicht habe oder nicht; aber als ich auf dem Surnge-la den
 Transhimalaja zum achtenmal überschritt, hatte ich wenigstens die
 Befriedigung, alle die alten Hypothesen wie Kartenhäuser einfallen und
 gerade da einen neuen wichtigen Zug in die Karte Asiens eingetragen zu
-sehen, wo bisher der weiße Fleck mit seinem verlockenden >„Unexplored“
+sehen, wo bisher der weiße Fleck mit seinem verlockenden „Unexplored“
 gegähnt hatte!
 
 Es fehlt mir hier zu einer ausführlichen Monographie des Transhimalaja
@@ -562,8 +562,8 @@ place it upon the map in its long, unbroken and massive
 Significance . . . . . . It is no mean addition to human
 knowledge that we should realize the assured existence of one of the
 greatest mountain masses in the world. - As regards the name
-which Dr. Hedin has given to it, I will only say, that the desìï-
-derata for the title of a new and momentous geographical discovery
+which Dr. Hedin has given to it, I will only say, that the desiderata
+for the title of a new and momentous geographical discovery
 appear to be these: 1) that the name should if possible be given
 by the principal discoverer; 2) that it should not be unpronounceable,
 unwriteable, over-recondite or obscure; 3) that it should if possible
