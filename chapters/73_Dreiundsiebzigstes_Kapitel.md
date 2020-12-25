@@ -273,7 +273,7 @@ diesen Karten eine sehr verwirrte Darstellung erhalten. In den aufs
 Geratewohl eingetragenen Gebirgsbezeichnungen kann man nicht einmal
 den Himalaja mit völliger Sicherheit identifizieren, noch weniger die
 Bergketten Zentralasiens. Da die Karte vorzugsweise Marco Polos Reisen
-illustrieren soll, so sagt sie natürlivh über Gegenden, die dieser nicht
+illustrieren soll, so sagt sie natürlich über Gegenden, die dieser nicht
 besucht hat, nicht das geringste aus. 				E. W. Dahlgren.
 
 Pater Huc schließt seine Reisebeshreibung mit folgenden
