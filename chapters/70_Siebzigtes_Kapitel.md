@@ -438,7 +438,7 @@ der Osthälfte des Sees erscheinen würde.
 ****
 ::::
 
-## **Anmerkungen** {.break-before .unnumbered}
+#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0330]: [*Kore*: vergleiche [Pradakshina](https://de.wikipedia.org/wiki/Pradakshina)]{.footnote}
 
