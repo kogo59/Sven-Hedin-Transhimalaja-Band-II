@@ -270,7 +270,7 @@ unvergeßlichsten Bilder, die ich in Tibet gesehen habe (s. [buntes Panorama S. 
 Einem gewaltigen, flachgeschliffenen Türkis vergleichbar, liegt der
 „himmlische See“ zwischen den ihn einfassenden Bergen und Hügeln und spielt
 in rosigen, roten, gelben und violetten Nuancen, die nach dem Horizont
-hin immer mehr in den hellblauen Schleiern der wachsenden Entfernung](ch038.xhtml#b0356_001)
+hin immer mehr in den hellblauen Schleiern der wachsenden Entfernung
 verschwimmen. Nur im südwestlichen Viertel wird die Aussicht durch ganz
 naheliegende Höhen verdeckt, die zu der Kette gehören, auf der wir uns
 befinden und die sich am Südufer des Sees entlang zieht; im übrigen
