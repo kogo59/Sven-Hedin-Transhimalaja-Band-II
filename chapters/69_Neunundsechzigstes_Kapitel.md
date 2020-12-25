@@ -412,7 +412,7 @@ Das Lager dieses Tages trug die Nummer 400.
 ****
 ::::
 
-## **Anmerkungen** {.break-before .unnumbered}
+#### **Anmerkungen** {.break-before .unnumbered}
 
 [^320]: [*Monna Vanna*: vergleiche [Monna Vanna](https://en.wikipedia.org/wiki/La_Joconde_nue)]{.footnote}
 

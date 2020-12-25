@@ -480,7 +480,7 @@ Manch edles, feinfühliges Herz schlägt ganz gewiß auch in Tibets kalten,
 ****
 ::::
 
-## **Anmerkungen** {.break-before .unnumbered}
+#### **Anmerkungen** {.break-before .unnumbered}
 
 [^310]: [*Tingri*: vergleiche [Tingri](https://de.wikipedia.org/wiki/Tingri)]{.footnote}
 

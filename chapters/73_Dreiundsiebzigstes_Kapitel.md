@@ -640,7 +640,7 @@ wie Königsadler auf den öden, kahlen Felsen des Transhimalaja horsten. —
 ****
 ::::
 
-## **Anmerkungen** {.break-before .unnumbered}
+#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0360]: [*Pater Huc*: vergleiche [Évariste Régis Huc](https://de.wikipedia.org/wiki/%C3%89variste_R%C3%A9gis_Huc)]{.footnote}
 

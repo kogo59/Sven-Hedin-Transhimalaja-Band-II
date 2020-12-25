@@ -412,6 +412,6 @@ einmal überschreiten können.
 ****
 ::::
 
-## **Anmerkungen** {.break-before .unnumbered}
+#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0340]: [*Mendong Gompa*: vergleiche [Tsochen-Mendong-Gompa](http://wikimapia.org/27373562/Tsochen-Mendong-Gompa)]{.footnote}

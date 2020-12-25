@@ -359,7 +359,7 @@ Zug rollte dem heißen Indien und dem großen öden Meere entgegen.
 ****
 ::::
 
-## **Anmerkungen** {.break-before .unnumbered}
+#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0390]: [*Tirtapuri*: vergleiche [Tirthapuri-Gompa](http://wikimapia.org/3994800/Tirthapuri-hot-springs-and-Tirthapuri-Gompa)]{.footnote}
 
