@@ -159,11 +159,11 @@ bestand; sie waren aneinandergeschwärt und mit vier Querstangen für die
 Träger versehen worden ([Abb. 230](ch009.xhtml#b0064_230)).
 
 :::: {.wrap-100 .break-before }
-![213. Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte. Im Hintergrund der Targo-tsangpo und der Targo-gangri.](Transhimalaja_Band_II_40_213.jpg "Transhimalaja_Band_II_40_213.jpg"){#b0040_213}
+![213. Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte. Im Hintergrund der Targo-tsangpo und der Targo-gangri.](Transhimalaja_Band_II_40_213.jpg "213. Lundup Tsering, der meinen Zug zum Dangra-jum-tso verhinderte. Im Hintergrund der Targo-tsangpo und der Targo-gangri."){#b0040_213}
 ::::
 
 :::: {.wrap-100 .break-before }
-![214. Lundup Tserings Heeresmacht. Links ein Teil des Targo-gangri.](Transhimalaja_Band_II_40_214.jpg "Transhimalaja_Band_II_40_214.jpg"){#b0040_214}
+![214. Lundup Tserings Heeresmacht. Links ein Teil des Targo-gangri.](Transhimalaja_Band_II_40_214.jpg "214. Lundup Tserings Heeresmacht. Links ein Teil des Targo-gangri."){#b0040_214}
 ::::
 
 Als alles fertig war, hoben die acht Mohammedaner die Bahre

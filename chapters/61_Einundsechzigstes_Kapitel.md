@@ -307,23 +307,23 @@ geht hin, und der Sturm tobt weiter, bis man ganz müde und
 gleichgültig geworden ist.
 
 :::: {.wrap-100 .break-before}
-![317. Der Lemtschung-tso nach Osten.](Transhimalaja_Band_II_256_317.jpg "Transhimalaja_Band_II_256_317.jpg"){#b0256_317}
+![317. Der Lemtschung-tso nach Osten.](Transhimalaja_Band_II_256_317.jpg "317. Der Lemtschung-tso nach Osten."){#b0256_317}
 ::::
 
 :::: {.wrap-100}
-![318. Der Lemtschung-tso nach Osten.](Transhimalaja_Band_II_256_318.jpg "Transhimalaja_Band_II_256_318.jpg"){#b0256_318}
+![318. Der Lemtschung-tso nach Osten.](Transhimalaja_Band_II_256_318.jpg "318. Der Lemtschung-tso nach Osten."){#b0256_318}
 ::::
 
 :::: {.wrap-100 .break-before}
-![319. Der Scha-kangscham.](Transhimalaja_Band_II_256_319.jpg "Transhimalaja_Band_II_256_319.jpg"){#b0256_319}
+![319. Der Scha-kangscham.](Transhimalaja_Band_II_256_319.jpg "319. Der Scha-kangscham."){#b0256_319}
 ::::
 
 :::: {.wrap-100 }
-![320. Der Scha-kangscham. <small>Nach Aquarellen des Verfassers.</small>](Transhimalaja_Band_II_256_320.jpg "Transhimalaja_Band_II_256_320.jpg"){#b0256_320}
+![320. Der Scha-kangscham. <small>Nach Aquarellen des Verfassers.</small>](Transhimalaja_Band_II_256_320.jpg "320. Der Scha-kangscham. Nach Aquarellen des Verfassers."){#b0256_320}
 ::::
 
 :::: {.wrap-70 .break-before}
-![321. Der Verfasser als Schafhirt verkleidet.](Transhimalaja_Band_II_256_321.jpg "Transhimalaja_Band_II_256_321.jpg"){#b0256_321}
+![321. Der Verfasser als Schafhirt verkleidet.](Transhimalaja_Band_II_256_321.jpg "321. Der Verfasser als Schafhirt verkleidet."){#b0256_321}
 ::::
 
 Während dieser stürmischen Tage des Abwartens hatten unsere Tiere

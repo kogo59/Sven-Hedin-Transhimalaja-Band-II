@@ -237,19 +237,19 @@ nun mein Stündlein gekommen sei, und er werde Rache nehmen und
 mich jetzt für immer behalten!
 
 :::: {.wrap-70 .break-before }
-![255. Tempelinneres in Tugu-gumpa.](Transhimalaja_Band_II_136_255.jpg "Transhimalaja_Band_II_136_255.jpg"){#b0136_255}
+![255. Tempelinneres in Tugu-gumpa.](Transhimalaja_Band_II_136_255.jpg "255. Tempelinneres in Tugu-gumpa."){#b0136_255}
 ::::
 
 :::: {.wrap-70 .break-before }
-![256. Krypta in Janggo-gumpa. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_136_256.jpg "Transhimalaja_Band_II_136_256.jpg"){#b0136_256}
+![256. Krypta in Janggo-gumpa. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_136_256.jpg "256. Krypta in Janggo-gumpa. Skizzen des Verfassers."){#b0136_256}
 ::::
 
 :::: {.wrap-100 .break-before }
-![257. Tschenresis Bild in Tugu-gumpa.](Transhimalaja_Band_II_136_257.jpg "Transhimalaja_Band_II_136_257.jpg"){#b0136_257}
+![257. Tschenresis Bild in Tugu-gumpa.](Transhimalaja_Band_II_136_257.jpg "257. Tschenresis Bild in Tugu-gumpa."){#b0136_257}
 ::::
 
 :::: {.wrap-100 .break-before }
-![258. Lama mit Gebetstrommel. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_136_258.jpg "Transhimalaja_Band_II_136_258.jpg"){#b0136_258}
+![258. Lama mit Gebetstrommel. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_136_258.jpg "258. Lama mit Gebetstrommel. Skizzen des Verfassers."){#b0136_258}
 ::::
 
 Aber der Morgen war herrlich, und als wir um ½6 auf den

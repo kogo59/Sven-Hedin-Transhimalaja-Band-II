@@ -212,23 +212,23 @@ Poonch existierte noch, auch mein kleiner Ladakischimmel und einer seiner
 Landsleute, die Veteranen von Leh.
 
 :::: {.wrap-70 .break-before }
-![277. Weib von Jumba-matsen.](Transhimalaja_Band_II_192_277.jpg "Transhimalaja_Band_II_192_277.jpg"){#b0192_277}
+![277. Weib von Jumba-matsen.](Transhimalaja_Band_II_192_277.jpg "277. Weib von Jumba-matsen."){#b0192_277}
 ::::
 
 :::: {.wrap-70 .break-before }
-![278. Ladaki-Kaufmann in Westtibet.](Transhimalaja_Band_II_192_278.jpg "Transhimalaja_Band_II_192_277.jpg"){#b0192_278}
+![278. Ladaki-Kaufmann in Westtibet.](Transhimalaja_Band_II_192_278.jpg "278. Ladaki-Kaufmann in Westtibet."){#b0192_278}
 ::::
 
 :::: {.wrap-70 .break-before }
-![279. Dortsche Tsuän, Gouverneur der Provinz Saka, seine chinesische Pfeife rauchend.](Transhimalaja_Band_II_192_279.jpg "Transhimalaja_Band_II_192_279.jpg"){#b0192_279}
+![279. Dortsche Tsuän, Gouverneur der Provinz Saka, seine chinesische Pfeife rauchend.](Transhimalaja_Band_II_192_279.jpg "279. Dortsche Tsuän, Gouverneur der Provinz Saka, seine chinesische Pfeife rauchend."){#b0192_279}
 ::::
 
 :::: {.wrap-70 .break-before }
-![280. Oang Ojä, Sohn des Gouverneurs Dortsche Tsuän. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_192_280.jpg "Transhimalaja_Band_II_192_280.jpg"){#b0192_280}
+![280. Oang Ojä, Sohn des Gouverneurs Dortsche Tsuän. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_192_280.jpg "280. Oang Ojä, Sohn des Gouverneurs Dortsche Tsuän. Skizzen des Verfassers."){#b0192_280}
 ::::
 
 :::: {.wrap-100 .break-before }
-![281. Gulam Rasul; hinter ihm Ballen chinesischen Ziegeltees.](Transhimalaja_Band_II_192_281.jpg "Transhimalaja_Band_II_192_281.jpg"){#b0192_281}
+![281. Gulam Rasul; hinter ihm Ballen chinesischen Ziegeltees.](Transhimalaja_Band_II_192_281.jpg "281. Gulam Rasul; hinter ihm Ballen chinesischen Ziegeltees."){#b0192_281}
 ::::
 
 Außerdem übernahm Gulam Rasul, mir fünfzehn vorzügliche Pferde

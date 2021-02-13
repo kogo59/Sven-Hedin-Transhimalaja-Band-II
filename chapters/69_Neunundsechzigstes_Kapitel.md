@@ -47,19 +47,19 @@ starkbewaffneten Räubern erzählte, die im Norden des Gebirges hausten,
 das ich überschreiten wolle.
 
 :::: {.wrap-60  .break-before}
-![Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum Teri-nam-tso.](Transhimalaja_Band_II_328_001.jpg "Transhimalaja_Band_II_328_001.jpg"){#b0328_001}
+![Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum Teri-nam-tso.](Transhimalaja_Band_II_328_001.jpg "Nima Taschi, Chef der Regierungs-Eskorte, auf dem Weg zum Teri-nam-tso."){#b0328_001}
 ::::
 
 :::: {.wrap-60  .break-before}
-![Nonnen von Mendong.](Transhimalaja_Band_II_328_002.jpg "Transhimalaja_Band_II_328_002.jpg"){#b0328_002}
+![Nonnen von Mendong.](Transhimalaja_Band_II_328_002.jpg "Nonnen von Mendong."){#b0328_002}
 ::::
 
 :::: {.wrap-60  .break-before}
-![Vornehmer Lama von Tschoktschu.](Transhimalaja_Band_II_328_003.jpg "Transhimalaja_Band_II_328_003.jpg"){#b0328_003}
+![Vornehmer Lama von Tschoktschu.](Transhimalaja_Band_II_328_003.jpg "Vornehmer Lama von Tschoktschu."){#b0328_003}
 ::::
 
 :::: {.wrap-60  .break-before}
-![Der Prior von Selipuk. <small>Aquarelle des Verfassers.</small>](Transhimalaja_Band_II_328_004.jpg "Transhimalaja_Band_II_328_004.jpg"){#b0328_004}
+![Der Prior von Selipuk. <small>Aquarelle des Verfassers.</small>](Transhimalaja_Band_II_328_004.jpg "Der Prior von Selipuk. Aquarelle des Verfassers."){#b0328_004}
 ::::
 
 „Wenn die Gegend so unsicher ist,“ versetzte ich, „dann sind Sie
@@ -392,19 +392,19 @@ Waffen bei der Verteidigung zu helfen!
 Das Lager dieses Tages trug die Nummer 400.
 
 :::: {.wrap-100  .break-before}
-![361. Aussicht vom Abuk-la nach Ost bis Südsüdwest mit der Surla-Kette (drei anschließende Teile).](Transhimalaja_Band_II_336_361.jpg "Transhimalaja_Band_II_336_361.jpg"){#b0336_361}
+![361. Aussicht vom Abuk-la nach Ost bis Südsüdwest mit der Surla-Kette (drei anschließende Teile).](Transhimalaja_Band_II_336_361.jpg "361. Aussicht vom Abuk-la nach Ost bis Südsüdwest mit der Surla-Kette (drei anschließende Teile)."){#b0336_361}
 ::::
 
 :::: {.wrap-100 }
-![362. Aussicht vom Tajep-parva-la über den Ngang-laring-tso und seine Felseninseln. <small>Nach Aquarellen des Verfassers.</small>](Transhimalaja_Band_II_336_362.jpg "Transhimalaja_Band_II_336_362.jpg"){#b0336_362}
+![362. Aussicht vom Tajep-parva-la über den Ngang-laring-tso und seine Felseninseln. <small>Nach Aquarellen des Verfassers.</small>](Transhimalaja_Band_II_336_362.jpg "362. Aussicht vom Tajep-parva-la über den Ngang-laring-tso und seine Felseninseln. Nach Aquarellen des Verfassers."){#b0336_362}
 ::::
 
 :::: {.wrap-100  .break-before}
-![363. Selipuk-gumpa.](Transhimalaja_Band_II_336_363.jpg "Transhimalaja_Band_II_336_363.jpg"){#b0336_363}
+![363. Selipuk-gumpa.](Transhimalaja_Band_II_336_363.jpg "363. Selipuk-gumpa."){#b0336_363}
 ::::
 
 :::: {.wrap-100  .break-before}
-![364. Innerer Hof von Selipuk-gumpa.](Transhimalaja_Band_II_336_364.jpg "Transhimalaja_Band_II_336_364.jpg"){#b0336_364}
+![364. Innerer Hof von Selipuk-gumpa.](Transhimalaja_Band_II_336_364.jpg "364. Innerer Hof von Selipuk-gumpa."){#b0336_364}
 ::::
 :::
 

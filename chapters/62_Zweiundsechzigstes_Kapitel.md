@@ -268,18 +268,18 @@ die zu einer Krisis führen mußten und in denen die Sorgen der
 Vergangenheit vor dem Ernst des Augenblickes verblaßten.
 
 :::: {.wrap-100 .break-before}
-![322. Übergang über das Eis des Kangscham-tsangpo.](Transhimalaja_Band_II_264_322.jpg "Transhimalaja_Band_II_264_322.jpg"){#b0264_322}
+![322. Übergang über das Eis des Kangscham-tsangpo.](Transhimalaja_Band_II_264_322.jpg "322. Übergang über das Eis des Kangscham-tsangpo."){#b0264_322}
 ::::
 
 :::: {.wrap-100 .break-before}
-![323. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](Transhimalaja_Band_II_264_323.jpg "Transhimalaja_Band_II_264_323.jpg"){#b0264_323}
+![323. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](Transhimalaja_Band_II_264_323.jpg "323. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen."){#b0264_323}
 ::::
 
 :::: {.wrap-100 }
-![324. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](Transhimalaja_Band_II_264_324.jpg "Transhimalaja_Band_II_264_324.jpg"){#b0264_324}
+![324. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen.](Transhimalaja_Band_II_264_324.jpg "324. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen."){#b0264_324}
 ::::
 :::: {.wrap-100 }
-![325. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen. <small>Nach Aquarellen des Verfassers.</small>](Transhimalaja_Band_II_264_325.jpg "Transhimalaja_Band_II_264_325.jpg"){#b0264_325}
+![325. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen. <small>Nach Aquarellen des Verfassers.</small>](Transhimalaja_Band_II_264_325.jpg "325. Die Gipfel des Lunpo-gangri (Transhimalaja) von den Lagern Nr. 379, 381 und 383 aus gesehen. Nach Aquarellen des Verfassers."){#b0264_325}
 ::::
 
 Am 10. März. Ein Tag wie der heutige ist interessant in der

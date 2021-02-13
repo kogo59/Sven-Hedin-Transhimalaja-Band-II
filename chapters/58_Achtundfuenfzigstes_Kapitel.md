@@ -119,23 +119,23 @@ war wieder ein Maulesel gefallen, und mit ihm hatten wir schon ein
 Viertel der Karawane verloren!
 
 :::: {.wrap-100  .break-before}
-![Aussicht von Lager 307.](Transhimalaja_Band_II_230_001.jpg "Transhimalaja_Band_II_230_001.jpg"){#b0230_001}
+![Aussicht von Lager 307.](Transhimalaja_Band_II_230_001.jpg "Aussicht von Lager 307."){#b0230_001}
 ::::
 
 :::: {.wrap-100 }
-![Der kleine Salzsee südlich von Lager 309. (Flecke oben infolge Gefrierens der Farbe.)](Transhimalaja_Band_II_230_002.jpg "Transhimalaja_Band_II_230_002.jpg"){#b0230_002}
+![Der kleine Salzsee südlich von Lager 309. (Flecke oben infolge Gefrierens der Farbe.)](Transhimalaja_Band_II_230_002.jpg "Der kleine Salzsee südlich von Lager 309. (Flecke oben infolge Gefrierens der Farbe.)"){#b0230_002}
 ::::
 
 :::: {.wrap-100 }
-![Die Pferde gehen zur Tränke zum See bei Lager 310.](Transhimalaja_Band_II_230_003.jpg "Transhimalaja_Band_II_230_003.jpg"){#b0230_003}
+![Die Pferde gehen zur Tränke zum See bei Lager 310.](Transhimalaja_Band_II_230_003.jpg "Die Pferde gehen zur Tränke zum See bei Lager 310."){#b0230_003}
 ::::
 
 :::: {.wrap-100 .break-before}
-![Berg nordöstlich von Lager 310.](Transhimalaja_Band_II_230_004.jpg "Transhimalaja_Band_II_230_004.jpg"){#b0230_004}
+![Berg nordöstlich von Lager 310.](Transhimalaja_Band_II_230_004.jpg "Berg nordöstlich von Lager 310."){#b0230_004}
 ::::
 
 :::: {.wrap-100 }
-![Sturmwolken über dem Schneegebirge südlich des Lagers 312.<br />Aquarelle des Verfassers.](Transhimalaja_Band_II_230_005.jpg "Transhimalaja_Band_II_230_005.jpg"){#b0230_005}
+![Sturmwolken über dem Schneegebirge südlich des Lagers 312.<br />Aquarelle des Verfassers.](Transhimalaja_Band_II_230_005.jpg "Sturmwolken über dem Schneegebirge südlich des Lagers 312.<br />Aquarelle des Verfassers."){#b0230_005}
 ::::
 
 Im selben Tal ging es am folgenden Tag bergauf weiter. Bisweilen
@@ -234,35 +234,35 @@ hinab und auf eine Landspitze hinaus, die sich in einen nadelfeinen
 Erddamm verschmälert.
 
 :::: {.w-40 .float-left .break-before}
-![300. Tubges.](Transhimalaja_Band_II_232_300.jpg "Transhimalaja_Band_II_232_300.jpg"){#b0232_300}
+![300. Tubges.](Transhimalaja_Band_II_232_300.jpg "300. Tubges."){#b0232_300}
 ::::
 
 :::: {.w-40 .float-right .break-after}
-![301. Kuntschuk.](Transhimalaja_Band_II_232_301.jpg "Transhimalaja_Band_II_232_301.jpg"){#b0232_301}
+![301. Kuntschuk.](Transhimalaja_Band_II_232_301.jpg "301. Kuntschuk."){#b0232_301}
 :::
 
 :::: {.w-40 .float-left }
-![302. Suän, der maître de plaisir der Karawane, tanzend.](Transhimalaja_Band_II_232_302.jpg "Transhimalaja_Band_II_232_302.jpg"){#b0232_302}
+![302. Suän, der maître de plaisir der Karawane, tanzend.](Transhimalaja_Band_II_232_302.jpg "302. Suän, der maître de plaisir der Karawane, tanzend."){#b0232_302}
 ::::
 
 :::: {.w-40 .float-right .break-after }
-![303. Suän, der maître de plaisir der Karawane, tanzend.](Transhimalaja_Band_II_232_303.jpg "Transhimalaja_Band_II_232_303.jpg"){#b0232_303}
+![303. Suän, der maître de plaisir der Karawane, tanzend.](Transhimalaja_Band_II_232_303.jpg "303. Suän, der maître de plaisir der Karawane, tanzend."){#b0232_303}
 ::::
 
 :::: {.w-40 .float-left }
-![304. Meine braune Puppy mit dem Koch Tsering.](Transhimalaja_Band_II_232_304.jpg "Transhimalaja_Band_II_232_304.jpg"){#b0232_304}
+![304. Meine braune Puppy mit dem Koch Tsering.](Transhimalaja_Band_II_232_304.jpg "304. Meine braune Puppy mit dem Koch Tsering."){#b0232_304}
 ::::
 
 :::: {.w-40 .float-right .break-after}
-![305. Mein weißer Ladaki.](Transhimalaja_Band_II_232_305.jpg "Transhimalaja_Band_II_232_305.jpg"){#b0232_305}
+![305. Mein weißer Ladaki.](Transhimalaja_Band_II_232_305.jpg "305. Mein weißer Ladaki."){#b0232_305}
 ::::
 
 :::: {.wrap-100 }
-![306. Mein weißer Ladaki.](Transhimalaja_Band_II_232_306.jpg "Transhimalaja_Band_II_232_306.jpg"){#b0232_306}
+![306. Mein weißer Ladaki.](Transhimalaja_Band_II_232_306.jpg "306. Mein weißer Ladaki."){#b0232_306}
 ::::
 
 :::: {.wrap-100 }
-![307. Mein weißer Ladaki.](Transhimalaja_Band_II_232_307.jpg "Transhimalaja_Band_II_232_307.jpg"){#b0232_307}
+![307. Mein weißer Ladaki.](Transhimalaja_Band_II_232_307.jpg "307. Mein weißer Ladaki."){#b0232_307}
 ::::
 
 Hier hat das Eis sich links zu 2 Meter hohen Terrassen aufgetürmt,

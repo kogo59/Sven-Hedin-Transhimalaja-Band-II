@@ -91,31 +91,31 @@ diesem Wespennest unbehelligt hinauszukommen. Morgen früh, ehe man
 stand fest.
 
 :::: {.wrap-100 .break-before}
-![330. Kantschung-gangri und Laptschung-tso von Lager Nr. 400 aus. <small>Nach einem Aquarell des Verfassers.</small>](Transhimalaja_Band_II_280_330.jpg "Transhimalaja_Band_II_280_330.jpg"){#b0280_330}
+![330. Kantschung-gangri und Laptschung-tso von Lager Nr. 400 aus. <small>Nach einem Aquarell des Verfassers.</small>](Transhimalaja_Band_II_280_330.jpg "330. Kantschung-gangri und Laptschung-tso von Lager Nr. 400 aus. Nach einem Aquarell des Verfassers."){#b0280_330}
 ::::
 
 :::: {.wrap-100 .break-before}
-![331. Aufbruch zum Lamlung-la.](Transhimalaja_Band_II_280_331.jpg "Transhimalaja_Band_II_280_331.jpg"){#b0280_331}
+![331. Aufbruch zum Lamlung-la.](Transhimalaja_Band_II_280_331.jpg "331. Aufbruch zum Lamlung-la."){#b0280_331}
 ::::
 
 :::: {.wrap-100 .break-before}
-![332. Seine Exzellenz der Herr Gouverneur von Saka unterwegs.](Transhimalaja_Band_II_280_332.jpg "Transhimalaja_Band_II_280_332.jpg"){#b0280_332}
+![332. Seine Exzellenz der Herr Gouverneur von Saka unterwegs.](Transhimalaja_Band_II_280_332.jpg "332. Seine Exzellenz der Herr Gouverneur von Saka unterwegs."){#b0280_332}
 ::::
 
 :::: {.wrap-40 .break-before  .float-left }
-![333. Pantschor, Führer zum Teri-nam-tso.](Transhimalaja_Band_II_280_333.jpg "Transhimalaja_Band_II_280_333.jpg"){#b0280_333}
+![333. Pantschor, Führer zum Teri-nam-tso.](Transhimalaja_Band_II_280_333.jpg "333. Pantschor, Führer zum Teri-nam-tso."){#b0280_333}
 ::::
 
 :::: {.wrap-40 .float-right  }
-![334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.](Transhimalaja_Band_II_280_334.jpg "Transhimalaja_Band_II_280_334.jpg"){#b0280_334}
+![334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.](Transhimalaja_Band_II_280_334.jpg "334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte."){#b0280_334}
 ::::
 
 :::: {.wrap-40 .break-before .float-left }
-![335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu.](Transhimalaja_Band_II_280_335.jpg "Transhimalaja_Band_II_280_335.jpg"){#b0280_335}
+![335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu.](Transhimalaja_Band_II_280_335.jpg "335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu."){#b0280_335}
 ::::
 
 :::: {.wrap-40 .float-right}
-![336. Soldat aus Sonam Ngurbus Eskorte. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_280_336.jpg "Transhimalaja_Band_II_280_336.jpg"){#b0280_336}
+![336. Soldat aus Sonam Ngurbus Eskorte. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_280_336.jpg "336. Soldat aus Sonam Ngurbus Eskorte. Skizzen des Verfassers."){#b0280_336}
 ::::
 
 Nachdem ich mehrere Stunden gewartet hatte, kam Abdul Kerim

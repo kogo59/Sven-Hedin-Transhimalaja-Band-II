@@ -331,15 +331,15 @@ chinesische Verfasser hervorheben wollen, daß der Tso-mavang viel größer
 ist als die anderen im Text angeführten Seen.
 
 :::: {.wrap-100 .break-before }
-![264. Klosternovizen.](Transhimalaja_Band_II_160_264.jpg "Transhimalaja_Band_II_160_264.jpg"){#b0160_264}
+![264. Klosternovizen.](Transhimalaja_Band_II_160_264.jpg "264. Klosternovizen."){#b0160_264}
 ::::
 
 :::: {.wrap-100 .break-before }
-![265. Küche in Tschiu-gumpa. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_160_265.jpg "Transhimalaja_Band_II_160_265.jpg"){#b0160_265}
+![265. Küche in Tschiu-gumpa. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_160_265.jpg "265. Küche in Tschiu-gumpa. Skizzen des Verfassers"){#b0160_265}
 ::::
 
 :::: {.wrap-100 .break-before }
-![266. Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund. <small>Der Sitzende ist der Gova, der mir erlaubte, die Reise zur Indusquelle auszuführen.</small>](Transhimalaja_Band_II_160_266.jpg "Transhimalaja_Band_II_160_266.jpg"){#b0160_266}
+![266. Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund. <small>Der Sitzende ist der Gova, der mir erlaubte, die Reise zur Indusquelle auszuführen.</small>](Transhimalaja_Band_II_160_266.jpg "266. Eingang ins Dunglung- oder Njandital mit dem Kailas im Hintergrund. Der Sitzende ist der Gova, der mir erlaubte, die Reise zur Indusquelle auszuführen."){#b0160_266}
 ::::
 
 Wie man anzunehmen allen Grund hat, strömte das überflüssige

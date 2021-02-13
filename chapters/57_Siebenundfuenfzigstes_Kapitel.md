@@ -290,19 +290,19 @@ Kohlenbecken steht, gefriert innerhalb einer Viertelstunde bis auf den
 Grund.
 
 :::: {.wrap-50  .break-before}
-![296. Abdul Kerim, der neue Karawanenführer.](Transhimalaja_Band_II_224_296.jpg "Transhimalaja_Band_II_224_296.jpg"){#b0224_296}
+![296. Abdul Kerim, der neue Karawanenführer.](Transhimalaja_Band_II_224_296.jpg "296. Abdul Kerim, der neue Karawanenführer."){#b0224_296}
 ::::
 
 :::: {.wrap-70  .break-before}
-![297. Gulam, mein Koch.](Transhimalaja_Band_II_224_297.jpg "Transhimalaja_Band_II_224_297.jpg"){#b0224_297}
+![297. Gulam, mein Koch.](Transhimalaja_Band_II_224_297.jpg "297. Gulam, mein Koch."){#b0224_297}
 ::::
 
 :::: {.wrap-70  .break-before}
-![298. Lobsang.](Transhimalaja_Band_II_224_298.jpg "Transhimalaja_Band_II_224_298.jpg"){#b0224_298}
+![298. Lobsang.](Transhimalaja_Band_II_224_298.jpg "298. Lobsang."){#b0224_298}
 ::::
 
 :::: {.wrap-70  .break-before}
-![299. Kutus.](Transhimalaja_Band_II_224_299.jpg "Transhimalaja_Band_II_224_299.jpg"){#b0224_299}
+![299. Kutus.](Transhimalaja_Band_II_224_299.jpg "299. Kutus."){#b0224_299}
 ::::
 
 

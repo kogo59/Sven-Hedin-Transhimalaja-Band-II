@@ -210,31 +210,31 @@ zur Verfügung zu stellen habe. Man könne sie jeden Augenblick
 erwarten.
 
 :::: {.wrap-70 .break-before }
-![223. Weib vom Tschaktak-tsangpo.](Transhimalaja_Band_II_64_223.jpg "Transhimalaja_Band_II_64_223.jpg"){#b0064_223}
+![223. Weib vom Tschaktak-tsangpo.](Transhimalaja_Band_II_64_223.jpg "223. Weib vom Tschaktak-tsangpo."){#b0064_223}
 ::::
 
 :::: {.wrap-60 .break-before }
-![224. Mann aus Saka.](Transhimalaja_Band_II_64_224.jpg "Transhimalaja_Band_II_64_224.jpg"){#b0064_224}
+![224. Mann aus Saka.](Transhimalaja_Band_II_64_224.jpg "224. Mann aus Saka."){#b0064_224}
 ::::
 
 :::: {.wrap-70 .break-before }
-![225. Lama in Saka-dsong. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_64_225.jpg "Transhimalaja_Band_II_64_225.jpg"){#b0064_225}
+![225. Lama in Saka-dsong. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_64_225.jpg "225. Lama in Saka-dsong. Skizzen des Verfassers"){#b0064_225}
 ::::
 
 :::: {.wrap-70 .break-before }
-![226. Nomade von der Mündung des Tschaktak-tsangpo in den Brahmaputra.](Transhimalaja_Band_II_64_226.jpg "Transhimalaja_Band_II_64_226.jpg"){#b0064_226}
+![226. Nomade von der Mündung des Tschaktak-tsangpo in den Brahmaputra.](Transhimalaja_Band_II_64_226.jpg "226. Nomade von der Mündung des Tschaktak-tsangpo in den Brahmaputra."){#b0064_226}
 ::::
 
 :::: {.wrap-70 .break-before }
-![227. Mädchen in Pasa-guk.](Transhimalaja_Band_II_64_227.jpg "Transhimalaja_Band_II_64_227.jpg"){#b0064_227}
+![227. Mädchen in Pasa-guk.](Transhimalaja_Band_II_64_227.jpg "227. Mädchen in Pasa-guk."){#b0064_227}
 ::::
 
 :::: {.wrap-70 .break-before }
-![228. Weib in Njuku.](Transhimalaja_Band_II_64_228.jpg "Transhimalaja_Band_II_64_228.jpg"){#b0064_228}
+![228. Weib in Njuku.](Transhimalaja_Band_II_64_228.jpg "228. Weib in Njuku."){#b0064_228}
 ::::
 
 :::: {.wrap-70 .break-before }
-![229. Der Gova von Tuksum. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_64_229.jpg "Transhimalaja_Band_II_64_229.jpg"){#b0064_229}
+![229. Der Gova von Tuksum. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_64_229.jpg "229. Der Gova von Tuksum. Skizzen des Verfassers"){#b0064_229}
 ::::
 
 Der Sommertag war so trüb als möglich. Das ganze Land lag

@@ -31,7 +31,7 @@ beiden Seen, und mit einem Gefühl des Grams verließ ich wieder den
 Schauplatz so vieler teurer und unvergeßlicher Erinnerungen.
 
 :::: {.wrap-100 .break-before}
-![Altartisch mit Götterbildern in Mangnang-gumpa. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_II_380_001.jpg "Transhimalaja_Band_II_380_001.jpg"){#b0380_001}
+![Altartisch mit Götterbildern in Mangnang-gumpa. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_II_380_001.jpg "Altartisch mit Götterbildern in Mangnang-gumpa. Aquarell des Verfassers."){#b0380_001}
 ::::
 
 Bevor wir das Kloster Tirtapuri^[^0390]^ erreichten, hatten wir mehrere
@@ -121,15 +121,15 @@ Aber die Missionare putzten mich mit einem europäischen Sommeranzug heraus und
 setzten mir einen indischen Helm auf den Kopf.
 
 :::: {.wrap-70 .break-before}
-![373. Der Verfasser in tibetischer Kleidung in Po.](Transhimalaja_Band_II_382_373.jpg "Transhimalaja_Band_II_382_373.jpg"){#b0382_373}
+![373. Der Verfasser in tibetischer Kleidung in Po.](Transhimalaja_Band_II_382_373.jpg "373. Der Verfasser in tibetischer Kleidung in Po."){#b0382_373}
 ::::
 
 :::: {.wrap-100 .break-before}
-![374. Takkar in seinem neuen Heim bei den Missionaren in Poo.](Transhimalaja_Band_II_382_374.jpg "Transhimalaja_Band_II_382_373.jpg"){#b0382_374}
+![374. Takkar in seinem neuen Heim bei den Missionaren in Poo.](Transhimalaja_Band_II_382_374.jpg "374. Takkar in seinem neuen Heim bei den Missionaren in Poo."){#b0382_374}
 ::::
 
 :::: {.wrap-100 .break-before}
-![375. Klein-Puppy.](Transhimalaja_Band_II_382_375.jpg "Transhimalaja_Band_II_382_375.jpg"){#b0382_375}
+![375. Klein-Puppy.](Transhimalaja_Band_II_382_375.jpg "375. Klein-Puppy."){#b0382_375}
 ::::
 
 Einige Tage später kamen wir nach Kanam-gumpa, wo der ungarische
@@ -231,11 +231,11 @@ mir wie ein bizarrer, wunderbarer Traum!
 
 
 :::: {.wrap-100 .break-before}
-![376. Sieben Gentlemen in Simla.](Transhimalaja_Band_II_384_376.jpg "Transhimalaja_Band_II_384_376.jpg"){#b0384_376}
+![376. Sieben Gentlemen in Simla.](Transhimalaja_Band_II_384_376.jpg "376. Sieben Gentlemen in Simla."){#b0384_376}
 ::::
 
 :::: {.wrap-50 .break-before}
-![377. Abschied von meinen letzten Getreuen vor dem Hauptportal des vizeköniglichen Palastes in Simla. <small>Sitzend Kutus und Lobsang, stehend Suän, Gulam und Kuntschuk.</small>](Transhimalaja_Band_II_384_377.jpg "Transhimalaja_Band_II_384_377.jpg"){#b0384_377}
+![377. Abschied von meinen letzten Getreuen vor dem Hauptportal des vizeköniglichen Palastes in Simla. <small>Sitzend Kutus und Lobsang, stehend Suän, Gulam und Kuntschuk.</small>](Transhimalaja_Band_II_384_377.jpg "377. Abschied von meinen letzten Getreuen vor dem Hauptportal des vizeköniglichen Palastes in Simla. Sitzend Kutus und Lobsang, stehend Suän, Gulam und Kuntschuk."){#b0384_377}
 ::::
 
 Die ersten Tage wohnte ich bei meinem alten edlen Freunde Oberst
@@ -318,11 +318,11 @@ Lasttieren hinunter folgte.
 aus, „ihre Tränen sprechen deutlicher als lange Beschreibungen.“
 
 :::: {.wrap-70 .break-before}
-![378. Meine letzte Stunde mit Lord Kitchener.](Transhimalaja_Band_II_386_378.jpg "Transhimalaja_Band_II_386_378.jpg"){#b0386_378}
+![378. Meine letzte Stunde mit Lord Kitchener.](Transhimalaja_Band_II_386_378.jpg "378. Meine letzte Stunde mit Lord Kitchener."){#b0386_378}
 ::::
 
 :::: {.wrap-100 .break-before .align-right}
-![<small>Aron Jonason, Göteborg, Photogr.</small>](Transhimalaja_Band_II_386_379.jpg "Transhimalaja_Band_II_386_379.jpg"){#b0386_379}
+![<small>Aron Jonason, Göteborg, Photogr.</small>](Transhimalaja_Band_II_386_379.jpg "Aron Jonason, Göteborg, Photogr."){#b0386_379}
 ::::
 
 Anfang Oktober reisten der Vizekönig und Lady Minto ins Gebirge,

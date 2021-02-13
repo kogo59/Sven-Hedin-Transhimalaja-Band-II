@@ -179,31 +179,31 @@ bei denen die Haarseite nach außen gekehrt war. Sie waren wirklich
 wärmer als meine Kaschmirstiefel, die ohne Erbarmen verbrannt wurden.
 
 :::: {.wrap-100 .break-before}
-![308. Berg bei Schialung im Schejoktal.](Transhimalaja_Band_II_240_308.jpg "Transhimalaja_Band_II_240_308.jpg"){#b0240_308}
+![308. Berg bei Schialung im Schejoktal.](Transhimalaja_Band_II_240_308.jpg "308. Berg bei Schialung im Schejoktal."){#b0240_308}
 ::::
 
 :::: {.wrap-100 }
-![309. Tal des Buptsang-tsangpo bei Tuta. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_240_309.jpg "Transhimalaja_Band_II_240_309.jpg"){#b0240_309}
+![309. Tal des Buptsang-tsangpo bei Tuta. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_240_309.jpg "309. Tal des Buptsang-tsangpo bei Tuta. Skizzen des Verfassers."){#b0240_309}
 ::::
 
 :::: {.wrap-100 .break-before}
-![310. Aussicht von Lager Nr. 307.](Transhimalaja_Band_II_240_310.jpg "Transhimalaja_Band_II_240_310.jpg"){#b0240_310}
+![310. Aussicht von Lager Nr. 307.](Transhimalaja_Band_II_240_310.jpg "310. Aussicht von Lager Nr. 307."){#b0240_310}
 ::::
 
 :::: {.wrap-100 }
-![311. Aussicht von Lager Nr. 318.](Transhimalaja_Band_II_240_311.jpg "Transhimalaja_Band_II_240_311.jpg"){#b0240_311}
+![311. Aussicht von Lager Nr. 318.](Transhimalaja_Band_II_240_311.jpg "311. Aussicht von Lager Nr. 318."){#b0240_311}
 ::::
 
 :::: {.wrap-100 .break-before}
-![312. Aussicht von Lager Nr. 333.](Transhimalaja_Band_II_240_312.jpg "Transhimalaja_Band_II_240_312.jpg"){#b0240_312}
+![312. Aussicht von Lager Nr. 333.](Transhimalaja_Band_II_240_312.jpg "312. Aussicht von Lager Nr. 333."){#b0240_312}
 ::::
 
 :::: {.wrap-100 }
-![313. Aussicht von Lager Nr. 333 bei Sturm.](Transhimalaja_Band_II_240_313.jpg "Transhimalaja_Band_II_240_313.jpg"){#b0240_313}
+![313. Aussicht von Lager Nr. 333 bei Sturm.](Transhimalaja_Band_II_240_313.jpg "313. Aussicht von Lager Nr. 333 bei Sturm."){#b0240_313}
 ::::
 
 :::: {.wrap-100 }
-![314. Tschomo-utschong, am 1. Mai 1908. <small>Nach Aquarellen und Skizzen des Verfassers.</small>](Transhimalaja_Band_II_240_314.jpg "Transhimalaja_Band_II_240_314.jpg"){#b0240_314}
+![314. Tschomo-utschong, am 1. Mai 1908. <small>Nach Aquarellen und Skizzen des Verfassers.</small>](Transhimalaja_Band_II_240_314.jpg "314. Tschomo-utschong, am 1. Mai 1908. Nach Aquarellen und Skizzen des Verfassers."){#b0240_314}
 ::::
 :::
 

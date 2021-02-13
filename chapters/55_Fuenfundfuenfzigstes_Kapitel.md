@@ -125,19 +125,19 @@ Mußestunden schrieb ich einen ganzen Stapel Briefe, die Robert im
 Posthaus in Leh abliefern sollte.
 
 :::: {.wrap-100 .break-before }
-![282. Zelt in Gartok.](Transhimalaja_Band_II_200_282.jpg "Transhimalaja_Band_II_200_282.jpg"){#b0200_282}
+![282. Zelt in Gartok.](Transhimalaja_Band_II_200_282.jpg "282. Zelt in Gartok."){#b0200_282}
 ::::
 
 :::: {.wrap-100  }
-![283. Kloster von Gar-gunsa.](Transhimalaja_Band_II_200_283.jpg "Transhimalaja_Band_II_200_283.jpg"){#b0200_283}
+![283. Kloster von Gar-gunsa.](Transhimalaja_Band_II_200_283.jpg "283. Kloster von Gar-gunsa."){#b0200_283}
 ::::
 
 :::: {.wrap-100 .break-before }
-![284. Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten.](Transhimalaja_Band_II_200_284.jpg "Transhimalaja_Band_II_200_284.jpg"){#b0200_284}
+![284. Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten.](Transhimalaja_Band_II_200_284.jpg "284. Die Gendarmen aus Rampur, die meine Post nach Gar-gunsa beförderten."){#b0200_284}
 ::::
 
 :::: {.wrap-50 .break-before }
-![285. Robert im Boot unterhalb Gar-gunsa an dem Punkte, wo die beiden Indusarme sich vereinigen.](Transhimalaja_Band_II_200_285.jpg "Transhimalaja_Band_II_200_285.jpg"){#b0200_285}
+![285. Robert im Boot unterhalb Gar-gunsa an dem Punkte, wo die beiden Indusarme sich vereinigen.](Transhimalaja_Band_II_200_285.jpg "285. Robert im Boot unterhalb Gar-gunsa an dem Punkte, wo die beiden Indusarme sich vereinigen."){#b0200_285}
 ::::
 
 Wir hatten nun 21 Maulesel und 19 Pferde, die braune Puppy

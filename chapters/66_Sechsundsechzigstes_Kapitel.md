@@ -328,23 +328,23 @@ Gegend unsicher sei. „Ein Glück, daß ihr gute Waffen habt“, hatten
 sie gesagt.
 
 :::: {.wrap-40 .break-before .float-left }
-![348. Pilger der Pembo-Sekte.](Transhimalaja_Band_II_304_348.jpg "Transhimalaja_Band_II_304_348.jpg"){#b0304_348}
+![348. Pilger der Pembo-Sekte.](Transhimalaja_Band_II_304_348.jpg "348. Pilger der Pembo-Sekte."){#b0304_348}
 ::::
 
 :::: {.wrap-40 .float-right }
-![349. Junger Hirt in Bongba. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_304_349.jpg "Transhimalaja_Band_II_304_349.jpg"){#b0304_349}
+![349. Junger Hirt in Bongba. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_304_349.jpg "349. Junger Hirt in Bongba. Skizzen des Verfassers."){#b0304_349}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![350. Tagla Tserings Gefolge.](Transhimalaja_Band_II_304_350.jpg "Transhimalaja_Band_II_304_350.jpg"){#b0304_350}
+![350. Tagla Tserings Gefolge.](Transhimalaja_Band_II_304_350.jpg "350. Tagla Tserings Gefolge."){#b0304_350}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![351. Tagla Tsering mit seinen Leuten auf Besuch in meinem Zelt.](Transhimalaja_Band_II_304_351.jpg "Transhimalaja_Band_II_304_351.jpg"){#b0304_351}
+![351. Tagla Tsering mit seinen Leuten auf Besuch in meinem Zelt.](Transhimalaja_Band_II_304_351.jpg "351. Tagla Tsering mit seinen Leuten auf Besuch in meinem Zelt."){#b0304_351}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![352. Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen.](Transhimalaja_Band_II_304_352.jpg "Transhimalaja_Band_II_304_352.jpg"){#b0304_352}
+![352. Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen.](Transhimalaja_Band_II_304_352.jpg "352. Die Mönche von Mendong-gumpa kommen mir mißtrauisch entgegen."){#b0304_352}
 ::::
 
 Schließlich stellte sich auch Abdul Kerim mit seinen Einkäufen ein.

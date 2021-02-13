@@ -172,19 +172,19 @@ ruhigen Bassin die Fische so dicht, daß das Wasser von ihren dunkeln
 Rücken beinahe schwarz erschien.
 
 :::: {.wrap-100 .break-before }
-![273. Meine Transportschafe.](Transhimalaja_Band_II_184_273.jpg "Transhimalaja_Band_II_184_273.jpg"){#b0184_273}
+![273. Meine Transportschafe.](Transhimalaja_Band_II_184_273.jpg "273. Meine Transportschafe."){#b0184_273}
 ::::
 
 :::: {.wrap-100 .break-before }
-![274. Gulam Rasuls Zeltlager in Gartok.](Transhimalaja_Band_II_184_274.jpg "Transhimalaja_Band_II_184_274.jpg"){#b0184_274}
+![274. Gulam Rasuls Zeltlager in Gartok.](Transhimalaja_Band_II_184_274.jpg "274. Gulam Rasuls Zeltlager in Gartok."){#b0184_274}
 ::::
 
 :::: {.wrap-70 .break-before }
-![275. Nomadenweib aus Jumba-matsen.](Transhimalaja_Band_II_184_275.jpg "Transhimalaja_Band_II_184_275.jpg"){#b0184_275}
+![275. Nomadenweib aus Jumba-matsen.](Transhimalaja_Band_II_184_275.jpg "275. Nomadenweib aus Jumba-matsen."){#b0184_275}
 ::::
 
 :::: {.wrap-70 .break-before }
-![276. Der Oberlama in Tschuschul-gumpa. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_184_276.jpg "Transhimalaja_Band_II_184_276.jpg"){#b0184_276}
+![276. Der Oberlama in Tschuschul-gumpa. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_184_276.jpg "276. Der Oberlama in Tschuschul-gumpa. Skizzen des Verfassers."){#b0184_276}
 ::::
 
 Wir ritten talaufwärts weiter und ließen eine rote, semmelförmige

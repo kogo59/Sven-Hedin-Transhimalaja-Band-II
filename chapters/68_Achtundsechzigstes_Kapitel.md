@@ -175,19 +175,19 @@ ohne Verdruß und fremde Einmischung einigen werden.“
 
 
 :::: {.wrap-100  .break-before}
-![357. Das Klosterdorf Lunkar, in der Ferne der Tarok-tso.](Transhimalaja_Band_II_320_357.jpg "Transhimalaja_Band_II_320_357.jpg"){#b0320_357}
+![357. Das Klosterdorf Lunkar, in der Ferne der Tarok-tso.](Transhimalaja_Band_II_320_357.jpg "357. Das Klosterdorf Lunkar, in der Ferne der Tarok-tso."){#b0320_357}
 ::::
 
 :::: {.wrap-100  .break-before}
-![358. Lunkar-gumpa.](Transhimalaja_Band_II_320_358.jpg "Transhimalaja_Band_II_320_358.jpg"){#b0320_358}
+![358. Lunkar-gumpa.](Transhimalaja_Band_II_320_358.jpg "358. Lunkar-gumpa."){#b0320_358}
 ::::
 
 :::: {.wrap-100  .break-before}
-![359. Aussicht vom Klosterhügel in Lunkar-gumpa.](Transhimalaja_Band_II_320_359.jpg "Transhimalaja_Band_II_320_359.jpg"){#b0320_359}
+![359. Aussicht vom Klosterhügel in Lunkar-gumpa.](Transhimalaja_Band_II_320_359.jpg "359. Aussicht vom Klosterhügel in Lunkar-gumpa."){#b0320_359}
 ::::
 
 :::: {.wrap-100  .break-before}
-![360. Sonam Ngurbus Soldaten mit Gabelflinten.](Transhimalaja_Band_II_320_360.jpg "Transhimalaja_Band_II_320_360.jpg"){#b0320_360}
+![360. Sonam Ngurbus Soldaten mit Gabelflinten.](Transhimalaja_Band_II_320_360.jpg "360. Sonam Ngurbus Soldaten mit Gabelflinten."){#b0320_360}
 ::::
 
 Mein nächster Schachzug bestand nun aus einem Scheingefecht,

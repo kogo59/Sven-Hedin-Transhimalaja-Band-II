@@ -74,15 +74,15 @@ seinem Heimatsort; das klingt gerade so lächerlich, als wenn wir unsere
 Bekannten Jönköping oder Falsterbo nennen wollten.
 
 :::: {.wrap-100 .break-before }
-![337. Abschiedsfest für die Tibeter am 5. Mai 1908.](Transhimalaja_Band_II_288_337.jpg "Transhimalaja_Band_II_288_337.jpg"){#b0288_337}
+![337. Abschiedsfest für die Tibeter am 5. Mai 1908.](Transhimalaja_Band_II_288_337.jpg "337. Abschiedsfest für die Tibeter am 5. Mai 1908."){#b0288_337}
 ::::
 
 :::: {.wrap-100 .break-before }
-![338, 339. Soldaten unserer Eskorte.](Transhimalaja_Band_II_288_338.jpg "Transhimalaja_Band_II_288_338.jpg"){#b0288_338}
+![338, 339. Soldaten unserer Eskorte.](Transhimalaja_Band_II_288_338.jpg "338, 339. Soldaten unserer Eskorte."){#b0288_338}
 ::::
 
 :::: {.wrap-100 .break-before }
-![340, 341. Soldaten aus Tagla Tserings Gefolge. <small>Skizzen des Verfasseres.</small>](Transhimalaja_Band_II_288_340.jpg "Transhimalaja_Band_II_288_340.jpg"){#b0288_340}
+![340, 341. Soldaten aus Tagla Tserings Gefolge. <small>Skizzen des Verfasseres.</small>](Transhimalaja_Band_II_288_340.jpg "340, 341. Soldaten aus Tagla Tserings Gefolge. Skizzen des Verfasseres."){#b0288_340}
 ::::
 
 Wir überschritten die große nach Nordwesten gehende Straße, auf
@@ -409,27 +409,27 @@ losbrechen würde, die das verbotene Land nun zum zweitenmal ohne
 Erlaubnis durchzogen hatte?
 
 :::: {.wrap-100 .break-before }
-![342. Eingeborene von Kangmar.](Transhimalaja_Band_II_296_342.jpg "Transhimalaja_Band_II_296_342.jpg"){#b0296_342}
+![342. Eingeborene von Kangmar.](Transhimalaja_Band_II_296_342.jpg "342. Eingeborene von Kangmar."){#b0296_342}
 ::::
 
 :::: {.wrap-100 .break-before }
-![343. Tibetische Soldaten am Ufer des Soma-tsangpo.](Transhimalaja_Band_II_296_343.jpg "Transhimalaja_Band_II_296_343.jpg"){#b0296_343}
+![343. Tibetische Soldaten am Ufer des Soma-tsangpo.](Transhimalaja_Band_II_296_343.jpg "343. Tibetische Soldaten am Ufer des Soma-tsangpo."){#b0296_343}
 ::::
 
 :::: {.wrap-40 .break-before .float-left }
-![344. Hirtenknabe in Bongba.](Transhimalaja_Band_II_296_344.jpg "Transhimalaja_Band_II_296_344.jpg"){#b0296_344}
+![344. Hirtenknabe in Bongba.](Transhimalaja_Band_II_296_344.jpg "344. Hirtenknabe in Bongba."){#b0296_344}
 ::::
 
 :::: {.wrap-50 .float-right }
-![345. Ringkampf zwischen Tibetern.](Transhimalaja_Band_II_296_345.jpg "Transhimalaja_Band_II_296_345.jpg"){#b0296_345}
+![345. Ringkampf zwischen Tibetern.](Transhimalaja_Band_II_296_345.jpg "345. Ringkampf zwischen Tibetern."){#b0296_345}
 ::::
 
 :::: {.wrap-40 .break-before .float-left }
-![346. Junge mit Flinte am Teri-nam-tso.](Transhimalaja_Band_II_296_346.jpg "Transhimalaja_Band_II_296_346.jpg"){#b0296_346}
+![346. Junge mit Flinte am Teri-nam-tso.](Transhimalaja_Band_II_296_346.jpg "346. Junge mit Flinte am Teri-nam-tso."){#b0296_346}
 ::::
 
 :::: {.wrap-40 .float-right }
-![347. Die Führer zum Poru-tso. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_296_347.jpg "Transhimalaja_Band_II_296_347.jpg"){#b0296_347}
+![347. Die Führer zum Poru-tso. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_296_347.jpg "347. Die Führer zum Poru-tso. Skizzen des Verfassers."){#b0296_347}
 ::::
 :::
 

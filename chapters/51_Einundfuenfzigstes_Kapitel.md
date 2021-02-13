@@ -208,15 +208,15 @@ beenden und dann die Indusquelle zum Ziele einer neuen Exkursion von
 Chaleb oder schlimmstenfalls selbst von Gartok aus zu machen.
 
 :::: {.wrap-100 .break-before }
-![267. Der Kailas hinter Njandi-gumpa.](Transhimalaja_Band_II_168_267.jpg "Transhimalaja_Band_II_168_267.jpg"){#b0168_267}
+![267. Der Kailas hinter Njandi-gumpa.](Transhimalaja_Band_II_168_267.jpg "267. Der Kailas hinter Njandi-gumpa."){#b0168_267}
 ::::
 
 :::: {.wrap-100 .break-before }
-![268. Bettelnde Pilger.](Transhimalaja_Band_II_168_268.jpg "Transhimalaja_Band_II_168_268.jpg"){#b0168_268}
+![268. Bettelnde Pilger.](Transhimalaja_Band_II_168_268.jpg "268. Bettelnde Pilger."){#b0168_268}
 ::::
 
 :::: {.wrap-100 .break-before }
-![269. Der Kailas von Nordwesten. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_168_269.jpg "Transhimalaja_Band_II_168_269.jpg"){#b0168_269}
+![269. Der Kailas von Nordwesten. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_168_269.jpg "269. Der Kailas von Nordwesten. Skizze des Verfassers."){#b0168_269}
 ::::
 
 Am 4. September nahmen wir von den Mönchen in Diri-pu Abschied,

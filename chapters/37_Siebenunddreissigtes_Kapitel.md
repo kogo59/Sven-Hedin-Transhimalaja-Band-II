@@ -168,23 +168,23 @@ sind, werden sie mit einem Stein beschwert an einer schmalen Stelle
 über den Fluß geworfen.
 
 :::: {.wrap-100 .break-before }
-![198. Das erste Lager nordwestlich vom Tschang-la-Pod-la.](Transhimalaja_Band_II_16_198.jpg "Transhimalaja_Band_II_16_198.jpg"){#b0016_198}
+![198. Das erste Lager nordwestlich vom Tschang-la-Pod-la.](Transhimalaja_Band_II_16_198.jpg "198. Das erste Lager nordwestlich vom Tschang-la-Pod-la."){#b0016_198}
 ::::
 
 :::: {.wrap-100 }
-![199. Tschomo-utschong von Osten.](Transhimalaja_Band_II_16_199.jpg "Transhimalaja_Band_II_16_199.jpg"){#b0016_199}
+![199. Tschomo-utschong von Osten.](Transhimalaja_Band_II_16_199.jpg "199. Tschomo-utschong von Osten."){#b0016_199}
 ::::
 
 :::: {.wrap-100 }
-![200. Landschaft am oberen Raga-tsangpo.](Transhimalaja_Band_II_16_200.jpg "Transhimalaja_Band_II_16_200.jpg"){#b0016_200}
+![200. Landschaft am oberen Raga-tsangpo.](Transhimalaja_Band_II_16_200.jpg "200. Landschaft am oberen Raga-tsangpo."){#b0016_200}
 ::::
 
 :::: {.break-before .wrap-60 }
-![201. Mann aus Largäp.](Transhimalaja_Band_II_16_201.jpg "Transhimalaja_Band_II_16_201.jpg"){#b0016_201}
+![201. Mann aus Largäp.](Transhimalaja_Band_II_16_201.jpg "201. Mann aus Largäp."){#b0016_201}
 ::::
 
 :::: {.wrap-50 }
-![202. Der zwölfjährige Prior von Langbo-nan. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_16_202.jpg "Transhimalaja_Band_II_16_202.jpg"){#b0016_202}
+![202. Der zwölfjährige Prior von Langbo-nan. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_16_202.jpg "202. Der zwölfjährige Prior von Langbo-nan. Skizzen des Verfassers."){#b0016_202}
 ::::
 
 

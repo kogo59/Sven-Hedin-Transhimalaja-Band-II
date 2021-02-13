@@ -332,11 +332,11 @@ Felswänden und weißen Schneewehen verschwand, und über ihm funkelten
 die ewigen Sterne wie brennende Kerzen um einen offenen Sarg.
 
 :::: {.wrap-60 .break-before}
-![315. Geht dies noch einige Tage so weiter, dann sind wir verloren!](Transhimalaja_Band_II_248_315.jpg "Transhimalaja_Band_II_248_315.jpg"){#b0248_315}
+![315. Geht dies noch einige Tage so weiter, dann sind wir verloren!](Transhimalaja_Band_II_248_315.jpg "315. Geht dies noch einige Tage so weiter, dann sind wir verloren!"){#b0248_315}
 ::::
 
 :::: {.wrap-100 .break-before}
-![316. Mein sterbender kleiner Ladaki. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_248_316.jpg "Transhimalaja_Band_II_248_316.jpg"){#b0248_316}
+![316. Mein sterbender kleiner Ladaki. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_248_316.jpg "316. Mein sterbender kleiner Ladaki. Skizze des Verfassers."){#b0248_316}
 ::::
 
 Während den Tieren die bedeutend erleichterten Lasten aufgeladen

@@ -10,17 +10,17 @@ Druck von F. A. Brockhaus, Leipzig.
 ::::
 
 :::: {.wrap-90 }
-![](Transhimalaja_Band_II_Quellgebiet.jpg "Transhimalaja_Band_II_Quellgebiet.jpg"){#b0407 .portrait}
+![](Transhimalaja_Band_II_Quellgebiet.jpg ""){#b0407 .portrait}
 ::::
 
 :::: {.wrap-90 }
-![](Transhimalaja_Band_II_Transhimalaja.jpg "Transhimalaja_Band_II_Transhimalaja.jpg"){#b0408 .portrait}
+![](Transhimalaja_Band_II_Transhimalaja.jpg ""){#b0408 .portrait}
 ::::
 
 :::: {.wrap-100 .align-center }
-![](cover1.jpg "cover1.jpg"){#cover}
+![](cover1.jpg ""){#cover}
 ::::
 
 :::: {.wrap-100  .align-center }
-![](cover2.jpg "cover2.jpg"){#cover2}
+![](cover2.jpg ""){#cover2}
 ::::

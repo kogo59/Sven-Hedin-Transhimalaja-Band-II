@@ -156,19 +156,19 @@ der Zeit doch gute Freunde werden würden. Damit er sich in der
 Gefangenschaft tröste, erhielt er Blut und Eingeweide des geschlachteten Schafes.
 
 :::: {.wrap-100 .break-before}
-![326. Abdul Kerims Zelt.](Transhimalaja_Band_II_272_326.jpg "Transhimalaja_Band_II_272_326.jpg"){#b0272_326}
+![326. Abdul Kerims Zelt.](Transhimalaja_Band_II_272_326.jpg "326. Abdul Kerims Zelt."){#b0272_326}
 ::::
 
 :::: {.wrap-100 .break-before}
-![327. Rindors Wachmannschaft.](Transhimalaja_Band_II_272_327.jpg "Transhimalaja_Band_II_272_327.jpg"){#b0272_327}
+![327. Rindors Wachmannschaft.](Transhimalaja_Band_II_272_327.jpg "327. Rindors Wachmannschaft."){#b0272_327}
 ::::
 
 :::: {.wrap-100 .break-before}
-![328. Dortsche Tsuän und sein Amtsbruder Ngavang.](Transhimalaja_Band_II_272_328.jpg "Transhimalaja_Band_II_272_328.jpg"){#b0272_328}
+![328. Dortsche Tsuän und sein Amtsbruder Ngavang.](Transhimalaja_Band_II_272_328.jpg "328. Dortsche Tsuän und sein Amtsbruder Ngavang."){#b0272_328}
 ::::
 
 :::: {.wrap-100 .break-before}
-![329. Ein „Kavallerist“ meiner Eskorte. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_272_329.jpg "Transhimalaja_Band_II_272_329.jpg"){#b0272_329}
+![329. Ein „Kavallerist“ meiner Eskorte. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_272_329.jpg "329. Ein „Kavallerist“ meiner Eskorte. Skizze des Verfassers."){#b0272_329}
 ::::
 
 Am 20. passierten wir wieder eine kleine Paßschwelle (5955 Meter)

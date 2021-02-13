@@ -297,11 +297,11 @@ azurblaues Auge sieht immer neue Geschlechter in die Spur der alten
 treten.
 
 :::: {.wrap-100 .break-before }
-![253. Schafschur in Tugu-gumpa am Manasarovar.](Transhimalaja_Band_II_128_253.jpg "Transhimalaja_Band_II_128_253.jpg"){#b0128_253}
+![253. Schafschur in Tugu-gumpa am Manasarovar.](Transhimalaja_Band_II_128_253.jpg "253. Schafschur in Tugu-gumpa am Manasarovar."){#b0128_253}
 ::::
 
 :::: {.wrap-100 .break-before }
-![254. Tempelsaal, Lhakang, in Tugu-gumpa. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_128_254.jpg "Transhimalaja_Band_II_128_254.jpg"){#b0128_254}
+![254. Tempelsaal, Lhakang, in Tugu-gumpa. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_128_254.jpg "254. Tempelsaal, Lhakang, in Tugu-gumpa. Skizze des Verfassers."){#b0128_254}
 ::::
 
 Nach einer solchen Stunde erscheint alles andere alltäglich; erst als
@@ -369,7 +369,7 @@ wieder. Am Abend vorher hatte der ganze westliche Horizont in
 blutroten Flammen gestanden.
 
 :::: {.wrap-100 .break-before }
-![Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_II_140_000.jpg "Transhimalaja_Band_II_140_000.jpg"){#b0140_000}
+![Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus. <small>Aquarell des Verfassers.</small>](Transhimalaja_Band_II_140_000.jpg "Bunte Tafel. Der heilige See Manasarovar mit dem Kailas im Hintergrund, von Tugu-gumpa aus. Aquarell des Verfassers."){#b0140_000}
 ::::
 :::
 

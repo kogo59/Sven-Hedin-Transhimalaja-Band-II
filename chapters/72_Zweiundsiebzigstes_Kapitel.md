@@ -217,15 +217,15 @@ ich, „so soll er haben, was ihm gebührt, und eine tüchtige Portion
 obendrein!“
 
 :::: {.wrap-100 .break-before}
-![365. Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu.](Transhimalaja_Band_II_362_365.jpg "Transhimalaja_Band_II_362_365.jpg"){#b0362_365}
+![365. Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu.](Transhimalaja_Band_II_362_365.jpg "365. Der Prior von Selipuk nimmt Abschied von seinem Gast, dem vornehmen Lama aus Tschoktschu."){#b0362_365}
 ::::
 
 :::: {.wrap-100 .break-before}
-![366. Der vornehme Lama aus Tschoktschu zu Pferd.](Transhimalaja_Band_II_362_366.jpg "Transhimalaja_Band_II_362_366.jpg"){#b0362_366}
+![366. Der vornehme Lama aus Tschoktschu zu Pferd.](Transhimalaja_Band_II_362_366.jpg "366. Der vornehme Lama aus Tschoktschu zu Pferd."){#b0362_366}
 ::::
 
 :::: {.wrap-100 .break-before}
-![367. D’Anville, Carte Générale du Thibet ou Bout-tan. (Avril 1733.) <small>Aus: D'Anville, Nouvel Atlas de la Chine et-. Paris 1737.</small>](Transhimalaja_Band_II_362_367.jpg "Transhimalaja_Band_II_362_367.jpg"){#b0362_367}
+![367. D’Anville, Carte Générale du Thibet ou Bout-tan. (Avril 1733.) <small>Aus: D'Anville, Nouvel Atlas de la Chine et-. Paris 1737.</small>](Transhimalaja_Band_II_362_367.jpg "367. D’Anville, Carte Générale du Thibet ou Bout-tan. (Avril 1733.) Aus: D'Anville, Nouvel Atlas de la Chine et-. Paris 1737."){#b0362_367}
 ::::
 
 Als wir aber am letzten Juni auf der südlich von Selipuk liegenden

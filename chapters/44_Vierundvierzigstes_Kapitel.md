@@ -291,19 +291,19 @@ Eindruck gemacht hat, die stille Mondnacht oder der Sonnenaufgang
 mit seinem warmen Rosenschimmer auf dem ewigen Schnee.
 
 :::: {.wrap-100 .break-before }
-![240. Einwohner des Dorfes Namla.](Transhimalaja_Band_II_96_240.jpg "Transhimalaja_Band_II_96_240.jpg"){#b0096_240}
+![240. Einwohner des Dorfes Namla.](Transhimalaja_Band_II_96_240.jpg "240. Einwohner des Dorfes Namla."){#b0096_240}
 ::::
 
 :::: {.wrap-100 .break-before }
-![241. Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum.](Transhimalaja_Band_II_96_241.jpg "Transhimalaja_Band_II_96_241.jpg"){#b0096_241}
+![241. Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum.](Transhimalaja_Band_II_96_241.jpg "241. Beladen des Boots mit Kisten beim Passieren des Brahmaputra, auf der Reise nach Tuksum."){#b0096_241}
 ::::
 
 :::: {.wrap-100 .break-before }
-![242. Vornehmer Lama in meinem Boot auf dem Tsangpo.](Transhimalaja_Band_II_96_242.jpg "Transhimalaja_Band_II_96_242.jpg"){#b0096_242}
+![242. Vornehmer Lama in meinem Boot auf dem Tsangpo.](Transhimalaja_Band_II_96_242.jpg "242. Vornehmer Lama in meinem Boot auf dem Tsangpo."){#b0096_242}
 ::::
 
 :::: {.wrap-100 .break-before }
-![243. Weidende Yaks am Südufer des Manasarovar. Im Hintergrund der Gurla Mandatta.](Transhimalaja_Band_II_96_243.jpg "Transhimalaja_Band_II_96_243.jpg"){#b0096_243}
+![243. Weidende Yaks am Südufer des Manasarovar. Im Hintergrund der Gurla Mandatta.](Transhimalaja_Band_II_96_243.jpg "243. Weidende Yaks am Südufer des Manasarovar. Im Hintergrund der Gurla Mandatta."){#b0096_243}
 ::::
 
 Erscheinungen wie diese sind auf Erden flüchtige Gäste, sie kommen

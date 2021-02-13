@@ -159,15 +159,15 @@ eines Bettellamas kleiden und mich von einem schwarzen Zelt nach dem
 andern hinbetteln soll!
 
 :::: {.wrap-70 .break-before }
-![244. Hauptmann Cecil Rawling, der hervorragende Reisen in West- und Südtibet ausgeführt hat, zuletzt in Gesellschaft von Major Ryder.](Transhimalaja_Band_II_104_244.jpg "Transhimalaja_Band_II_104_244.jpg"){#b0104_244}
+![244. Hauptmann Cecil Rawling, der hervorragende Reisen in West- und Südtibet ausgeführt hat, zuletzt in Gesellschaft von Major Ryder.](Transhimalaja_Band_II_104_244.jpg "244. Hauptmann Cecil Rawling, der hervorragende Reisen in West- und Südtibet ausgeführt hat, zuletzt in Gesellschaft von Major Ryder."){#b0104_244}
 ::::
 
 :::: {.wrap-70 .break-before }
-![245. Major W. F. O'Connor. Englischer Handelsagent in Gyangtse, gegenwärtig Konsul in Seistan.](Transhimalaja_Band_II_104_245.jpg "Transhimalaja_Band_II_104_245.jpg"){#b0104_245}
+![245. Major W. F. O'Connor. Englischer Handelsagent in Gyangtse, gegenwärtig Konsul in Seistan.](Transhimalaja_Band_II_104_245.jpg "245. Major W. F. O'Connor. Englischer Handelsagent in Gyangtse, gegenwärtig Konsul in Seistan."){#b0104_245}
 ::::
 
 :::: {.wrap-100 .break-before }
-![246. Das Quellgebiet des Brahmaputra. <small>Nach Nain Sing, 1865. Seine Route punktiert. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin.</small>](Transhimalaja_Band_II_104_246.jpg "Transhimalaja_Band_II_104_246.jpg"){#b0104_246}
+![246. Das Quellgebiet des Brahmaputra. <small>Nach Nain Sing, 1865. Seine Route punktiert. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin.</small>](Transhimalaja_Band_II_104_246.jpg "246. Das Quellgebiet des Brahmaputra. Nach Nain Sing, 1865. Seine Route punktiert. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin."){#b0104_246}
 ::::
 
 Doch jetzt sind wir noch auf dem heiligen See, es ist Ruhetag und

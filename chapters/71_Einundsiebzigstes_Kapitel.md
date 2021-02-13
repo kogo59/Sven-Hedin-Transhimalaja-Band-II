@@ -27,15 +27,15 @@ sondern hielten mich, ebenso wie die anderen, für einen Diener des
 erwarteten Europäers.
 
 :::: {.wrap-100  .break-before}
-![Dorf unterhalb von Lunkar-gumpa am Tarok-tso.](Transhimalaja_Band_II_348_001.jpg "Transhimalaja_Band_II_348_001.jpg"){#b0348_001}
+![Dorf unterhalb von Lunkar-gumpa am Tarok-tso.](Transhimalaja_Band_II_348_001.jpg "Dorf unterhalb von Lunkar-gumpa am Tarok-tso."){#b0348_001}
 ::::
 
 :::: {.wrap-100 }
-![Kloster Mendong westlich vom Teri-nam-tso.](Transhimalaja_Band_II_348_002.jpg "Transhimalaja_Band_II_348_002.jpg"){#b0348_002}
+![Kloster Mendong westlich vom Teri-nam-tso.](Transhimalaja_Band_II_348_002.jpg "Kloster Mendong westlich vom Teri-nam-tso."){#b0348_002}
 ::::
 
 :::: {.wrap-100 }
-![Kloster Selipuk südwestlich vom Nganglaring-tso. <small>Aquarelle des Verfassers</small>](Transhimalaja_Band_II_348_003.jpg "Transhimalaja_Band_II_348_003.jpg"){#b0348_003}
+![Kloster Selipuk südwestlich vom Nganglaring-tso. <small>Aquarelle des Verfassers</small>](Transhimalaja_Band_II_348_003.jpg "Kloster Selipuk südwestlich vom Nganglaring-tso. Aquarelle des Verfassers"){#b0348_003}
 ::::
 
 
@@ -386,11 +386,11 @@ ist eine der großen Heerstraßen Tibets. Sie wird Ser-lam, der
 Goldweg, genannt.
 
 :::: {.wrap-100  .break-before}
-![Der Teri-nam-tso, 4684 Meter, von Nain Sing erkundet, von Hedin zuerst aufgenommen.](Transhimalaja_Band_II_356_001.jpg "Transhimalaja_Band_II_356_001.jpg"){#b0356_001}
+![Der Teri-nam-tso, 4684 Meter, von Nain Sing erkundet, von Hedin zuerst aufgenommen.](Transhimalaja_Band_II_356_001.jpg "Der Teri-nam-tso, 4684 Meter, von Nain Sing erkundet, von Hedin zuerst aufgenommen."){#b0356_001}
 ::::
 
 :::: {.wrap-100 }
-![Der Poru-tso, 5150 Meter, von Hedin entdeckt. <small>Aquarelle des Verfassers.</small>](Transhimalaja_Band_II_356_002.jpg "Transhimalaja_Band_II_356_002.jpg"){#b0356_002}
+![Der Poru-tso, 5150 Meter, von Hedin entdeckt. <small>Aquarelle des Verfassers.</small>](Transhimalaja_Band_II_356_002.jpg "Der Poru-tso, 5150 Meter, von Hedin entdeckt. Aquarelle des Verfassers."){#b0356_002}
 ::::
 
 Über eine kleine Schwelle gelangten wir in das 10 Kilometer

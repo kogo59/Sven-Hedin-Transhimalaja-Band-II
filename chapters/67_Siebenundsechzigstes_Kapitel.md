@@ -215,19 +215,19 @@ der Tibeter zu. Als ich ganz dicht bei ihnen war, erhoben sich alle, als
 fühlten sie, daß sie es nicht mit einem gewöhnlichen Ladaki zu tun hätten.
 
 :::: {.wrap-100 .break-before  }
-![353. Die Schafe und Yaks gehen über den Soma-tsangpo.](Transhimalaja_Band_II_312_353.jpg "Transhimalaja_Band_II_312_353.jpg"){#b0312_353}
+![353. Die Schafe und Yaks gehen über den Soma-tsangpo.](Transhimalaja_Band_II_312_353.jpg "353. Die Schafe und Yaks gehen über den Soma-tsangpo."){#b0312_353}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![354. Die Schafe und Yaks gehen über den Soma-tsangpo.](Transhimalaja_Band_II_312_354.jpg "Transhimalaja_Band_II_312_354.jpg"){#b0312_354}
+![354. Die Schafe und Yaks gehen über den Soma-tsangpo.](Transhimalaja_Band_II_312_354.jpg "354. Die Schafe und Yaks gehen über den Soma-tsangpo."){#b0312_354}
 ::::
 
 :::: {.wrap-100 .break-before  }
-![355. Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_312_355.jpg "Transhimalaja_Band_II_312_355.jpg"){#b0312_355}
+![355. Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_312_355.jpg "355. Sturmwolken über dem Transhimalaja im Tal des Buptsang-tsangpo. Skizze des Verfassers."){#b0312_355}
 ::::
 
 :::: {.wrap-100  }
-![356. Gipfel und Gletscher links auf dem Weg zum Sur-la. <small>Nach einem Aquarell des Verfassers.</small>](Transhimalaja_Band_II_312_356.jpg "Transhimalaja_Band_II_312_356.jpg"){#b0312_356}
+![356. Gipfel und Gletscher links auf dem Weg zum Sur-la. <small>Nach einem Aquarell des Verfassers.</small>](Transhimalaja_Band_II_312_356.jpg "356. Gipfel und Gletscher links auf dem Weg zum Sur-la. Nach einem Aquarell des Verfassers."){#b0312_356}
 ::::
 
 

@@ -1,7 +1,7 @@
 # Zweiundfünfzigstes Kapitel.&nbsp;<br />**`Om mani padme hum`**<br /><br /> {#Kapitel_zweiundfuenfzig .unnumbered}
 
 :::: {.wrap-100 }
-![](Transhimalaja_Band_II_174_000.jpg "Transhimalaja_Band_II_174_000.jpg"){#b0174_000}
+![](Transhimalaja_Band_II_174_000.jpg ""){#b0174_000}
 ::::
 
 ::: justified
@@ -115,15 +115,15 @@ angehäuft liegen, sehen wir von neuem den Langak-tso und das
 herrliche Gurlagebirge.
 
 :::: {.wrap-100 .break-before }
-![270. Der Kailas von Diri-pu aus.](Transhimalaja_Band_II_176_270.jpg "Transhimalaja_Band_II_176_270.jpg"){#b0176_270}
+![270. Der Kailas von Diri-pu aus.](Transhimalaja_Band_II_176_270.jpg "270. Der Kailas von Diri-pu aus."){#b0176_270}
 ::::
 
 :::: {.wrap-100 }
-![271. Vereinigung der beiden Indusarme;die Einsenkung rechts ist das Tal des östlichen Indusarmes. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_176_271.jpg "Transhimalaja_Band_II_176_271.jpg"){#b0176_271}
+![271. Vereinigung der beiden Indusarme;die Einsenkung rechts ist das Tal des östlichen Indusarmes. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_176_271.jpg "271. Vereinigung der beiden Indusarme;die Einsenkung rechts ist das Tal des östlichen Indusarmes. Skizzen des Verfassers."){#b0176_271}
 ::::
 
 :::: {.wrap-100 .break-before }
-![272. Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas.](Transhimalaja_Band_II_176_272.jpg "Transhimalaja_Band_II_176_272.jpg"){#b0176_272}
+![272. Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas.](Transhimalaja_Band_II_176_272.jpg "272. Tibetische Pilgerinnen aus Kham auf der Wanderung um den Kailas."){#b0176_272}
 ::::
 
 Bei Tartschen-labrang hatten wir den Endpunkt der Wallfahrt

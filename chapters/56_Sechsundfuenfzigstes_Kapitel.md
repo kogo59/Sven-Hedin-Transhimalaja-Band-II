@@ -30,27 +30,27 @@ unpassierbar erklärten. Tubges machte dagegen einen anderen, weiteren Weg
 Lager auf.
 
 :::: {.wrap-100 .break-before }
-![286. Götterbilder in Tschuschul-gumpa.](Transhimalaja_Band_II_209_286.jpg "Transhimalaja_Band_II_209_286.jpg"){#b0209_286}
+![286. Götterbilder in Tschuschul-gumpa.](Transhimalaja_Band_II_209_286.jpg "286. Götterbilder in Tschuschul-gumpa."){#b0209_286}
 ::::
 
 :::: {.wrap-100 }
-![287. Meine Yaks im oberen Industal.](Transhimalaja_Band_II_209_287.jpg "Transhimalaja_Band_II_209_287.jpg"){#b0209_287}
+![287. Meine Yaks im oberen Industal.](Transhimalaja_Band_II_209_287.jpg "287. Meine Yaks im oberen Industal."){#b0209_287}
 ::::
 
 :::: {.wrap-100 .break-before }
-![288. Mein Boot auf dem Indus bei Taschi-gang.](Transhimalaja_Band_II_209_288.jpg "Transhimalaja_Band_II_209_288.jpg"){#b0209_288}
+![288. Mein Boot auf dem Indus bei Taschi-gang.](Transhimalaja_Band_II_209_288.jpg "288. Mein Boot auf dem Indus bei Taschi-gang."){#b0209_288}
 ::::
 
 :::: {.wrap-50 .break-before }
-![289. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.](Transhimalaja_Band_II_209_289.jpg "Transhimalaja_Band_II_209_289.jpg"){#b0209_289}
+![289. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.](Transhimalaja_Band_II_209_289.jpg "289. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak."){#b0209_289}
 ::::
 
 :::: {.wrap-50 .break-before }
-![290. Der Oberlama in Tschuschul-gumpa.](Transhimalaja_Band_II_209_290.jpg "Transhimalaja_Band_II_209_290.jpg"){#b0209_290}
+![290. Der Oberlama in Tschuschul-gumpa.](Transhimalaja_Band_II_209_290.jpg "290. Der Oberlama in Tschuschul-gumpa."){#b0209_290}
 ::::
 
 :::: {.wrap-50 .break-before }
-![291. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.](Transhimalaja_Band_II_209_291.jpg "Transhimalaja_Band_II_209_291.jpg"){#b0209_291}
+![291. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak.](Transhimalaja_Band_II_209_291.jpg "291. An der Klosterpforte in Taschi-gang, zwischen Gar-gunsa und Ladak."){#b0209_291}
 ::::
 
 Am folgenden Morgen gingen wir über einen steilen Porphyrvorsprung,
@@ -413,19 +413,19 @@ auf den Höhen des Dapsang vom Schneesturm überfallen wird, ist
 sie verloren.
 
 :::: {.wrap-100 .break-before }
-![292. Tanzende Pilgerinnen in Tschuschul.](Transhimalaja_Band_II_216_292.jpg "Transhimalaja_Band_II_216_292.jpg"){#b0216_292}
+![292. Tanzende Pilgerinnen in Tschuschul.](Transhimalaja_Band_II_216_292.jpg "292. Tanzende Pilgerinnen in Tschuschul."){#b0216_292}
 ::::
 
 :::: {.wrap-100  }
-![293. Mädchen in Tschuschul.](Transhimalaja_Band_II_216_293.jpg "Transhimalaja_Band_II_216_293.jpg"){#b0216_293}
+![293. Mädchen in Tschuschul.](Transhimalaja_Band_II_216_293.jpg "293. Mädchen in Tschuschul."){#b0216_293}
 ::::
 
 :::: {.wrap-100 .break-before }
-![294. Auf dem Wege nach Tankse.](Transhimalaja_Band_II_216_294.jpg "Transhimalaja_Band_II_216_294.jpg"){#b0216_294}
+![294. Auf dem Wege nach Tankse.](Transhimalaja_Band_II_216_294.jpg "294. Auf dem Wege nach Tankse."){#b0216_294}
 ::::
 
 :::: {.wrap-100  }
-![295. Die neuen Pferde und Maultiere in Drugub.](Transhimalaja_Band_II_216_295.jpg "Transhimalaja_Band_II_216_295.jpg"){#b0216_295}
+![295. Die neuen Pferde und Maultiere in Drugub.](Transhimalaja_Band_II_216_295.jpg "295. Die neuen Pferde und Maultiere in Drugub."){#b0216_295}
 ::::
 
 An schweren Tagen hörte ich später noch oft diese melodische Hymne.

@@ -339,15 +339,15 @@ Zelte ein Dörflein, um das herum noch gegen 60 Nomaden der Gegend
 lagerten.
 
 :::: {.wrap-100 .break-before }
-![195. Einwohner des Dorfes Govo.](Transhimalaja_Band_II_8_195.jpg "Transhimalaja_Band_II_8_195.jpg"){#b0008_195}
+![195. Einwohner des Dorfes Govo.](Transhimalaja_Band_II_8_195.jpg "195. Einwohner des Dorfes Govo."){#b0008_195}
 ::::
 
 :::: {.wrap-100  }
-![196. Der vereiste Fluß oberhalb Tschomo-sumdo. <small>Robert spricht mit Taschi, der den photographischen Apparat trägt.</small>](Transhimalaja_Band_II_8_196.jpg "Transhimalaja_Band_II_8_196.jpg"){#b0008_196}
+![196. Der vereiste Fluß oberhalb Tschomo-sumdo. <small>Robert spricht mit Taschi, der den photographischen Apparat trägt.</small>](Transhimalaja_Band_II_8_196.jpg "196. Der vereiste Fluß oberhalb Tschomo-sumdo. Robert spricht mit Taschi, der den photographischen Apparat trägt."){#b0008_196}
 ::::
 
 :::: {.wrap-100  .break-before }
-![197. Eremitengrotte in der Nähe des Tschang-la-Pod-la.](Transhimalaja_Band_II_8_197.jpg "Transhimalaja_Band_II_8_197.jpg"){#b0008_197}
+![197. Eremitengrotte in der Nähe des Tschang-la-Pod-la.](Transhimalaja_Band_II_8_197.jpg "197. Eremitengrotte in der Nähe des Tschang-la-Pod-la."){#b0008_197}
 ::::
 
 Abends erschien die Eskorte aus Ghe bei mir, um zu erklären, daß

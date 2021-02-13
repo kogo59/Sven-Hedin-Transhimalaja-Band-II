@@ -123,15 +123,15 @@ Parka kommen, mich beim Kragen packen und uns, gutwillig oder
 böswillig, auf den Weg der Pflicht zurückführen!
 
 :::: {.wrap-100 .break-before }
-![259. Der Gott des Tso-mavang zu Pferd, von dem aus den Wellen des Sees emporsteigenden Fischgotte begrüßt, links im Hintergrund der heilige Berg Kangrinpotsche. <small>Flüchtige Skizze des Verfassers nach einem Wandgemälde in Tugu-gumpa.</small>](Transhimalaja_Band_II_144_259.jpg "Transhimalaja_Band_II_144_259.jpg"){#b0144_259}
+![259. Der Gott des Tso-mavang zu Pferd, von dem aus den Wellen des Sees emporsteigenden Fischgotte begrüßt, links im Hintergrund der heilige Berg Kangrinpotsche. <small>Flüchtige Skizze des Verfassers nach einem Wandgemälde in Tugu-gumpa.</small>](Transhimalaja_Band_II_144_259.jpg "259. Der Gott des Tso-mavang zu Pferd, von dem aus den Wellen des Sees emporsteigenden Fischgotte begrüßt, links im Hintergrund der heilige Berg Kangrinpotsche. Flüchtige Skizze des Verfassers nach einem Wandgemälde in Tugu-gumpa."){#b0144_259}
 ::::
 
 :::: {.wrap-100 .break-before }
-![260. Lama vor der Tempelpforte in Tugu-gumpa.](Transhimalaja_Band_II_144_260.jpg "Transhimalaja_Band_II_144_260.jpg"){#b0144_260}
+![260. Lama vor der Tempelpforte in Tugu-gumpa.](Transhimalaja_Band_II_144_260.jpg "260. Lama vor der Tempelpforte in Tugu-gumpa."){#b0144_260}
 ::::
 
 :::: {.wrap-100 .break-before }
-![261. Tempelsaal des Seegottes des Tso-mavang. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_144_261.jpg "Transhimalaja_Band_II_144_261.jpg"){#b0144_261}
+![261. Tempelsaal des Seegottes des Tso-mavang. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_144_261.jpg "261. Tempelsaal des Seegottes des Tso-mavang. Skizzen des Verfassers"){#b0144_261}
 ::::
 
 Der Langak-tso hat eine sehr unregelmäßige Form. Sein Hauptbecken
@@ -470,11 +470,11 @@ kriechen zu können! Nie wieder wird mein Fuß ihren friedlichen Strand
 betreten!
 
 :::: {.wrap-60 .break-before }
-![262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar. <small>Nach einer Skizze des Verfassers von T. Macfarlane gezeichnet.</small>](Transhimalaja_Band_II_152_262.jpg "Transhimalaja_Band_II_152_262.jpg"){#b0152_262}
+![262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar. <small>Nach einer Skizze des Verfassers von T. Macfarlane gezeichnet.</small>](Transhimalaja_Band_II_152_262.jpg "262. Ein Träumer. Lama in Janggo-gumpa am Manasarovar. Nach einer Skizze des Verfassers von T. Macfarlane gezeichnet."){#b0152_262}
 ::::
 
 :::: {.wrap-70 .break-before }
-![263. Die alte Nonne in Janggo-gumpa am Manasarovar. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_152_263.jpg "Transhimalaja_Band_II_152_263.jpg"){#b0152_263}
+![263. Die alte Nonne in Janggo-gumpa am Manasarovar. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_152_263.jpg "263. Die alte Nonne in Janggo-gumpa am Manasarovar. Skizze des Verfassers."){#b0152_263}
 ::::
 :::
 

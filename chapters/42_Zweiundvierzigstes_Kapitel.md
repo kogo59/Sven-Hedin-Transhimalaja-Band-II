@@ -81,11 +81,11 @@ der Tschema auch das Wasser des Marium-tschu enthält, so das seine
 darstellen.
 
 :::: {.wrap-100 .break-before }
-![230. Der tote Muhamed Isa.](Transhimalaja_Band_II_72_230.jpg "Transhimalaja_Band_II_72_230.jpg"){#b0072_230}
+![230. Der tote Muhamed Isa.](Transhimalaja_Band_II_72_230.jpg "230. Der tote Muhamed Isa."){#b0072_230}
 ::::
 
 :::: {.wrap-70 .break-before }
-![231. Muhamed Isas Leichenprozession.](Transhimalaja_Band_II_72_231.jpg "Transhimalaja_Band_II_72_231.jpg"){#b0072_231}
+![231. Muhamed Isas Leichenprozession.](Transhimalaja_Band_II_72_231.jpg "231. Muhamed Isas Leichenprozession."){#b0072_231}
 ::::
 
 Als wir am Abend mit der Hauptkarawane zusammen in der Gegend

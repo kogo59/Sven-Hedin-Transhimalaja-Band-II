@@ -23,11 +23,11 @@ Ufer strahlte. Der schwimmende Scheiterhaufen sollte eine dem See
 dargebrachte Huldigung sein.
 
 :::: {.wrap-100 .break-before }
-![247. Kartenskizze der Reiseroute von Webber im Jahre 1866. <small>Aus: The Forests of Upper India. By Thomas W. Webber (London, Edward Arnold, 1902). Webber läßt Indus, Ganges und Brahmaputra vom Gurla Mandatta kommen, was für alle drei Flüsse unrichtig ist. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus.</small> Von Sven Hedin.](Transhimalaja_Band_II_112_247.jpg "Transhimalaja_Band_II_112_247.jpg"){#b0112_247}
+![247. Kartenskizze der Reiseroute von Webber im Jahre 1866. <small>Aus: The Forests of Upper India. By Thomas W. Webber (London, Edward Arnold, 1902). Webber läßt Indus, Ganges und Brahmaputra vom Gurla Mandatta kommen, was für alle drei Flüsse unrichtig ist. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus.</small> Von Sven Hedin.](Transhimalaja_Band_II_112_247.jpg "247. Kartenskizze der Reiseroute von Webber im Jahre 1866. Aus: The Forests of Upper India. By Thomas W. Webber (London, Edward Arnold, 1902). Webber läßt Indus, Ganges und Brahmaputra vom Gurla Mandatta kommen, was für alle drei Flüsse unrichtig ist. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin."){#b0112_247}
 ::::
 
 :::: {.wrap-100 .break-before }
-![248. Das Quellgebiet des Brahmaputra. <small> Nach Major Ryder, 1904. Der Tschema-jundung wird als Hauptfluß gezeichnet, wogegen der Kubi-tsangpo als kleiner Nebenfluß angegeben ist. Tatsächlich ist der Kubi-tsangpo der Quellfluß und der Tschema-jundung, der den Marium-tschu empfängt, nur ein Nebenfluß. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus.</small> Von Sven Hedin.](Transhimalaja_Band_II_112_248.jpg "Transhimalaja_Band_II_112_248.jpg"){#b0112_248}
+![248. Das Quellgebiet des Brahmaputra. <small> Nach Major Ryder, 1904. Der Tschema-jundung wird als Hauptfluß gezeichnet, wogegen der Kubi-tsangpo als kleiner Nebenfluß angegeben ist. Tatsächlich ist der Kubi-tsangpo der Quellfluß und der Tschema-jundung, der den Marium-tschu empfängt, nur ein Nebenfluß. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus.</small> Von Sven Hedin.](Transhimalaja_Band_II_112_248.jpg "248. Das Quellgebiet des Brahmaputra.  Nach Major Ryder, 1904. Der Tschema-jundung wird als Hauptfluß gezeichnet, wogegen der Kubi-tsangpo als kleiner Nebenfluß angegeben ist. Tatsächlich ist der Kubi-tsangpo der Quellfluß und der Tschema-jundung, der den Marium-tschu empfängt, nur ein Nebenfluß. Vgl. die Karte: Das Quellgebiet des Brahmaputra, Satledsch und Indus. Von Sven Hedin."){#b0112_248}
 ::::
 
 Am 7. August wurde ich in aller Frühe geweckt, als die Sonne
@@ -382,19 +382,19 @@ ein Vergnügen, den Sturm anzuschauen und dem lauten Rauschen der
 Brandung zuzuhören.
 
 :::: {.wrap-100 .break-before }
-![249. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_249.jpg "Transhimalaja_Band_II_120_249.jpg"){#b0120_249}
+![249. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_249.jpg "249. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen."){#b0120_249}
 ::::
 
 :::: {.wrap-100 .break-before }
-![250. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_250.jpg "Transhimalaja_Band_II_120_250.jpg"){#b0120_250}
+![250. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_250.jpg "250. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen."){#b0120_250}
 ::::
 
 :::: {.wrap-100 .break-before }
-![251. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_251.jpg "Transhimalaja_Band_II_120_251.jpg"){#b0120_251}
+![251. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen.](Transhimalaja_Band_II_120_251.jpg "251. Kubi-gangri mit den Quellen des Brahmaputra, am 14. Juli 1907 aufgenommen."){#b0120_251}
 ::::
 
 :::: {.wrap-100 .break-before }
-![252. Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907). <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_120_252.jpg "Transhimalaja_Band_II_120_251.jpg"){#b0120_252}
+![252. Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907). <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_120_252.jpg "252. Panorama des Kubi-gangri und des Langta-tschen-Gletschers mit der Quelle des Brahmaputra (Standpunkt 5015 Meter, 13. Juli 1907). Skizze des Verfassers."){#b0120_252}
 ::::
 
 Als das Feuer ordentlich in Brand und es glühend heiß geworden

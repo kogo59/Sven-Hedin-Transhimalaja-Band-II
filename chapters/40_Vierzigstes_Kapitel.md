@@ -35,15 +35,15 @@ diesen den Europäern gänzlich unbekannten Weg durch den
 Transhimalaja hinter sich.
 
 :::: {.wrap-100 .break-before }
-![215. Der Schuru-tso, im Hintergrund der Targo-gangri.](Transhimalaja_Band_II_49_215.jpg "Transhimalaja_Band_II_49_215.jpg"){#b0049_215}
+![215. Der Schuru-tso, im Hintergrund der Targo-gangri.](Transhimalaja_Band_II_49_215.jpg "215. Der Schuru-tso, im Hintergrund der Targo-gangri."){#b0049_215}
 ::::
 
 :::: {.wrap-100 .break-before }
-![216. Einige meiner Yaks auf dem Angden-la.](Transhimalaja_Band_II_49_216.jpg "Transhimalaja_Band_II_49_216.jpg"){#b0049_216}
+![216. Einige meiner Yaks auf dem Angden-la.](Transhimalaja_Band_II_49_216.jpg "216. Einige meiner Yaks auf dem Angden-la."){#b0049_216}
 ::::
 
 :::: {.wrap-100 .break-before }
-![217. Tal in der Nähe des Angden-la.](Transhimalaja_Band_II_49_217.jpg "Transhimalaja_Band_II_49_217.jpg"){#b0049_217}
+![217. Tal in der Nähe des Angden-la.](Transhimalaja_Band_II_49_217.jpg "217. Tal in der Nähe des Angden-la."){#b0049_217}
 ::::
 
 Die Tasam hatten wir links liegen lassen; wir schwenkten nach
@@ -427,15 +427,15 @@ mieten und gab mir zwei Führer für den Ausflug mit, der am Morgen
 des 20. Juni angetreten wurde.
 
 :::: {.wrap-100 .break-before }
-![218. Manis beim Dorf Antschok-jung.](Transhimalaja_Band_II_56_218.jpg "Transhimalaja_Band_II_56_218.jpg"){#b0056_218}
+![218. Manis beim Dorf Antschok-jung.](Transhimalaja_Band_II_56_218.jpg "218. Manis beim Dorf Antschok-jung."){#b0056_218}
 ::::
 
 :::: {.wrap-100 .break-before }
-![219, 220. Mädchen und Knaben von Saka und Tradum.](Transhimalaja_Band_II_56_219.jpg "Transhimalaja_Band_II_56_219.jpg"){#b0056_219}
+![219, 220. Mädchen und Knaben von Saka und Tradum.](Transhimalaja_Band_II_56_219.jpg "219, 220. Mädchen und Knaben von Saka und Tradum."){#b0056_219}
 ::::
 
 :::: {.wrap-100 .break-before }
-![221. Der durchschossene Jüngling Ugju. 222. Nomade aus Basang. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_56_221.jpg "Transhimalaja_Band_II_56_221.jpg"){#b0056_221}
+![221. Der durchschossene Jüngling Ugju. 222. Nomade aus Basang. <small>Skizzen des Verfassers</small>](Transhimalaja_Band_II_56_221.jpg "221. Der durchschossene Jüngling Ugju. 222. Nomade aus Basang. Skizzen des Verfassers"){#b0056_221}
 ::::
 
 Die erste Nacht sollten wir an dem Punkt lagern, wo der

@@ -158,11 +158,11 @@ breiter werdenden Flusses entlang, der Chang-chu heißt.“) — Dieser Fluß
 ist der Schang-tschu, der vom Chalamba-la herabkommt.
 
 :::: {.wrap-100 .break-before}
-![368. Hodgsons Karte von Südtibet. <small>Aus: Selections from the Records of the Government of Bengal, No. XXVII. Papers relative to the Colonization, Commerce, Physical Geography &c. &c. of the Himalaya Mountains and Nepal, by Brian Houghton Hodgson, Esq., M.R. A. S. Calcutta: John Gray, „Calcutta Gazette“ Office. 1857. Was Hodgson „The Nyenchhen Thangla Chain, separating southern from northern Tibet“ nennt, ist nur hypothetisch und entspricht nicht der Wirklichkeit.</small>](Transhimalaja_Band_II_368_368.jpg "Transhimalaja_Band_II_368_368.jpg"){#b0368_368}
+![368. Hodgsons Karte von Südtibet. <small>Aus: Selections from the Records of the Government of Bengal, No. XXVII. Papers relative to the Colonization, Commerce, Physical Geography &c. &c. of the Himalaya Mountains and Nepal, by Brian Houghton Hodgson, Esq., M.R. A. S. Calcutta: John Gray, „Calcutta Gazette“ Office. 1857. Was Hodgson „The Nyenchhen Thangla Chain, separating southern from northern Tibet“ nennt, ist nur hypothetisch und entspricht nicht der Wirklichkeit.</small>](Transhimalaja_Band_II_368_368.jpg "368. Hodgsons Karte von Südtibet. Aus: Selections from the Records of the Government of Bengal, No. XXVII. Papers relative to the Colonization, Commerce, Physical Geography "Transhimalaja_Band_II_368_368.jpg"c. "Transhimalaja_Band_II_368_368.jpg"c. of the Himalaya Mountains and Nepal, by Brian Houghton Hodgson, Esq., M.R. A. S. Calcutta: John Gray, „Calcutta Gazette“ Office. 1857. Was Hodgson „The Nyenchhen Thangla Chain, separating southern from northern Tibet“ nennt, ist nur hypothetisch und entspricht nicht der Wirklichkeit."){#b0368_368}
 ::::
 
 :::: {.wrap-100 .break-before}
-![369. Saunders' Karte von Südtibet. <small>Aus: Narratives of the Mission of George Bogle to Tibet and of the Journey of Thomas Manning to Lhasa. By Clements Markham, London, Trübner & Co., 1879. Hypothetische Form des Transhimalaja („Gangri Mountains“), von 81° bis 89½° ö. L., völlig unrichtig.</small>](Transhimalaja_Band_II_368_369.jpg "Transhimalaja_Band_II_368_369.jpg"){#b0368_369}
+![369. Saunders' Karte von Südtibet. <small>Aus: Narratives of the Mission of George Bogle to Tibet and of the Journey of Thomas Manning to Lhasa. By Clements Markham, London, Trübner & Co., 1879. Hypothetische Form des Transhimalaja („Gangri Mountains“), von 81° bis 89½° ö. L., völlig unrichtig.</small>](Transhimalaja_Band_II_368_369.jpg "369. Saunders' Karte von Südtibet. Aus: Narratives of the Mission of George Bogle to Tibet and of the Journey of Thomas Manning to Lhasa. By Clements Markham, London, Trübner "Transhimalaja_Band_II_368_369.jpg" Co., 1879. Hypothetische Form des Transhimalaja („Gangri Mountains“), von 81° bis 89½° ö. L., völlig unrichtig."){#b0368_369}
 ::::
 
 Zwei Franzosen und zwei Engländer haben also, außer einem halben
@@ -505,15 +505,15 @@ Zusammengehörigkeit und Kontinuität zu beweisen mir vergönnt gewesen ist,
 „Transhimalaja“ zu nennen.
 
 :::: {.wrap-70 .break-before}
-![370. Abbé Huc.](Transhimalaja_Band_II_376_370.jpg "Transhimalaja_Band_II_376_370.jpg"){#b0376_370}
+![370. Abbé Huc.](Transhimalaja_Band_II_376_370.jpg "370. Abbé Huc."){#b0376_370}
 ::::
 
 :::: {.wrap-70 .break-before}
-![371. Oberst T. G. Montgomerie. <small>Das vermutlich unveröffentlichte Bild des Paters Huc verdankt der Verfasser Herrn E. Schwartz, Paris, das Porträt Montgomeries der Witwe des Obersten.</small>](Transhimalaja_Band_II_376_371.jpg "Transhimalaja_Band_II_376_371.jpg"){#b0376_371}
+![371. Oberst T. G. Montgomerie. <small>Das vermutlich unveröffentlichte Bild des Paters Huc verdankt der Verfasser Herrn E. Schwartz, Paris, das Porträt Montgomeries der Witwe des Obersten.</small>](Transhimalaja_Band_II_376_371.jpg "371. Oberst T. G. Montgomerie. Das vermutlich unveröffentlichte Bild des Paters Huc verdankt der Verfasser Herrn E. Schwartz, Paris, das Porträt Montgomeries der Witwe des Obersten."){#b0376_371}
 ::::
 
 :::: {.wrap-70 .break-before}
-![372. Ankunft in der Missionsstation von Poo. <small>Sitzend Kuntschuk mit Klein-Puppy und Gulam mit Takkar. Hinter dem Verfasser von links nach rechts: Lobsang, Suän, Kutus und Tubges.</small>](Transhimalaja_Band_II_376_372.jpg "Transhimalaja_Band_II_376_372.jpg"){#b0376_372}
+![372. Ankunft in der Missionsstation von Poo. <small>Sitzend Kuntschuk mit Klein-Puppy und Gulam mit Takkar. Hinter dem Verfasser von links nach rechts: Lobsang, Suän, Kutus und Tubges.</small>](Transhimalaja_Band_II_376_372.jpg "372. Ankunft in der Missionsstation von Poo. Sitzend Kuntschuk mit Klein-Puppy und Gulam mit Takkar. Hinter dem Verfasser von links nach rechts: Lobsang, Suän, Kutus und Tubges."){#b0376_372}
 ::::
 
 Unter den englischen Geographen haben viele diesen Namen gemißbilligt

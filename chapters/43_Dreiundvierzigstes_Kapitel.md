@@ -35,19 +35,19 @@ rieseln und sprudeln, und alle kamen von den liegengebliebenen
 Schneefeldern, die vergeblich gegen die Glut der Frühlingssonne ankämpften.
 
 :::: {.wrap-100 .break-before }
-![232. Muhamed Isas Bestattung.](Transhimalaja_Band_II_80_232.jpg "Transhimalaja_Band_II_80_232.jpg"){#b0080_232}
+![232. Muhamed Isas Bestattung.](Transhimalaja_Band_II_80_232.jpg "232. Muhamed Isas Bestattung."){#b0080_232}
 ::::
 
 :::: {.wrap-100 .break-before }
-![233. Muhamed Isas Bestattung.](Transhimalaja_Band_II_80_233.jpg "Transhimalaja_Band_II_80_233.jpg"){#b0080_233}
+![233. Muhamed Isas Bestattung.](Transhimalaja_Band_II_80_233.jpg "233. Muhamed Isas Bestattung."){#b0080_233}
 ::::
 
 :::: {.wrap-100 .break-before }
-![234. Muhamed Isas Grabmal.](Transhimalaja_Band_II_80_234.jpg "Transhimalaja_Band_II_80_234.jpg"){#b0080_234}
+![234. Muhamed Isas Grabmal.](Transhimalaja_Band_II_80_234.jpg "234. Muhamed Isas Grabmal."){#b0080_234}
 ::::
 
 :::: {.wrap-100 .break-before }
-![235. Aussicht vom Kore-la nach Südwesten.](Transhimalaja_Band_II_80_235.jpg "Transhimalaja_Band_II_80_235.jpg"){#b0080_235}
+![235. Aussicht vom Kore-la nach Südwesten.](Transhimalaja_Band_II_80_235.jpg "235. Aussicht vom Kore-la nach Südwesten."){#b0080_235}
 ::::
 
 Jetzt haben wir den kolossalen Gletscher, der sich von einem
@@ -397,19 +397,19 @@ Gepäck und die wichtige Post keinen anderen Händen als den seinen
 anvertrauen könne.
 
 :::: {.wrap-100 .break-before }
-![236. Ein Tschorten bei Lager Nr. 182 in Nepal.](Transhimalaja_Band_II_88_236.jpg "Transhimalaja_Band_II_88_236.jpg"){#b0088_236}
+![236. Ein Tschorten bei Lager Nr. 182 in Nepal.](Transhimalaja_Band_II_88_236.jpg "236. Ein Tschorten bei Lager Nr. 182 in Nepal."){#b0088_236}
 ::::
 
 :::: {.wrap-100 .break-before }
-![237. Landschaft im oberen Nepal.](Transhimalaja_Band_II_88_237.jpg "Transhimalaja_Band_II_88_237.jpg"){#b0088_237}
+![237. Landschaft im oberen Nepal.](Transhimalaja_Band_II_88_237.jpg "237. Landschaft im oberen Nepal."){#b0088_237}
 ::::
 
 :::: {.wrap-100 .break-before }
-![238. Manihaufen bei Kung-muga.](Transhimalaja_Band_II_88_238.jpg "Transhimalaja_Band_II_88_238.jpg"){#b0088_238}
+![238. Manihaufen bei Kung-muga.](Transhimalaja_Band_II_88_238.jpg "238. Manihaufen bei Kung-muga."){#b0088_238}
 ::::
 
 :::: {.wrap-100 .break-before }
-![239. Weiber im Dorf Namla.](Transhimalaja_Band_II_88_239.jpg "Transhimalaja_Band_II_88_239.jpg"){#b0088_239}
+![239. Weiber im Dorf Namla.](Transhimalaja_Band_II_88_239.jpg "239. Weiber im Dorf Namla."){#b0088_239}
 ::::
 
 Als ich früh morgens am 26. aus meinem Zelte kam, standen die
