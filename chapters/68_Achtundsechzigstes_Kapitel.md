@@ -316,7 +316,7 @@ neue Schachpartie zu gewinnen! Meine Stellung war sehr stark. Die
 Tasam war ausgeschlossen. Wenn man mir nur erlaubte, den
 Transhimalaja auf einem östlicheren Paß zu überschreiten, würde ich mir
 den Teri-nam-tso^[^314]^, Mendong-gumpa^[^313]^, den unteren Buptsang-tsangpo, den
-Tarok-tso^[^315]^, Selipuk und einen achten Transhimalajapaß schon durch
+Tarok-tso^[^315]^, Selipuk^[^1000]^ und einen achten Transhimalajapaß schon durch
 die eine oder andere Kriegslist erobern können!
 
 Wenn je, galt es jetzt, die Karten gut auszuspielen! Noch war ich
@@ -493,3 +493,5 @@ Manch edles, feinfühliges Herz schlägt ganz gewiß auch in Tibets kalten,
 [^314]: [*Teri-nam-tso*: vergleiche [Zhari-Nam-Tso-Tsari-Nam-Tso](http://wikimapia.org/1666134/Zhari-Nam-Tso-Tsari-Nam-Tso)]{.footnote}
 
 [^315]: [*Tarok-tso*: vergleiche [Taruo_Lake](https://en.wikipedia.org/wiki/Taruo_Lake)]{.footnote}
+
+[^1000]: [*Selipuk*:  vergleiche [Selipuk Gompa](http://wikimapia.org/15223723/Selipuk-Gompa-ruins)]{.footnote}

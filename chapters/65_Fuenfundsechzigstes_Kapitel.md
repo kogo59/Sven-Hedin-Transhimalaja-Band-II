@@ -431,6 +431,7 @@ Erlaubnis durchzogen hatte?
 :::: {.wrap-40 .float-right }
 ![347. Die Führer zum Poru-tso. <small>Skizzen des Verfassers.</small>](Transhimalaja_Band_II_296_347.jpg "347. Die Führer zum Poru-tso. Skizzen des Verfassers."){#b0296_347}
 ::::
+
 :::
 
 :::: align-center

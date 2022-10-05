@@ -1,7 +1,7 @@
 # Achtundvierzigstes Kapitel.&nbsp;<br />**`Die letzten Tage am Tso-mavang.`**<br /><br /> {#Kapitel_achtundvierzig .unnumbered}
 
 ::: justified
-*U*m diese Zeit hatte sich Robert mehr als ich in der tibetischen Sprache
+**U**m diese Zeit hatte sich Robert mehr als ich in der tibetischen Sprache
 vervollkommnet, er sprach beinahe geläufig. Daher konnte er,
 während andere Arbeiten meine ganze Zeit in Anspruch nahmen, Erkundigungen
 über Land und Leute einziehen und allerlei Aufträge ausführen. An der
