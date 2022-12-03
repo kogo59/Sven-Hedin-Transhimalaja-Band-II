@@ -9,5 +9,5 @@
 % 1909,	Leipzig, F. A. Brockhaus
 
 :::: {.w-100 .break-before .break-after }
-![](cover1.jpg "")
+![](cover.jpg "")
 ::::
