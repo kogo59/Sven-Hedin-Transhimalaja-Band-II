@@ -55,7 +55,7 @@ Aquarellen und Zeichnungen des Verfassers und mit<br />
 :::
 
 :::: { .fs-xl .align-center .break-after }
-*1909.*<br /><br />
+*1909.*<br />
 ::::
 
 :::: { .fs-xxs .align-center .break-after }

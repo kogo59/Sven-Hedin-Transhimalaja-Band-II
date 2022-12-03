@@ -4,9 +4,9 @@
 ****
 ::::
 
-| *Das bunte Bild auf dem Einband des zweiten Bandes*, nach einem Aquarell
-|     des Verfassers, stellt die Aussicht vom Tarjep-parva-la über den Nganglaring-tso
-|     und seine Felseninseln dar. (Siehe Band II, Abb. 362.) <br /><br />
+*Das bunte Bild auf dem Einband des zweiten Bandes*, nach einem Aquarell
+des Verfassers, stellt die Aussicht vom Tarjep-parva-la über den Nganglaring-tso
+und seine Felseninseln dar. (Siehe Band II, Abb. 362.) <br /><br />
 
 :::: align-center
 ****

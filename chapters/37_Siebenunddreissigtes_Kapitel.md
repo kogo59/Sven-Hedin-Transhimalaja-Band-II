@@ -171,7 +171,7 @@ sind, werden sie mit einem Stein beschwert an einer schmalen Stelle
 ![198. Das erste Lager nordwestlich vom Tschang-la-Pod-la.](Transhimalaja_Band_II_16_198.jpg "198. Das erste Lager nordwestlich vom Tschang-la-Pod-la."){#b0016_198}
 ::::
 
-:::: {.wrap-100 }
+:::: {.wrap-100 .break-before }
 ![199. Tschomo-utschong von Osten.](Transhimalaja_Band_II_16_199.jpg "199. Tschomo-utschong von Osten."){#b0016_199}
 ::::
 

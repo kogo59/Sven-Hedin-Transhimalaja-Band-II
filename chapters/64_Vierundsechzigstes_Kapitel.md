@@ -110,7 +110,7 @@ stand fest.
 ![334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte.](Transhimalaja_Band_II_280_334.jpg "334. Häuptling Tagla Tsering, der meine Reise zum Dangra-jum-tso verhinderte."){#b0280_334}
 ::::
 
-:::: {.wrap-40 .break-before .float-left }
+:::: {.wrap-50 .break-before .float-left }
 ![335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu.](Transhimalaja_Band_II_280_335.jpg "335. Sonam Ngurbu, Statthalter der Provinz Tschoktschu."){#b0280_335}
 ::::
 
