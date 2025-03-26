@@ -373,11 +373,6 @@ blutroten Flammen gestanden.
 ::::
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0120]: [*Gyanima*: vergleiche [Gya'nyima](https://en.wikipedia.org/wiki/Gya%27nyima)]{.footnote}
 

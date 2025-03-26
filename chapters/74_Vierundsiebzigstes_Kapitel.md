@@ -355,12 +355,6 @@ dann verschwanden Simlas weiße Sommerhäuser in der Ferne, und der
 Zug rollte dem heißen Indien und dem großen öden Meere entgegen.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0390]: [*Tirtapuri*: vergleiche [Tirthapuri-Gompa](http://wikimapia.org/3994800/Tirthapuri-hot-springs-and-Tirthapuri-Gompa)]{.footnote}
 
 [^0391]: [*Tschiu-gumpa*: vergleiche [Chiu-Gompa](http://wikimapia.org/1803751/Chiu-Gompa)]{.footnote}

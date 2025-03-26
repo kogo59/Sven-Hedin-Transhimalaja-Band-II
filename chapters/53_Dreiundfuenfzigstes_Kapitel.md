@@ -304,11 +304,6 @@ Mann war, der je bis an die Quellen des Indus und des
 Brahmaputra vorgedrungen ist.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0180]: [*Montgomerie*: vergleiche [Thomas George Montgomerie](https://de.wikipedia.org/wiki/Thomas_George_Montgomerie)]{.footnote}
 

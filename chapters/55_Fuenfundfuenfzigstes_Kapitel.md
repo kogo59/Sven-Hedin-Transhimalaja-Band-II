@@ -435,10 +435,5 @@ jetzt zwölf Leute und war selbst der dreizehnte in der Karawane,
 aber wir waren nicht abergläubisch!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^200]: [*Jarkent*: vergleiche [Scharkent](https://de.wikipedia.org/wiki/Scharkent)]{.footnote}

@@ -461,11 +461,6 @@ hindurch tobte und ebensowenig von den 25 Pilgern, die auf ihrer
 Wanderung um den heiligen See im Morgengrauen an uns vorbeizogen!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0090]: [*Mus-tag-ata*: vergleiche [Muztagata](https://de.wikipedia.org/wiki/Muztagata)]{.footnote}
 

@@ -372,10 +372,5 @@ retten konnte! Hinter uns verwischten die Schneestürme unsere Spur,
 und vor uns wartete die Zukunft mit ihrem undurchdringlichen Dunkel.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^230]: [*Arport-tso*: vergleiche [Orba Co](https://en.wikipedia.org/wiki/Orba_Co)]{.footnote}

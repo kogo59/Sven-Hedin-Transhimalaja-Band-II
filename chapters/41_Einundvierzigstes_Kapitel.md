@@ -483,11 +483,6 @@ nicht so freie Hand gehabt wie jetzt. Hier hatte man von chinesischen
 oder tibetischen Verfolgern aus Lhasa noch nichts gehört.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0060]: [*Kore-la*: vergleiche [Kora La](https://en.wikipedia.org/wiki/Kora_La)]{.footnote}
 

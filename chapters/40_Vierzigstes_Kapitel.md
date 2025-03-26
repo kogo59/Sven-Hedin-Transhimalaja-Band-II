@@ -547,11 +547,6 @@ In dem Seitental, das ganz in der Nähe der außerordentlich flachen
 Paßschwelle liegt, lagerten wir bei einigen schwarzen Zelten.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0050]: [*Tradum*: vergleiche [Tradün](https://de.wikipedia.org/wiki/Trad%C3%BCn)]{.footnote}
 

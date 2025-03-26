@@ -433,10 +433,5 @@ verkleidet reist und jeden Augenblick auf eine verhängnisvolle Krisis
 gefaßt sein muß.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^270]: [*Tong Tso*: vergleiche [Tong Tso](https://en.wikipedia.org/wiki/Tong_Tso)]{.footnote}

@@ -339,8 +339,3 @@ mischte sich der kleine Hund in das Spiel, mit dem ich von nun an
 täglich ein paar Stunden meiner langweiligen Gefangenschaft totschlug.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

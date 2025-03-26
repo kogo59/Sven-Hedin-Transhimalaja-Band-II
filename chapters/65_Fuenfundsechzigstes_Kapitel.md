@@ -434,11 +434,6 @@ Erlaubnis durchzogen hatte?
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^290]: [*Hodgson*: vergleiche [Brian Houghton Hodgson](https://en.wikipedia.org/wiki/Brian_Houghton_Hodgson)]{.footnote}
 

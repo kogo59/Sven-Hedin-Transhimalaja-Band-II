@@ -431,11 +431,6 @@ vorigen Reise beschützt hatte, würde auch jetzt meine Schritte begleiten.
 kalten Winternächten in Tschang-tang.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0190]: [*Gartok*: vergleiche [Gartok](https://en.wikipedia.org/wiki/Gartok)]{.footnote}
 

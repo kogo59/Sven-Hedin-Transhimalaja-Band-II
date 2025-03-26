@@ -449,11 +449,6 @@ an der Front des Ganglunggletschers ist daher die Quelle
 des Satledsch.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0150]: [Ich habe nur ein paar Sätze ausgelassen, die mit dem Problem direkt nichts
 zu tun haben.]{.footnote}

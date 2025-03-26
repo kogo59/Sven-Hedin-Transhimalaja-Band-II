@@ -522,10 +522,5 @@ Leb’ wohl und Dank für gute Wacht!
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0040]: [*Kruke*: vergleiche [Kruke](https://de.wikipedia.org/wiki/Kruke_(Gef%C3%A4%C3%9F))]{.footnote}

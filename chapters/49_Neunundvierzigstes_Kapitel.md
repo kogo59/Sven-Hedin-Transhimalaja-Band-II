@@ -476,13 +476,9 @@ betreten!
 :::: {.wrap-70 .break-before }
 ![263. Die alte Nonne in Janggo-gumpa am Manasarovar. <small>Skizze des Verfassers.</small>](Transhimalaja_Band_II_152_263.jpg "263. Die alte Nonne in Janggo-gumpa am Manasarovar. Skizze des Verfassers."){#b0152_263}
 ::::
+
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0140]: [*Langak-tso*: vergleiche [Rakshastal](https://de.wikipedia.org/wiki/Rakshastal)]{.footnote}
 

@@ -408,10 +408,5 @@ allermeisten. Das gewaltige Gebirge im Süden würde ich wohl noch
 einmal überschreiten können.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0340]: [*Mendong Gompa*: vergleiche [Tsochen-Mendong-Gompa](http://wikimapia.org/27373562/Tsochen-Mendong-Gompa)]{.footnote}

@@ -437,11 +437,6 @@ Größe der Wassermasse, die sich während eines Sommertags in die
 klaren Wellen des Tso-mavang ergießt, einen Begriff erhalten können.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0100]: [*Satledsch*: vergleiche [Satluj](https://de.wikipedia.org/wiki/Satluj)]{.footnote}
 

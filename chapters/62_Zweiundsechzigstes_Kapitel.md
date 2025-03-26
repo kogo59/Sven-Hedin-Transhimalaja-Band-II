@@ -406,11 +406,6 @@ ich mein Ziel erreichen könnte? Aber immer noch sah ich sie im Geiste
 verirrt und verzweifelt auf den öden Ebenen im Norden umherstreifen.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^260]: [*Sera*: vergleiche [Sera](https://de.wikipedia.org/wiki/Sera)]{.footnote}
 

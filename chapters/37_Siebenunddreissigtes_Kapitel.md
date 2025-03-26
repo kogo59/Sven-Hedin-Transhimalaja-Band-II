@@ -490,11 +490,6 @@ Am Ufer lag mein Boot bereit, denn der 8. Mai war zu einem
 Ausfluge auf dem Amtschok-tso ausersehen worden.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0020]: [*Targo-gangri*: vergleiche [Targo Ri](http://wikimapia.org/9943380/Targo-Ri-Boiboikarwo-6566-m)]{.footnote}
 

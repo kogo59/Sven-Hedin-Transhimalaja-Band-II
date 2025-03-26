@@ -359,11 +359,6 @@ mit mir kommen. Die übrigen sollten unter Tserings Befehl unsere
 Rückkehr hier erwarten.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0070]: [*Brahmaputra*: vergleiche [Brahmaputra](https://de.wikipedia.org/wiki/Brahmaputra)]{.footnote}
 

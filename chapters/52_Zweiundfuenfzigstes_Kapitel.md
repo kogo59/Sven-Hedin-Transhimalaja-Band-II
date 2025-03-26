@@ -300,11 +300,6 @@ Worten aus:
 ::::
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0170]: [*Urga*: vergleiche [Ulaanbaatar](https://de.wikipedia.org/wiki/Ulaanbaatar)]{.footnote}
 

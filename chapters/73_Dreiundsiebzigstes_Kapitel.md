@@ -636,11 +636,6 @@ Solange ich lebe, werden meine stolzesten Erinnerungen
 wie Königsadler auf den öden, kahlen Felsen des Transhimalaja horsten. —
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0360]: [*Pater Huc*: vergleiche [Évariste Régis Huc](https://de.wikipedia.org/wiki/%C3%89variste_R%C3%A9gis_Huc)]{.footnote}
 

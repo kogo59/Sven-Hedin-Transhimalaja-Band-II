@@ -413,11 +413,6 @@ beider Bergwände — es klang, als ob mich drei Hunde bewachten. Und
 die ewigen Sterne funkelten wie früher über unseren einsamen Zelten.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^300]: [*Nordenskiöld*: vergleiche [Adolf Erik Nordenskiöld](https://de.wikipedia.org/wiki/Adolf_Erik_Nordenski%C3%B6ld)]{.footnote}
 

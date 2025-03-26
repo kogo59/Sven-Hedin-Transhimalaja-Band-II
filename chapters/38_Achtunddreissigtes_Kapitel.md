@@ -555,10 +555,5 @@ nach dem Abendessen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0039]: [*Kiang*: vergleiche [Kiang](https://de.wikipedia.org/wiki/Kiang)]{.footnote}

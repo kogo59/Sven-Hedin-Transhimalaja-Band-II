@@ -415,11 +415,6 @@ allerverrücktesten Tanz vor (Abb. [302](ch025.xhtml#b0232_302), [303](ch025.xht
 Wir waren wieder oben auf dem „Dach der Welt“, und das ganze öde Tibet lag vor uns.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^221]: [*Grant Duff*: vergleiche [Evelyn Mountstuart Grant Duff](https://de.wikipedia.org/wiki/Evelyn_Mountstuart_Grant_Duff)]{.footnote}
 

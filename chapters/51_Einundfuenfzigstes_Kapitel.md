@@ -431,11 +431,6 @@ Ansicht nach auf Irrwegen gehen, aber einen so starken Glauben besitzen,
 daß er Berge versetzen kann!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0160]: [*Tartschen*: vergleiche [Darchen](https://de.wikipedia.org/wiki/Darchen)]{.footnote}
 

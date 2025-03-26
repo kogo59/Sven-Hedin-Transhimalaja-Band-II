@@ -487,11 +487,6 @@ die er als Einführung bei den Nomaden, als Einleitung zum Appell an
 ihre Freigebigkeit benutzte.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0010]: [*Ngangtse-tso*: vergleiche [Ngangzi Co](https://www.openstreetmap.org/relation/6011614#map=9/31.2152/87.5871)]{.footnote}
 

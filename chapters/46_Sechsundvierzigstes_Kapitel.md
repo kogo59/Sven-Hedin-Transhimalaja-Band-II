@@ -450,8 +450,3 @@ gelegt. Die Falken sind verstummt, und die Tauben haben ihre Nester
 aufgesucht.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

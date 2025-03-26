@@ -436,11 +436,6 @@ zu Fuß, stumm, gebeugt und niedergeschlagen fort und waren bald hinter
 den Hügeln verschwunden.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0080]: [*Almora*: vergleiche [Almora](https://en.wikipedia.org/wiki/Almora)]{.footnote}
 

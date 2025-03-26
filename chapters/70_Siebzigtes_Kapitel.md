@@ -434,11 +434,6 @@ Türkiswogen des Sees erhöbe, ungefähr wie eine kleine Felseninsel in
 der Osthälfte des Sees erscheinen würde.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0330]: [*Kore*: vergleiche [Pradakshina](https://de.wikipedia.org/wiki/Pradakshina)]{.footnote}
 

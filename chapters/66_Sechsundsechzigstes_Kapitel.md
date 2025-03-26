@@ -452,8 +452,3 @@ neue Anzüge erhalten, damit ich mit meinem zerlumpten wie der ärmste
 und geringste unserer ganzen Gesellschaft aussähe!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

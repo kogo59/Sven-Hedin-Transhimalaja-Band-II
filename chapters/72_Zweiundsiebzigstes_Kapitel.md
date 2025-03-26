@@ -278,11 +278,6 @@ Verfügung stehenden Raumes erreicht, und — mein Verleger wird
 ungeduldig!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0350]: [*Burrard*: vergleiche [Sidney Gerald Burrard](https://en.wikipedia.org/wiki/Sidney_Gerald_Burrard)]{.footnote}
 

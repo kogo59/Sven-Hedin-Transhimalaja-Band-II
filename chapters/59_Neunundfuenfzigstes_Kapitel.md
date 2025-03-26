@@ -207,10 +207,5 @@ wärmer als meine Kaschmirstiefel, die ohne Erbarmen verbrannt wurden.
 ::::
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^240]: [*Schemen-tso*: vergleiche [Lumajangdong Co](https://en.wikipedia.org/wiki/Lumajangdong_Co)]{.footnote}

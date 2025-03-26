@@ -474,8 +474,3 @@ heiligen Sees“, und mit Wehmut lauschte ich dem verrauschenden Liede der
 Uferbrandung in dem abflauenden Winde.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -394,8 +394,3 @@ geschlachtet; nur die schlechtesten sollten verzehrt und, sobald sich
 Gelegenheit bot, durch neue ersetzt werden.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}

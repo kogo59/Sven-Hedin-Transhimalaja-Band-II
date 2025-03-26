@@ -438,11 +438,6 @@ erinnern wollen, daß meiner eine Niederlage warte und daß ich diesmal
 den Bogen zu stark gespannt habe!
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^210]: [*Schahidullah*: vergleiche [Xaidullah](https://en.wikipedia.org/wiki/Xaidulla)]{.footnote}
 
