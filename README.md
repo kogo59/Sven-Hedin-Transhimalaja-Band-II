@@ -1,6 +1,6 @@
 # Transhimalaja. Zweiter Band.
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/13177792/194169374-35571d1c-faa9-403c-a00d-ee6892b3332f.jpg">
+<img align="right" width="200"  src="https://user-images.githubusercontent.com/13177792/194169374-35571d1c-faa9-403c-a00d-ee6892b3332f.jpg">
 
 This is a git repository of the source files for the book
 "Transhimalaja von Sven Hedin. Zweiter Band."
